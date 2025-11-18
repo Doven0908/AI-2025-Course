@@ -1,0 +1,1178 @@
+{
+    "data": [
+        {
+            "qa_pairs": [
+                {
+                    "context": "No context provided",
+                    "question": "When is dbz super episode 119 first coming out on air?",
+                    "short_answers": [
+                        "December 10, 2017"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "When is dbz super episode 119 coming out on air in America?",
+                    "short_answers": [
+                        "July 13, 2019"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "When is DBZ Super episode 119 coming out in Japan?",
+                    "short_answers": [
+                        "December 10, 2017"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "When is DBZ Super episode 119 coming out in the US?",
+                    "short_answers": [
+                        "July 13, 2019"
+                    ],
+                    "wikipage": null
+                }
+            ],
+            "wikipages": [
+                {
+                    "title": "List of Dragon Ball Super episodes",
+                    "url": "https://en.wikipedia.org/wiki/List%20of%20Dragon%20Ball%20Super%20episodes"
+                }
+            ],
+            "annotations": [
+                {
+                    "knowledge": [
+                        {
+                            "content": "Dragon Ball Super is a Japanese anime television series produced by Toei Animation that began airing on July 5, 2015 on Fuji TV.",
+                            "wikipage": "List of Dragon Ball Super episodes"
+                        }
+                    ],
+                    "long_answer": "The 119th episode of Dragon Ball Super was first released in Japan on December 10, 2017 and it came out in America on July 13, 2019."
+                },
+                {
+                    "knowledge": [
+                        {
+                            "content": "Dragon Ball Super is a Japanese anime television series produced by Toei Animation that began airing on July 5, 2015 on Fuji TV.[1]",
+                            "wikipage": "List of Dragon Ball Super episodes"
+                        }
+                    ],
+                    "long_answer": "Dragon Ball Super is a Japanese anime television series produced by Toei Animation that began airing on July 5, 2015 on Fuji TV. Super Episode 119 first came out on air and aired in Japan on December 10, 2017. Super Episode 119 came out on air in the United States of America on July 13, 2019."
+                }
+            ],
+            "sample_id": "-8176622829765293104",
+            "question": "When is dbz super episode 119 coming out?",
+            "docs": [
+                {
+                    "id": "18748924",
+                    "title": "Dragon Ball Super",
+                    "text": "April 1, 2018. According to Amazon Japan, the final Blu-ray set indicated the series' end at episode 131. The series ended on March 25, 2018, with the conclusion of the \"Universe Survival Saga\". Fuji TV stated that no definite plans were made to either continue the series at a later date or discontinue it entirely. \"Dragon Ball Super\" received an English-language dub that premiered on the Toonami channel in Southeast Asia and India on January 21, 2017. This dub is produced by Los Angeles based Bang Zoom! Entertainment for the Asian market. A sneak preview of the English dub's first",
+                    "score": 0.716796875,
+                    "summary": "Irrelevant.",
+                    "extraction": "Irrelevant. The passage talks about the end of Dragon Ball Super and doesn't mention episode 119."
+                }
+            ],
+            "answer": "Dragon Ball Super is a Japanese anime television series produced by Toei Animation that began airing on July 5, 2015 on Fuji TV. Super Episode 119 first came out on air and aired in Japan on December 10, 2017. Super Episode 119 came out on air in the United States of America on July 13, 2019.",
+            "openai_answer": "Dragon Ball Super Episode 119 already aired on **December 10, 2017**. If you're looking for new episodes or updates related to Dragon Ball Super, as of now, the anime series has been on hiatus after Episode 131, which aired in March 2018. Any continuation, such as a new season or arc, has not been officially confirmed. Fans can keep an eye on announcements from Toei Animation for any updates about Dragon Ball Super's return.",
+            "openai_time": 3.2442519664764404,
+            "rag_answer": "\"Dragon Ball Super\" episode 119 originally aired during its initial run, which concluded with episode 131 on March 25, 2018. Since the series finale had already aired, episode 119 was released as part of this run prior to the finale, likely in late 2017 or early 2018. Without specific air dates for each episode, it's clear that episode 119 has already been released.",
+            "rag_time": 1.5679280757904053,
+            "output": "Dragon Ball Super episode 119 came out on March 25, 2018 [1].",
+            "intermediate": [
+                "[Retrieval]",
+                "Dragon Ball Super episode 119 came out on March 25, 2018."
+            ],
+            "selfrag_time": 41.24803280830383,
+            "self_rag_answer": "Dragon Ball Super episode 119 came out on March 25, 2018 [1].",
+            "openai_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 0.6,
+                "factual_correctness(mode=f1)": 0.18
+            },
+            "rag_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 0.5714285714285714,
+                "factual_correctness(mode=f1)": 0.43
+            },
+            "self_rag_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 0.0,
+                "factual_correctness(mode=f1)": 0.0
+            },
+            "openai_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.6666666666666666,
+                0.0,
+                0.0,
+                0.3333333333333333
+            ],
+            "rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                0.3333333333333333,
+                0.0
+            ],
+            "self_rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.6666666666666666,
+                1.0
+            ]
+        },
+        {
+            "qa_pairs": [
+                {
+                    "context": "In some episodes, a guest character was essential to the plot. Del's ex-fianc\u00e9e Pauline (Jill Baker) dominated Del's libido in \"The Second Time Around\", prompting Rodney and Grandad to leave. In \"Who Wants to Be a Millionaire\", Del's old business partner Jumbo Mills (Nick Stringer) wanted Del to return to Australia with him and restore their partnership, forcing Del to make a decision. An attempt by Lennox (Vas Blackwood) to rob a local supermarket set-up the \"hostage\" situation in \"The Longest Night\". Del and Rodney spent the whole of \"Tea for Three\" battling each other for the affections of Trigger's niece Lisa (Gerry Cowper). Abdul (Tony Anholt) in \"To Hull and Back\" and Arnie (Philip McGough) in \"Chain Gang\" were responsible for setting up dubious enterprises involving the Trotters in their respective episodes. Tony Angelino (Philip Pope), the singing dustman with a speech impediment, was the key to the humour and the storyline of \"Stage Fright\" and EastEnders actor Derek Martin guest starred in Fatal Extraction.",
+                    "question": "Who played tony angelino in only fools and horses?",
+                    "short_answers": [
+                        "Philip Pope",
+                        "Philip R. J. Pope"
+                    ],
+                    "wikipage": "Only Fools and Horses"
+                },
+                {
+                    "context": "Del's nemesis from his school days, corrupt policeman DCI Roy Slater (played by Jim Broadbent), made three appearances, in \"May The Force Be With You\", \"To Hull and Back\" and \"Class of '62\". Feared local villains, the Driscoll Brothers (Roy Marsden and Christopher Ryan) featured once, in \"Little Problems\", but were mentioned in two previous episodes (\"Video Nasty\" and \"The Frog's Legacy\"), and are important in the story of \"The Green Green Grass\". A grown-up Damien (Douglas Hodge) appeared in \"Heroes and Villains\". Rodney and Mickey's friends, the smooth-talking Jevon (Steven Woodcock) and then, briefly, Chris (Tony Marshall), a ladies' hairdresser, featured sporadically during the sixth and seventh series and the intervening Christmas specials. The two-part 1991 Christmas special, \"Miami Twice\", saw Richard Branson and Barry Gibb make cameo appearances. Mike Read appeared as himself, hosting an episode of \"Top Of The Pops\", in \"It's Only Rock and Roll\" and Jonathan Ross appeared as himself in \"If They Could See Us Now\".",
+                    "question": "Who played tony driscoll in only fools and horses?",
+                    "short_answers": [
+                        "Christopher Ryan",
+                        "Christopher Papazoglou"
+                    ],
+                    "wikipage": "Only Fools and Horses"
+                }
+            ],
+            "wikipages": [
+                {
+                    "title": "Little Problems",
+                    "url": "https://en.wikipedia.org/wiki/Little%20Problems"
+                },
+                {
+                    "title": "Only Fools and Horses",
+                    "url": "https://en.wikipedia.org/wiki/Only%20Fools%20and%20Horses"
+                },
+                {
+                    "title": "List of Only Fools and Horses episodes",
+                    "url": "https://en.wikipedia.org/wiki/List%20of%20Only%20Fools%20and%20Horses%20episodes"
+                },
+                {
+                    "title": "Only Fools on Horses",
+                    "url": "https://en.wikipedia.org/wiki/Only%20Fools%20on%20Horses"
+                }
+            ],
+            "annotations": [
+                {
+                    "knowledge": [],
+                    "long_answer": "Philip R. J. Pope played Tony Angelino in \"Only Fools and Horses\" and Christopher Ryan born Christopher Papazoglou played Tony Driscoll in \"Only Fools and Horses\" in one episode."
+                },
+                {
+                    "knowledge": [
+                        {
+                            "content": "Only Fools and Horses.... is a British television sitcom created and written by John Sullivan.",
+                            "wikipage": "Only Fools and Horses"
+                        },
+                        {
+                            "content": "Philip R. J. Pope is a British composer and actor.",
+                            "wikipage": "Philip Pope"
+                        },
+                        {
+                            "content": "Christopher Ryan (born Christopher Papazoglou; 25 January 1950)[citation needed] is an English actor best known for his roles as Mike in the BBC comedy series The Young Ones, Dave Hedgehog in the BBC comedy series Bottom, Tony Driscoll in the BBC comedy series Only Fools and Horses, and as Edina Monsoon's ex-husband Marshall Turtle in the BBC sitcom Absolutely Fabulous.",
+                            "wikipage": "Christopher Ryan"
+                        }
+                    ],
+                    "long_answer": "Only Fools and Horses.... is a British television sitcom created and written by John Sullivan. Philip R. J. Pope, a British composer and actor, played the role of Tony Angelino. English actor Christopher Ryan, born Christopher Papazoglou, played the roled of Tony Driscoll."
+                }
+            ],
+            "sample_id": "-7757809414567741478",
+            "question": "Who played tony in only fools and horses?",
+            "docs": [
+                {
+                    "id": "1633361",
+                    "title": "Only Fools and Horses",
+                    "text": "dubious enterprises involving the Trotters in their respective episodes. Tony Angelino (Philip Pope), the singing dustman with a speech impediment, was the key to the humour and the storyline of \"Stage Fright\" and EastEnders actor Derek Martin guest starred in Fatal Extraction. Del's nemesis from his school days, corrupt policeman DCI Roy Slater (played by Jim Broadbent), made three appearances, in \"May The Force Be With You\", \"To Hull and Back\" and \"Class of '62\". Feared local villains, the Driscoll Brothers (Roy Marsden and Christopher Ryan) featured once, in \"Little Problems\", but were mentioned in two previous episodes (\"Video Nasty\"",
+                    "score": 0.76416015625,
+                    "summary": "Tony Angelino was played by Philip Pope in Only Fools and Horses.",
+                    "extraction": "Philip Pope played Tony in \"Stage Fright\" episode of Only Fools and Horses."
+                }
+            ],
+            "answer": "Only Fools and Horses.... is a British television sitcom created and written by John Sullivan. Philip R. J. Pope, a British composer and actor, played the role of Tony Angelino. English actor Christopher Ryan, born Christopher Papazoglou, played the roled of Tony Driscoll.",
+            "openai_answer": "In \"Only Fools and Horses,\" the character Tony Driscoll was played by actor Christopher Ryan. Tony Driscoll appears in the later episodes of the series.",
+            "openai_time": 1.6178500652313232,
+            "rag_answer": "The context provided does not mention a character named \"Tony\" in \"Only Fools and Horses.\" However, it does talk about Tony Marshall as Nelson, the bartender and confidant, and Rodney's friend Chris. If \"Tony\" refers to the actor Tony Marshall, he did not play a character named \"Tony\" in \"Only Fools and Horses.\" If you're referring to Rodney Trotter, he was played by Nicholas Lyndhurst.",
+            "rag_time": 1.6616039276123047,
+            "output": "In the British sitcom Only Fools and Horses, the character of Tony Angelino, a singing dustman with a speech impediment, was played by Philip Pope [1].",
+            "intermediate": [
+                "[Retrieval]",
+                "In the British sitcom Only Fools and Horses, the character of Tony Angelino, a singing dustman with a speech impediment, was played by Philip Pope."
+            ],
+            "selfrag_time": 39.56962466239929,
+            "self_rag_answer": "In the British sitcom Only Fools and Horses, the character of Tony Angelino, a singing dustman with a speech impediment, was played by Philip Pope [1].",
+            "openai_answer_ragas_evaluation": {
+                "context_recall": 0.3333333333333333,
+                "faithfulness": 0.0,
+                "factual_correctness(mode=f1)": 0.22
+            },
+            "rag_answer_ragas_evaluation": {
+                "context_recall": 0.3333333333333333,
+                "faithfulness": 0.0,
+                "factual_correctness(mode=f1)": 0.0
+            },
+            "self_rag_answer_ragas_evaluation": {
+                "context_recall": 0.3333333333333333,
+                "faithfulness": 0.75,
+                "factual_correctness(mode=f1)": 0.5
+            },
+            "openai_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.6666666666666666,
+                0.6666666666666666
+            ],
+            "rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.6666666666666666,
+                0.6666666666666666,
+                1.0,
+                1.0
+            ],
+            "self_rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.6666666666666666,
+                1.0
+            ]
+        },
+        {
+            "qa_pairs": [
+                {
+                    "context": "\"Stayin' Alive\" is a disco song written and performed by the Bee Gees from the \"Saturday Night Fever\" motion picture soundtrack. The song was released on 13 December 1977 as the second single from the \"Saturday Night Fever\" soundtrack. The band co-produced the song with Albhy Galuten and Karl Richardson. It is one of the Bee Gees' signature songs. In 2004, \"Stayin' Alive\" was placed at number 189 on the list of Rolling Stone's 500 Greatest Songs of All Time. In 2004, it ranked No. 9 on AFI's 100 Years...100 Songs survey of top tunes in American cinema. In a UK television poll on ITV in December 2011 it was voted fifth in \"\"The Nation's Favourite Bee Gees Song\"\".",
+                    "question": "When did the song stayin alive by the Bee Gees come out?",
+                    "short_answers": [
+                        "13 December 1977"
+                    ],
+                    "wikipage": "Stayin' Alive"
+                },
+                {
+                    "context": "No context provided",
+                    "question": "When did the song stayin alive (featuring Q-York) come out?",
+                    "short_answers": [
+                        "November 19, 2011"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "When did the song stayin alive by Cursive come out?",
+                    "short_answers": [
+                        "March 4, 2003"
+                    ],
+                    "wikipage": null
+                }
+            ],
+            "wikipages": [
+                {
+                    "title": "Staying Alive",
+                    "url": "https://en.wikipedia.org/wiki/Staying%20Alive"
+                },
+                {
+                    "title": "Stayin' Alive",
+                    "url": "https://en.wikipedia.org/wiki/Stayin%27%20Alive"
+                }
+            ],
+            "annotations": [
+                {
+                    "knowledge": [],
+                    "long_answer": "The song Stayin Alive by the Bee Gees, was released on 13 December 1977.  The song stayin alive by Cursive came out on March 4, 2003 and the song by the same name featuring Q-York, came out November 19, 2011. "
+                },
+                {
+                    "knowledge": [
+                        {
+                            "content": "The Bee Gees were a music group formed in 1958, featuring brothers Barry, Robin, and Maurice Gibb.",
+                            "wikipage": "Bee Gees"
+                        },
+                        {
+                            "content": "The Ugly Organ is the fourth studio album by American rock band Cursive, released on March 4, 2003, through Saddle Creek Records.",
+                            "wikipage": "The Ugly Organ"
+                        },
+                        {
+                            "content": "The closing track, \"Staying Alive\" is ten minutes long; it begins with guitar and cello parts, eventually leading to white noise and a choir repeating the phrase \"the worse is over\".",
+                            "wikipage": "Staying Alive"
+                        },
+                        {
+                            "content": "Stay Alive is the sixth studio album by Filipina singer Nina, released in the Philippines on November 19, 2011 by Universal Records.",
+                            "wikipage": "Stay Alive (album)"
+                        },
+                        {
+                            "content": "The following track, \"Staying Alive\", was written and produced by Jay R Sillona and Keith Martin under Sillona's own recording label, Homeworkz Records. The song uses Auto-Tune, and features rap verses by Q-York and additional back-up vocals by beauty queen Krista Kleiner, who was Sillona's partner at the time.",
+                            "wikipage": "Staying Alive"
+                        }
+                    ],
+                    "long_answer": "There are a number of songs entitled Stayin' Alive or Staying Alive. Music group The Bee Gees' song Stayin' Alive was released on 13 December 1977. Filipina singer Nina's song Staying Alive, featuring rap verses by Q-York, came out on November 19, 2011. American rock band Cursive's song Staying Alive came out on March 4, 2003."
+                }
+            ],
+            "sample_id": "-2397621688044860964",
+            "question": "When did the song stayin alive come out?",
+            "docs": [
+                {
+                    "id": "5313112",
+                    "title": "Stayin' Alive",
+                    "text": "Stayin' Alive \"Stayin' Alive\" is a disco song written and performed by the Bee Gees from the \"Saturday Night Fever\" motion picture soundtrack. The song was released on 13 December 1977 as the second single from the \"Saturday Night Fever\" soundtrack. The band co-produced the song with Albhy Galuten and Karl Richardson. It is one of the Bee Gees' signature songs. In 2004, \"Stayin' Alive\" was placed at number 189 on the list of Rolling Stone's 500 Greatest Songs of All Time. In 2004, it ranked No. 9 on AFI's 100 Years...100 Songs survey of top tunes in American cinema.",
+                    "score": 0.79345703125,
+                    "summary": "The song \"Stayin' Alive\" was released on December 13, 1977, as the second single from the \"Saturday Night Fever\" soundtrack.",
+                    "extraction": "\"Stayin' Alive\" was released on 13 December 1977 as the second single from the \"Saturday Night Fever\" soundtrack."
+                }
+            ],
+            "answer": "There are a number of songs entitled Stayin' Alive or Staying Alive. Music group The Bee Gees' song Stayin' Alive was released on 13 December 1977. Filipina singer Nina's song Staying Alive, featuring rap verses by Q-York, came out on November 19, 2011. American rock band Cursive's song Staying Alive came out on March 4, 2003.",
+            "openai_answer": "The song *\"Stayin' Alive\"* by the Bee Gees was released on **December 13, 1977** as a single. It was prominently featured on the soundtrack of the film *Saturday Night Fever*, which came out later that same year. The song became iconic for its disco groove and is one of the Bee Gees' most famous hits.",
+            "openai_time": 2.699131965637207,
+            "rag_answer": "The song \"Stayin' Alive\" by the Bee Gees was released on 13 December 1977.",
+            "rag_time": 0.9772882461547852,
+            "output": "The song \"Stayin' Alive\" was released on December 13, 1977, as the second single from the Saturday Night Fever soundtrack [1].",
+            "intermediate": [
+                "[Retrieval]",
+                "The song \"Stayin' Alive\" was released on December 13, 1977, as the second single from the Saturday Night Fever soundtrack."
+            ],
+            "selfrag_time": 51.9974205493927,
+            "self_rag_answer": "The song \"Stayin' Alive\" was released on December 13, 1977, as the second single from the Saturday Night Fever soundtrack [1].",
+            "openai_answer_ragas_evaluation": {
+                "context_recall": 0.25,
+                "faithfulness": 0.6,
+                "factual_correctness(mode=f1)": 0.0
+            },
+            "rag_answer_ragas_evaluation": {
+                "context_recall": 0.25,
+                "faithfulness": 1.0,
+                "factual_correctness(mode=f1)": 0.57
+            },
+            "self_rag_answer_ragas_evaluation": {
+                "context_recall": 0.25,
+                "faithfulness": 1.0,
+                "factual_correctness(mode=f1)": 0.29
+            },
+            "openai_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0
+            ],
+            "self_rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0
+            ]
+        },
+        {
+            "qa_pairs": [
+                {
+                    "context": "No context provided",
+                    "question": "Where is There Will be Blood filmed?",
+                    "short_answers": [
+                        "Los Angeles,  CA, Marfa, TX."
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "Where does the plot of There Will be Blood take place?",
+                    "short_answers": [
+                        "Little Boston, CA."
+                    ],
+                    "wikipage": null
+                }
+            ],
+            "wikipages": [
+                {
+                    "title": "There Will Be Blood",
+                    "url": "https://en.wikipedia.org/wiki/There%20Will%20Be%20Blood"
+                }
+            ],
+            "annotations": [
+                {
+                    "knowledge": [
+                        {
+                            "content": "There Will Be Blood is a 2007 American epic period drama film written and directed by Paul Thomas Anderson, loosely based on the 1927 novel Oil! by Upton Sinclair",
+                            "wikipage": "There Will Be Blood"
+                        }
+                    ],
+                    "long_answer": "The American epic period drama film, There Will be Blood was filmed in Los Angeles, CA, Marfa, TX. The story itself takes place in Little Boston, CA."
+                },
+                {
+                    "knowledge": [
+                        {
+                            "content": "There Will Be Blood is a 2007 American epic period drama film written and directed by Paul Thomas Anderson, loosely based on the 1927 novel Oil! by Upton Sinclair.[4]",
+                            "wikipage": "There Will Be Blood"
+                        }
+                    ],
+                    "long_answer": "There Will Be Blood is a 2007 American epic period drama film written and directed by Paul Thomas Anderson, loosely based on the 1927 novel Oil! by Upton Sinclair. The plot takes place in Little Boston, CA. There Will Be Blood was filmed in Los Angeles, CA and Marfa, TX."
+                }
+            ],
+            "sample_id": "-2062683767584007187",
+            "question": "Where does there will be blood take place?",
+            "docs": [
+                {
+                    "id": "6509953",
+                    "title": "There Will Be Blood",
+                    "text": "There Will Be Blood There Will Be Blood is a 2007 American drama film written and directed by Paul Thomas Anderson. It stars Daniel Day-Lewis and Paul Dano. The film was inspired by Upton Sinclair's novel \"Oil!\" It tells the story of a silver miner-turned-oilman (Day-Lewis) on a ruthless quest for wealth during Southern California's oil boom of the late 19th and early 20th centuries. Kevin J. O'Connor, Ciar\u00e1n Hinds, and Dillon Freasier are also featured in the film. \"Fast Food Nation\" writer Eric Schlosser initially acquired the rights for the film from the Sinclair estate before Anderson took over",
+                    "score": 0.71875,
+                    "summary": "There Will Be Blood takes place in Southern California during the late 19th and early 20th centuries.",
+                    "extraction": "Southern California during the late 19th and early 20th centuries."
+                }
+            ],
+            "answer": "There Will Be Blood is a 2007 American epic period drama film written and directed by Paul Thomas Anderson, loosely based on the 1927 novel Oil! by Upton Sinclair. The plot takes place in Little Boston, CA. There Will Be Blood was filmed in Los Angeles, CA and Marfa, TX.",
+            "openai_answer": "\"There Will Be Blood\" is primarily set in the late 19th and early 20th centuries in Southern California. The film, which explores the early oil boom, takes place around a fictional town called Little Boston, which is depicted as being in a rural, undeveloped area of California. The settings reflect the desolate and burgeoning landscapes typical of the period's oil rush in the region.",
+            "openai_time": 2.1156198978424072,
+            "rag_answer": "\"There Will Be Blood\" takes place in Southern California, during the oil boom of the late 19th and early 20th centuries. However, it was filmed in the same area of Texas used by \"No Country for Old Men.\"",
+            "rag_time": 1.4525668621063232,
+            "output": "There Will Be Blood is a 2007 American epic drama film written and directed by Paul Thomas Anderson. The film stars Daniel Day-Lewis as a silver miner-turned-oilman on a ruthless quest for wealth during Southern California's oil boom of the late 19th and early 20th centuries [1].",
+            "intermediate": [
+                "[Retrieval]",
+                "There Will Be Blood is a 2007 American epic drama film written and directed by Paul Thomas Anderson.The film stars Daniel Day-Lewis as a silver miner-turned-oilman on a ruthless quest for wealth during Southern California's oil boom of the late 19th and early 20th centuries."
+            ],
+            "selfrag_time": 72.74849891662598,
+            "self_rag_answer": "There Will Be Blood is a 2007 American epic drama film written and directed by Paul Thomas Anderson. The film stars Daniel Day-Lewis as a silver miner-turned-oilman on a ruthless quest for wealth during Southern California's oil boom of the late 19th and early 20th centuries [1].",
+            "openai_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 0.4,
+                "factual_correctness(mode=f1)": 0.17
+            },
+            "rag_answer_ragas_evaluation": {
+                "context_recall": 0.3333333333333333,
+                "faithfulness": 0.6666666666666666,
+                "factual_correctness(mode=f1)": 0.0
+            },
+            "self_rag_answer_ragas_evaluation": {
+                "context_recall": 0.3333333333333333,
+                "faithfulness": 0.8571428571428571,
+                "factual_correctness(mode=f1)": 0.33
+            },
+            "openai_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                1.0
+            ],
+            "self_rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                0.0,
+                0.6666666666666666
+            ]
+        },
+        {
+            "qa_pairs": [
+                {
+                    "context": "No context provided",
+                    "question": "Who is the group that wrote the lyrics to the greatest showman?",
+                    "short_answers": [
+                        "Pasek and Paul"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "Who is the individual that wrote the lyrics to the greatest showman?",
+                    "short_answers": [
+                        "Benj Pasek and Justin Paul"
+                    ],
+                    "wikipage": null
+                }
+            ],
+            "wikipages": [
+                {
+                    "title": "The Greatest Showman",
+                    "url": "https://en.wikipedia.org/wiki/The%20Greatest%20Showman"
+                },
+                {
+                    "title": "The Greatest Showman (soundtrack)",
+                    "url": "https://en.wikipedia.org/wiki/The%20Greatest%20Showman%20%28soundtrack%29"
+                }
+            ],
+            "annotations": [
+                {
+                    "knowledge": [
+                        {
+                            "content": "The Greatest Showman is a 2017 American musical drama film directed by Michael Gracey in his directorial debut, written by Jenny Bicks and Bill Condon and starring Hugh Jackman, Zac Efron, Michelle Williams, Rebecca Ferguson, and Zendaya.",
+                            "wikipage": "The Greatest Showman"
+                        }
+                    ],
+                    "long_answer": "Benj Pasek and Justin Paul or just referred to as their last names, Pasek and Paul, wrote the lyrics to the song The Greatest Showman from the musical drama film by the same name. "
+                },
+                {
+                    "knowledge": [
+                        {
+                            "content": "The Greatest Showman is a 2017 American musical drama film directed by Michael Gracey in his directorial debut, written by Jenny Bicks and Bill Condon and starring Hugh Jackman, Zac Efron, Michelle Williams, Rebecca Ferguson, and Zendaya.",
+                            "wikipage": "The Greatest Showman"
+                        },
+                        {
+                            "content": "Featuring nine original songs from Benj Pasek and Justin Paul, the film was inspired by the story of P. T. Barnum's creation of Barnum's American Museum and the lives of its star attractions.",
+                            "wikipage": "The Greatest Showman"
+                        }
+                    ],
+                    "long_answer": "he Greatest Showman is a 2017 American musical drama film directed by Michael Gracey in his directorial debut, written by Jenny Bicks and Bill Condon and starring Hugh Jackman, Zac Efron, Michelle Williams, Rebecca Ferguson, and Zendaya. Featuring nine original songs from Benj Pasek and Justin Paul, the film was inspired by the story of P. T. Barnum's creation of Barnum's American Museum and the lives of its star attractions."
+                }
+            ],
+            "sample_id": "-9032410245268061158",
+            "question": "Who wrote the lyrics to the greatest showman?",
+            "docs": [
+                {
+                    "id": "18411205",
+                    "title": "The Greatest Showman",
+                    "text": "and Justin Paul wrote all the songs appearing in the film. The soundtrack album is produced by Justin Paul, Benj Pasek, Greg Wells, Kevin Weaver and Pete Ganbarg, featuring the eleven tracks performed by the cast. In the United Kingdom it became only the second album in 30 years to achieve 11 consecutive weeks at number 1. \"The Greatest Showman\" now draws level with Adele's \"21\" for the longest unbroken run at the UK summit in the last 30 years. The cast album is now at 910,000 combined units, according to the Official Charts Company, made up of 420,000 physical",
+                    "score": 0.7197265625,
+                    "summary": "Benj Pasek and Justin Paul wrote all the songs in The Greatest Showman.",
+                    "extraction": "Benj Pasek and Justin Paul wrote all the songs appearing in the film \"The Greatest Showman\"."
+                }
+            ],
+            "answer": "he Greatest Showman is a 2017 American musical drama film directed by Michael Gracey in his directorial debut, written by Jenny Bicks and Bill Condon and starring Hugh Jackman, Zac Efron, Michelle Williams, Rebecca Ferguson, and Zendaya. Featuring nine original songs from Benj Pasek and Justin Paul, the film was inspired by the story of P. T. Barnum's creation of Barnum's American Museum and the lives of its star attractions.",
+            "openai_answer": "The lyrics for \"The Greatest Showman\" were written by Benj Pasek and Justin Paul. They are a songwriting duo often referred to as Pasek and Paul and are known for their work on various musicals and films.",
+            "openai_time": 1.423508644104004,
+            "rag_answer": "The lyrics for \"The Greatest Showman\" were written by Justin Paul, along with Benj Pasek.",
+            "rag_time": 0.8939509391784668,
+            "output": "Justin Paul wrote the lyrics to the song \"The Greatest Show\" [1].",
+            "intermediate": [
+                "[Retrieval]",
+                "Justin Paul wrote the lyrics to the song \"The Greatest Show\"."
+            ],
+            "selfrag_time": 103.56640791893005,
+            "self_rag_answer": "Justin Paul wrote the lyrics to the song \"The Greatest Show\" [1].",
+            "openai_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 0.0,
+                "factual_correctness(mode=f1)": 0.18
+            },
+            "rag_answer_ragas_evaluation": {
+                "context_recall": 0.5,
+                "faithfulness": 0.0,
+                "factual_correctness(mode=f1)": 0.36
+            },
+            "self_rag_answer_ragas_evaluation": {
+                "context_recall": 0.5,
+                "faithfulness": 0.0,
+                "factual_correctness(mode=f1)": 0.0
+            },
+            "openai_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.3333333333333333,
+                0.0
+            ],
+            "rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.3333333333333333
+            ],
+            "self_rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0
+            ]
+        },
+        {
+            "qa_pairs": [
+                {
+                    "context": "No context provided",
+                    "question": "When did the South Korean show lie to me end?",
+                    "short_answers": [
+                        "2011-06-28"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "Lie to Me (stylized as Lie to me*) is an American crime drama television series. It originally ran on the Fox network from January 21, 2009 to January 31, 2011. In the show, Dr. Cal Lightman (Tim Roth) and his colleagues in The Lightman Group accept assignments from third parties (commonly local and federal law enforcement), and assist in investigations, reaching the truth through applied psychology: interpreting microexpressions, through the Facial Action Coding System, and body language. In May 2009, the show was renewed for a second season consisting of 13 episodes; season two premiered on September 28, 2009. On November 24, 2009, Fox ordered an extra nine episodes for season two, bringing the season order to 22 episodes.",
+                    "question": "When did the American show lie to me end?",
+                    "short_answers": [
+                        "January 31, 2011"
+                    ],
+                    "wikipage": "Lie to Me"
+                }
+            ],
+            "wikipages": [
+                {
+                    "title": "Lie to Me (2011 TV series)",
+                    "url": "https://en.wikipedia.org/wiki/Lie%20to%20Me%20%282011%20TV%20series%29"
+                },
+                {
+                    "title": "Lie with Me",
+                    "url": "https://en.wikipedia.org/wiki/Lie%20with%20Me"
+                },
+                {
+                    "title": "Lie to Me",
+                    "url": "https://en.wikipedia.org/wiki/Lie%20to%20Me"
+                }
+            ],
+            "annotations": [
+                {
+                    "knowledge": [],
+                    "long_answer": "The South Korean show \"Lie to Me\" ended on 2011-06-28. The American show \"Lie to Me\" ran on the Fox network from January 21, 2009 to January 31, 2011."
+                },
+                {
+                    "knowledge": [
+                        {
+                            "content": "Lie To Me (Korean: \ub0b4\uac8c \uac70\uc9d3\ub9d0\uc744 \ud574\ubd10) is a South Korean romantic drama starring Yoon Eun-hye, Kang Ji-hwan and Sung Joon.[1][2]",
+                            "wikipage": "Lie to Me (2011 TV series)"
+                        }
+                    ],
+                    "long_answer": "There are several shows with the name \"Lie to Me\". One \"Lie To Me\" is a South Korean romantic drama starring Yoon Eun-hye, Kang Ji-hwan and Sung Joon. The show ended on June 28, 2011. Another \"Lie to Me\" is an American crime drama television series. It originally ran on the Fox network from January 21, 2009 to January 31, 2011."
+                }
+            ],
+            "sample_id": "-8740256160840936877",
+            "question": "When did the show lie to me end?",
+            "docs": [
+                {
+                    "id": "12694170",
+                    "title": "Lie to Me",
+                    "text": "sets include deleted scenes and behind-the-scenes featurettes. The second season also includes \"Dr. Ekman's Blog\" and a gag reel. The third and final season was released on October 4, 2011. Lie to Me Lie to Me (stylized as Lie to me*) is an American crime drama television series. It originally ran on the Fox network from January 21, 2009 to January 31, 2011. In the show, Dr. Cal Lightman (Tim Roth) and his colleagues in The Lightman Group accept assignments from third parties (commonly local and federal law enforcement), and assist in investigations, reaching the truth through applied psychology: interpreting",
+                    "score": 0.751953125,
+                    "summary": "The show Lie to Me originally ran on Fox from January 21, 2009 to January 31, 2011, ending on that date.",
+                    "extraction": "The show Lie to Me originally ran on the Fox network from January 21, 2009 to January 31, 2011."
+                }
+            ],
+            "answer": "There are several shows with the name \"Lie to Me\". One \"Lie To Me\" is a South Korean romantic drama starring Yoon Eun-hye, Kang Ji-hwan and Sung Joon. The show ended on June 28, 2011. Another \"Lie to Me\" is an American crime drama television series. It originally ran on the Fox network from January 21, 2009 to January 31, 2011.",
+            "openai_answer": "The show *Lie to Me* ended on **January 31, 2011**, after running for three seasons.",
+            "openai_time": 0.9633018970489502,
+            "rag_answer": "\"Lie to Me\" ended on January 31, 2011. Fox officially canceled the show after three seasons on May 11, 2011.",
+            "rag_time": 2.0679163932800293,
+            "output": "Lie to Me is an American crime drama television series that aired on the Fox network from January 21, 2009 to January 31, 2011. The series was canceled on May 10, 2011, after three seasons [1].",
+            "intermediate": [
+                "[Retrieval]",
+                "Lie to Me is an American crime drama television series that aired on the Fox network from January 21, 2009 to January 31, 2011.The series was canceled on May 10, 2011, after three seasons."
+            ],
+            "selfrag_time": 49.64089632034302,
+            "self_rag_answer": "Lie to Me is an American crime drama television series that aired on the Fox network from January 21, 2009 to January 31, 2011. The series was canceled on May 10, 2011, after three seasons [1].",
+            "openai_answer_ragas_evaluation": {
+                "context_recall": 0.4,
+                "faithfulness": 1.0,
+                "factual_correctness(mode=f1)": 0.2
+            },
+            "rag_answer_ragas_evaluation": {
+                "context_recall": 0.4,
+                "faithfulness": 0.5,
+                "factual_correctness(mode=f1)": 0.22
+            },
+            "self_rag_answer_ragas_evaluation": {
+                "context_recall": 0.4,
+                "faithfulness": 0.75,
+                "factual_correctness(mode=f1)": 0.5
+            },
+            "openai_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0
+            ],
+            "rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                0.3333333333333333
+            ],
+            "self_rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                0.6666666666666666
+            ]
+        },
+        {
+            "qa_pairs": [
+                {
+                    "context": "No context provided",
+                    "question": "Who plays Evan \"Buck\" Buckley on the tv show 9-1-1?",
+                    "short_answers": [
+                        "Oliver Stark"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "On May 14, 2018, it was announced that Jennifer Love Hewitt would join the main cast in season 2, replacing Britton, as Maddie Buckley, Buck's sister and the new 9-1-1 operator. On May 23, 2018, Fox announced that Ryan Guzman would be joining the second season of the series as new firefighter Eddie Diaz. On June 4, 2018, it was announced that Corinne Massiah and Marcanthonnee Jon Reis, who play May and Harry Grant, had been promoted, from their recurring roles in season 1, to series regulars for season 2. Gavin McHugh, who plays Eddie's son Christopher, was promoted to a series regular in Season 3, after recurring in Season 2.",
+                    "question": "Who plays Madeline \"Maddie\" Buckley Kendall on the tv show 9-1-1?",
+                    "short_answers": [
+                        "Jennifer Love Hewitt"
+                    ],
+                    "wikipage": "9-1-1 (TV series)"
+                }
+            ],
+            "wikipages": [
+                {
+                    "title": "List of 9-1-1 characters",
+                    "url": "https://en.wikipedia.org/wiki/List%20of%209-1-1%20characters"
+                },
+                {
+                    "title": "9-1-1 (TV series)",
+                    "url": "https://en.wikipedia.org/wiki/9-1-1%20%28TV%20series%29"
+                }
+            ],
+            "annotations": [
+                {
+                    "knowledge": [
+                        {
+                            "content": "9\u20131\u20131 is an American procedural television series created by Ryan Murphy,[3] Brad Falchuk, and Tim Minear for the Fox Broadcasting Company.",
+                            "wikipage": "9-1-1 (TV series)"
+                        }
+                    ],
+                    "long_answer": "9\u20131\u20131 is an American procedural television series created by Ryan Murphy, Brad Falchuk, and Tim Minear for the Fox Broadcasting Company. It stars Oliver Stark as Evan \"Buck\" Buckley and Jennifer Love Hewitt as Madeline Buckley Kendall."
+                },
+                {
+                    "knowledge": [
+                        {
+                            "content": "9\u20131\u20131 is an American procedural television series created by Ryan Murphy,[3] Brad Falchuk, and Tim Minear for the Fox Broadcasting Company. The series follows the lives of Los Angeles first responders: police officers, paramedics, firefighters, and dispatchers.",
+                            "wikipage": "9-1-1 (TV series)"
+                        },
+                        {
+                            "content": "Oliver Stark as Evan \"Buck\" Buckley, firefighter",
+                            "wikipage": "9-1-1 (TV series)"
+                        },
+                        {
+                            "content": "The series premiered on January 3, 2018. In May 2021, the series was renewed for a fifth season which is set to premiere on September 20, 2021.[9][10]",
+                            "wikipage": "9-1-1 (TV series)"
+                        }
+                    ],
+                    "long_answer": "9\u20131\u20131 is an American procedural television series that follows the lives of Los Angeles first responders, police officers, paramedics, firefighters, and dispatchers. Oliver Stark plays the role of Evan \"Buck\" Buckley one of the firefighter's and Jennifer Love Hewitt, who joined the cast in the second season, play's the role of Maddie Buckley, Buck's sister and the new 9-1-1 operator. The series premiered on January 3, 2018, and will premiere it's 5th season in September 2021. "
+                }
+            ],
+            "sample_id": "2514325043916901100",
+            "question": "Who plays buck on the tv show 9-1-1?",
+            "docs": [
+                {
+                    "id": "19206622",
+                    "title": "Oliver Stark",
+                    "text": "Alexander's short film \"Follow\" for the UK Film Council. Stark then went on to have guest roles on iconic British shows \"Luther\" and \"Casualty\". Stark then had a number of film roles and other TV roles before starring as series regular, Ryder, in AMC's martial arts-based drama \"Into the Badlands\" in 2015. Stark is currently a series regular on the Fox drama, \"9-1-1\", and plays young firefighter Evan \u201cBuck\u201d Buckley. Oliver Stark Oliver Stark (born 27 June 1991) is a British actor. He is best known for his series regular roles as Evan \u201cBuck\u201d Buckley in \"9-1-1\" on Fox and",
+                    "score": 0.73974609375,
+                    "summary": "Oliver Stark plays Buck on the TV show \"9-1-1\".",
+                    "extraction": "Oliver Stark plays Buck on the TV show 9-1-1."
+                }
+            ],
+            "answer": "9\u20131\u20131 is an American procedural television series that follows the lives of Los Angeles first responders, police officers, paramedics, firefighters, and dispatchers. Oliver Stark plays the role of Evan \"Buck\" Buckley one of the firefighter's and Jennifer Love Hewitt, who joined the cast in the second season, play's the role of Maddie Buckley, Buck's sister and the new 9-1-1 operator. The series premiered on January 3, 2018, and will premiere it's 5th season in September 2021. ",
+            "openai_answer": "Buck is played by Oliver Stark on the TV show \"9-1-1.\" Stark portrays Evan \"Buck\" Buckley, a firefighter and one of the main characters in the series.",
+            "openai_time": 1.2338438034057617,
+            "rag_answer": "Oliver Stark plays Buck, also known as Evan \u201cBuck\u201d Buckley, on the TV show \"9-1-1\".",
+            "rag_time": 1.3351051807403564,
+            "output": "Oliver Stark plays young firefighter Evan \"Buck\" Buckley on the show [1].",
+            "intermediate": [
+                "[Retrieval]",
+                "Oliver Stark plays young firefighter Evan \"Buck\" Buckley on the show."
+            ],
+            "selfrag_time": 51.07499694824219,
+            "self_rag_answer": "Oliver Stark plays young firefighter Evan \"Buck\" Buckley on the show [1].",
+            "openai_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 1.0,
+                "factual_correctness(mode=f1)": 0.46
+            },
+            "rag_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 1.0,
+                "factual_correctness(mode=f1)": 0.36
+            },
+            "self_rag_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 1.0,
+                "factual_correctness(mode=f1)": 0.46
+            },
+            "openai_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                0.0
+            ],
+            "rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0
+            ],
+            "self_rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0
+            ]
+        },
+        {
+            "qa_pairs": [
+                {
+                    "context": "No context provided",
+                    "question": "Who is the most payed player in the nba in the 2016-2017 season?",
+                    "short_answers": [
+                        "LeBron James",
+                        "LeBron Raymone James Sr."
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "Who is the most payed player in the nba in the 2015-2016 season?",
+                    "short_answers": [
+                        "Kobe Bean Bryant",
+                        "Kobe Bryant"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "Who is the most payed player in the nba in the 2014-2015 season?",
+                    "short_answers": [
+                        "Kobe Bean Bryant",
+                        "Kobe Bryant"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "Who was the highest paid NBA player from 2017-2018?",
+                    "short_answers": [
+                        "Stephen Curry"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "Who was the highest paid NBA player from 2016-2017?",
+                    "short_answers": [
+                        "LeBron James"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "James has signed numerous endorsement contracts; some of the companies that he has done business with are Audemars Piguet, Coca-Cola, Dunkin' Brands, McDonald's, Nike, State Farm and Beats by Dre. Coming out of high school, he was the target of a three-way bidding war among Nike, Reebok, and Adidas, eventually signing with Nike for approximately $90 million. His signature shoes have performed well for Nike. In 2011, Fenway Sports Group became the sole global marketer of his rights, and as part of the deal, he was granted a minority stake in the English Premier League football club Liverpool, who he has claimed his support for. As a result of James's endorsement money and NBA salary, he has been listed as one of the world's highest-paid athletes. In 2013, he surpassed Kobe Bryant as the highest paid basketball player in the world, with earnings of $56.5 million. In 2014, James realized a profit of more than $30 million as part of Apple's acquisition of Beats Electronics; he had originally struck a deal to get a small stake in the company at its inception in exchange for promoting its headphones. In 2015, he was ranked the sixth highest earning sportsperson, and third highest in 2016 (after Cristiano Ronaldo and Lionel Messi). James has stated that he would like to own an NBA team in the future, albeit in a hands-off capacity. In 2011, James co-founded the designer retail store UNKNWN in Miami, Florida.",
+                    "question": "Who was the highest paid NBA player from 2015-2016?",
+                    "short_answers": [
+                        "Kobe Bryant"
+                    ],
+                    "wikipage": "LeBron James"
+                }
+            ],
+            "wikipages": [
+                {
+                    "title": "LeBron James",
+                    "url": "https://en.wikipedia.org/wiki/LeBron%20James"
+                },
+                {
+                    "title": "Highest-paid NBA players by season",
+                    "url": "https://en.wikipedia.org/wiki/Highest-paid%20NBA%20players%20by%20season"
+                }
+            ],
+            "annotations": [
+                {
+                    "knowledge": [
+                        {
+                            "content": "The highest-paid NBA players by season has recently eclipsed $40 million.",
+                            "wikipage": "Highest-paid NBA players by season"
+                        },
+                        {
+                            "content": "Kobe Bean Bryant (/\u02c8ko\u028abi\u02d0/ KOH-bee; August 23, 1978 \u2013 January 26, 2020) was an American professional basketball player.",
+                            "wikipage": "Kobe Bryant"
+                        },
+                        {
+                            "content": "In 2016, he signed with the Cavaliers on a three-year deal,[384] becoming the highest-paid player in the league for the first time in his career.",
+                            "wikipage": "LeBron James Media figure and business interests"
+                        },
+                        {
+                            "content": "Wardell Stephen \"Steph\" Curry II (/\u02c8st\u025bf\u0259n/ STEF-\u0259n; born March 14, 1988[1]) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). ",
+                            "wikipage": "Stephen Curry"
+                        },
+                        {
+                            "content": "Bryant resumed practicing in November 2013, after the 2013\u20132014 season had already begun. On November 25, he signed a two-year contract extension with the Lakers at an estimated value of $48.5 million.",
+                            "wikipage": "Kobe Bryant Injury-plagued years (2013\u20132015)"
+                        }
+                    ],
+                    "long_answer": "The highest-paid NBA players by season has recently eclipsed $40 million. In the 2014-2015 and 2015-2016 season, the highest-paid player was American professional basketball player Kobe Bryant, with a 2-year contract worth $48.5 million. In the 2016-2017 season, the highest-paid player was then Cavaliers player Lebron James. In the 2017-2018 season, this title belonged to Golden State Warriors player Stephen Curry."
+                },
+                {
+                    "knowledge": [
+                        {
+                            "content": "Michael Jordan was the first NBA player to sign a contract worth over $20 million and in fact it exceeded $30 million as well in a season (1996-97); this was a record he had held for 15 years. Kobe Bryant became just the second player to reach this milestone when the 2013\u201314 season began.[1] LeBron James became the third in the 2016\u201317 season. Stephen Curry became the first player to eclipse $40 million per year when he signed a record 5-year contract worth $201 million in 2017, starting with $34,682,550 in the 2017-18 season and ending with the largest earnings in the 2021-22 season with a record payout of $45,780,966.",
+                            "wikipage": "Highest-paid NBA players by season"
+                        }
+                    ],
+                    "long_answer": "Michael Jordan was the first NBA player to sign a contract worth over $20 million which exceeded $30 million as well in season 1996-97, this was a record he had held for 15 years. Kobe Bryant became the second player to reach this milestone when the 2013\u201314 season began. LeBron James became the third in the 2016\u201317 season. Stephen Curry became the first player to eclipse $40 million per year when he signed a record 5-year contract worth $201 million in 2017, starting with $34,682,550 in the 2017-18 season and ending with the largest earnings in the 2021-22 season with a record payout of $45,780,966."
+                }
+            ],
+            "sample_id": "-667030836762107808",
+            "question": "Who is the most payed player in the nba?",
+            "docs": [
+                {
+                    "id": "16017940",
+                    "title": "Highest-paid NBA players by season",
+                    "text": "Highest-paid NBA players by season The highest-paid NBA players by season over the past twelve seasons have received contracts with salaries noted in the twenty-million-dollar range. In this twelve-year span, Kevin Garnett received $28,000,000, which was the highest salary payment of any NBA player, during the 2003\u201304 season. Garnett has been the highest-paid NBA player per year in seven of the past twelve NBA seasons. Michael Jordan was the first NBA player to sign a contract worth over thirty million dollars in a season. During the 1997\u201398 season, Jordan earned $33,140,000, which still stands as the most any NBA player",
+                    "score": 0.77294921875,
+                    "summary": "The document provides information on the highest-paid NBA players by season over the past twelve seasons, with Kevin Garnett being the highest-paid player in seven of those seasons, receiving $28 million during the 2003-04 season. However, it does not provide information on the current most paid player in the NBA.",
+                    "extraction": "Kevin Garnett received $28,000,000, which was the highest salary payment of any NBA player, during the 2003-04 season. Therefore, Kevin Garnett was the most paid player in the NBA during the 2003-04 season."
+                }
+            ],
+            "answer": "Michael Jordan was the first NBA player to sign a contract worth over $20 million which exceeded $30 million as well in season 1996-97, this was a record he had held for 15 years. Kobe Bryant became the second player to reach this milestone when the 2013\u201314 season began. LeBron James became the third in the 2016\u201317 season. Stephen Curry became the first player to eclipse $40 million per year when he signed a record 5-year contract worth $201 million in 2017, starting with $34,682,550 in the 2017-18 season and ending with the largest earnings in the 2021-22 season with a record payout of $45,780,966.",
+            "openai_answer": "As of the latest information in 2023, ***Stephen Curry*** from the Golden State Warriors is the highest-paid NBA player based on his annual salary. Curry is making **$51.9 million** during the 2023-2024 season. This figure comes from his contract extension signed in August 2021.\n\nBeyond on-court earnings, NBA stars like LeBron James, Kevin Durant, and Giannis Antetokounmpo often surpass Curry in total income when factoring in endorsements and off-court ventures. However, for direct salary alone, Curry is at the very top.",
+            "openai_time": 1.7733373641967773,
+            "rag_answer": "Based on the provided context, Stephen Curry had the highest earnings in the 2021-22 NBA season with a record payout of $45,780,966. Therefore, he would be considered the most paid player in the NBA according to the information given.",
+            "rag_time": 1.6656818389892578,
+            "output": "The highest-paid NBA players by season over the past twelve seasons have received contracts with salaries noted in the twenty-million-dollar range. In this twelve-year span, Kevin Garnett received $28,000,000, which was the highest salary payment of any NBA player, during the 2003\u201304 season. Garnett has been the highest-paid NBA player per year in seven of the past twelve NBA seasons [1].",
+            "intermediate": [
+                "[Retrieval]",
+                "The highest-paid NBA players by season over the past twelve seasons have received contracts with salaries noted in the twenty-million-dollar range.In this twelve-year span, Kevin Garnett received $28,000,000, which was the highest salary payment of any NBA player, during the 2003\u201304 season.Garnett has been the highest-paid NBA player per year in seven of the past twelve NBA seasons."
+            ],
+            "selfrag_time": 57.402114391326904,
+            "self_rag_answer": "The highest-paid NBA players by season over the past twelve seasons have received contracts with salaries noted in the twenty-million-dollar range. In this twelve-year span, Kevin Garnett received $28,000,000, which was the highest salary payment of any NBA player, during the 2003\u201304 season. Garnett has been the highest-paid NBA player per year in seven of the past twelve NBA seasons [1].",
+            "openai_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 0.0,
+                "factual_correctness(mode=f1)": 0.0
+            },
+            "rag_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 0.0,
+                "factual_correctness(mode=f1)": 0.43
+            },
+            "self_rag_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 1.0,
+                "factual_correctness(mode=f1)": 0.0
+            },
+            "openai_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.3333333333333333,
+                0.6666666666666666,
+                0.3333333333333333,
+                0.0,
+                0.3333333333333333
+            ],
+            "rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.6666666666666666,
+                0.0
+            ],
+            "self_rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.6666666666666666,
+                0.6666666666666666,
+                0.6666666666666666,
+                0.0
+            ]
+        },
+        {
+            "qa_pairs": [
+                {
+                    "context": "Critics of the nonpartisan blanket primary object to calling it an \"open primary\", and one judge in California even barred proponents from using the term in their advertisements.",
+                    "question": "What is a primary that does not label the party of the candidates called?",
+                    "short_answers": [
+                        "Nonpartisan blanket primary",
+                        "Nonpartisan Primary",
+                        "nonpartisan blanket primary"
+                    ],
+                    "wikipage": "Nonpartisan blanket primary"
+                },
+                {
+                    "context": "A nonpartisan blanket primary is a primary election in which all candidates for the same elected office, regardless of respective political party, run against each other at once, instead of being segregated by political party. It is also known as a jungle primary, or qualifying primary. In most cases there are two winners who advance to the general election, in which case it is called a top-two primary. ",
+                    "question": "What are the types of primary that does not label the party of the candidates?",
+                    "short_answers": [
+                        "jungle primary or qualifying primary"
+                    ],
+                    "wikipage": "Nonpartisan blanket primary"
+                }
+            ],
+            "wikipages": [
+                {
+                    "title": "Louisiana primary",
+                    "url": "https://en.wikipedia.org/wiki/Louisiana%20primary"
+                },
+                {
+                    "title": "Independent politician",
+                    "url": "https://en.wikipedia.org/wiki/Independent%20politician"
+                },
+                {
+                    "title": "Nomination rules",
+                    "url": "https://en.wikipedia.org/wiki/Nomination%20rules"
+                },
+                {
+                    "title": "Nonpartisan blanket primary",
+                    "url": "https://en.wikipedia.org/wiki/Nonpartisan%20blanket%20primary"
+                },
+                {
+                    "title": "Two-round system",
+                    "url": "https://en.wikipedia.org/wiki/Two-round%20system"
+                }
+            ],
+            "annotations": [
+                {
+                    "knowledge": [],
+                    "long_answer": "A nonpartisan blanket primary is a primary election in which all candidates for the same elected office, regardless of political party, run against each other at once, instead of being segregated by political party. It is also known as a jungle primary or qualifying primary."
+                },
+                {
+                    "knowledge": [
+                        {
+                            "content": "The top-two system is used for all primaries in Washington and California except presidential primaries, and Alaska will begin using a top-four primary system in 2022 with a general election using ranked-choice voting.",
+                            "wikipage": "Nonpartisan blanket primary"
+                        }
+                    ],
+                    "long_answer": "A nonpartisan blanket primary is a primary election in which all candidates for the same elected office, regardless of respective political party, run against each other at once, instead of being segregated by political party. It is also known as a jungle primary or qualifying primary. In most cases there are two winners who advance to the general election, in which case it is called a top-two primary. The top-two system is used for all primaries in Washington and California except presidential primaries, and Alaska will begin using a top-four primary system in 2022 with a general election using ranked-choice voting."
+                }
+            ],
+            "sample_id": "-3143111251154460535",
+            "question": "What type of primary does not label the party of the candidates?",
+            "docs": [
+                {
+                    "id": "2358240",
+                    "title": "Non-partisan democracy",
+                    "text": "winner is chosen from a runoff election where the candidates are the top two vote-getters from a primary election. In some elections, the candidates might be members of a national party, but do not run as party members for local office. Louisiana uses a nonpartisan blanket primary, also called a \"jungle primary\", for state and local offices. In this system, all candidates run against each other regardless of party affiliation during the primary, and then the two most popular candidates run against each other even if they are members of the same party. This form of runoff election weakens political",
+                    "score": 0.73681640625,
+                    "summary": "Louisiana uses a nonpartisan blanket primary for state and local offices where all candidates run against each other regardless of party affiliation during the primary, and then the two most popular candidates run against each other even if they are members of the same party.",
+                    "extraction": "Louisiana uses a nonpartisan blanket primary, also called a \"jungle primary\", for state and local offices. In this system, all candidates run against each other regardless of party affiliation during the primary."
+                }
+            ],
+            "answer": "A nonpartisan blanket primary is a primary election in which all candidates for the same elected office, regardless of respective political party, run against each other at once, instead of being segregated by political party. It is also known as a jungle primary or qualifying primary. In most cases there are two winners who advance to the general election, in which case it is called a top-two primary. The top-two system is used for all primaries in Washington and California except presidential primaries, and Alaska will begin using a top-four primary system in 2022 with a general election using ranked-choice voting.",
+            "openai_answer": "The type of primary that does not label the party of the candidates is called a **nonpartisan primary**. In this system, candidates for a particular office appear on the same ballot without party labels. This typically allows voters to choose among all candidates regardless of party affiliation. Nonpartisan primaries are often used for local offices, judicial elections, or school board races.\n\n",
+            "openai_time": 1.5988996028900146,
+            "rag_answer": "The type of primary that does not label the party of the candidates is the **non-partisan blanket primary** (also known as the \"jungle primary\" or top-two primary). In this system, all candidates appear on the same ballot regardless of party affiliation or lack of party affiliation.",
+            "rag_time": 1.2469511032104492,
+            "output": "In the United States, a nonpartisan blanket primary, also called a \"jungle primary\", is a primary election in which all candidates run against each other regardless of party affiliation during the primary, and then the two most popular candidates run against each other even if they are members of the same party. This form of runoff election weakens political party control over the nomination process [1].",
+            "intermediate": [
+                "[Retrieval]",
+                "In the United States, a nonpartisan blanket primary, also called a \"jungle primary\", is a primary election in which all candidates run against each other regardless of party affiliation during the primary, and then the two most popular candidates run against each other even if they are members of the same party.This form of runoff election weakens political party control over the nomination process."
+            ],
+            "selfrag_time": 88.85839557647705,
+            "self_rag_answer": "In the United States, a nonpartisan blanket primary, also called a \"jungle primary\", is a primary election in which all candidates run against each other regardless of party affiliation during the primary, and then the two most popular candidates run against each other even if they are members of the same party. This form of runoff election weakens political party control over the nomination process [1].",
+            "openai_answer_ragas_evaluation": {
+                "context_recall": 0.75,
+                "faithfulness": 0.3333333333333333,
+                "factual_correctness(mode=f1)": 0.13
+            },
+            "rag_answer_ragas_evaluation": {
+                "context_recall": NaN,
+                "faithfulness": 0.8,
+                "factual_correctness(mode=f1)": 0.43
+            },
+            "self_rag_answer_ragas_evaluation": {
+                "context_recall": 0.5,
+                "faithfulness": 0.6,
+                "factual_correctness(mode=f1)": 0.43
+            },
+            "openai_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                0.0
+            ],
+            "self_rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                0.0,
+                0.6666666666666666
+            ]
+        },
+        {
+            "qa_pairs": [
+                {
+                    "context": "No context provided",
+                    "question": "Who made it to the American Idol Season 15 finale?",
+                    "short_answers": [
+                        "Trent Harmon, La'Porsha Renae"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "Who made it to the American Idol Season 14 finale?",
+                    "short_answers": [
+                        "Nick Fradiani, Clark Beckham"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "Who made it to the American Idol Season 13 finale?",
+                    "short_answers": [
+                        "Caleb Johnson, Jena Irene"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "Who were the finalists for American Idol season 15?",
+                    "short_answers": [
+                        "La'Porsha Renae",
+                        "Trent Harmon"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "Who were the finalists for American Idol season 14?",
+                    "short_answers": [
+                        "Clark Beckham",
+                        "Nick Fradiani"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "The Top 24 semifinalists will be split into two groups of twelve. They were filmed at The Vibiana in Los Angeles, California. Pre-taped performances of the first group will air on February 10 and the second group on February 17. On the following day each week, pre-taped performances of each contestant performing a duet with a past \"Idol\" contender will air, as will the judges selection of seven contestants from each group to advance to the Top 14. The past contestants for group one were season 2 winner Ruben Studdard, season 3 winner Fantasia Barrino, season 10 winner Scotty McCreery, season 10 runner-up Lauren Alaina, season 13 winner Caleb Johnson, and last season's winner Nick Fradiani. The past contestants for group two were season 4 finalist Constantine Maroulis, season 5 finalists Chris Daughtry and Kellie Pickler, season 6 winner Jordin Sparks, season 7 winner David Cook, and season 10 finalist Haley Reinhart.",
+                    "question": "Who were the finalists for American Idol season 13?",
+                    "short_answers": [
+                        "Caleb Johnson",
+                        "Jena Irene"
+                    ],
+                    "wikipage": "American Idol (season 15)"
+                }
+            ],
+            "wikipages": [
+                {
+                    "title": "American Idol (season 12)",
+                    "url": "https://en.wikipedia.org/wiki/American%20Idol%20%28season%2012%29"
+                },
+                {
+                    "title": "American Idol (season 15)",
+                    "url": "https://en.wikipedia.org/wiki/American%20Idol%20%28season%2015%29"
+                }
+            ],
+            "annotations": [
+                {
+                    "knowledge": [
+                        {
+                            "content": "American Idol is an American singing competition television series created by Simon Fuller, produced by Fremantle North America and 19 Entertainment, and distributed by Fremantle North America. ",
+                            "wikipage": "American Idol"
+                        },
+                        {
+                            "content": "On May 15, 2020, ABC renewed the series for a nineteenth season",
+                            "wikipage": "American Idol"
+                        }
+                    ],
+                    "long_answer": "The American singing competition show, American Idol, has had many finalists over it's 19 seasons. A few of those were Trent Harmon and La'Porsha Renae in the season 15 finale.  Nick Fradiani and Clark Beckham made it to the finale of season 14, and before them, Caleb Johnson and Jena Irene showcased in season 13's final competition."
+                },
+                {
+                    "knowledge": [
+                        {
+                            "content": "American Idol is an American singing competition television series created by Simon Fuller, produced by Fremantle North America and 19 Entertainment, and distributed by Fremantle North America.",
+                            "wikipage": "American Idol"
+                        }
+                    ],
+                    "long_answer": "American Idol is an American singing competition television series created by Simon Fuller, produced by Fremantle North America and 19 Entertainment, and distributed by Fremantle North America. The finalists on American Idol Season 13 were Caleb Johnson and Jena Irene. The Season 14 finalists were Clark Beckham and Nick Fradiani. The Season 15 finalists were La'Porsha Renae and Trent Harmon."
+                }
+            ],
+            "sample_id": "-2194308568409237102",
+            "question": "Who made it to the american idol finale?",
+            "docs": [
+                {
+                    "id": "1580800",
+                    "title": "American Idol",
+                    "text": "finalist would join the Top 24 making it the Top 25, and that was Jermaine Jones. However, on March 14, Jones was disqualified in 12th place for concealing arrests and outstanding warrants. Jones denied the accusation that he concealed his arrests. Finalist Phillip Phillips suffered from kidney pain and was taken to the hospital before the Top 13 results show, and later received medical procedure to alleviate a blockage caused by kidney stones. He was reported to have eight surgeries during his Idol run, and had considered quitting the show due to the pain. He underwent surgery to remove the",
+                    "score": 0.7392578125,
+                    "summary": "Irrelevant.",
+                    "extraction": "Phillip Phillips made it to the American Idol finale."
+                }
+            ],
+            "answer": "American Idol is an American singing competition television series created by Simon Fuller, produced by Fremantle North America and 19 Entertainment, and distributed by Fremantle North America. The finalists on American Idol Season 13 were Caleb Johnson and Jena Irene. The Season 14 finalists were Clark Beckham and Nick Fradiani. The Season 15 finalists were La'Porsha Renae and Trent Harmon.",
+            "openai_answer": "American Idol's seasons vary each year, and I don't have real-time data access to provide details on the most recent season's finale contestants. You may want to check the latest updates from the official American Idol website or follow their social media channels for the most current information on the show and its contestants.",
+            "openai_time": 1.419534683227539,
+            "rag_answer": "The context provided does not include the names of the finalists who made it to the American Idol finale. To determine who made it to the finale, more specific information about the season and the finalists would be needed. If you have additional details or context, please share them so I can assist you further.",
+            "rag_time": 1.3771147727966309,
+            "output": "Jones was disqualified in 12th place for concealing arrests and outstanding warrants. Phillips was the winner of the eleventh season of American Idol [1].",
+            "intermediate": [
+                "[Retrieval]",
+                "Jones was disqualified in 12th place for concealing arrests and outstanding warrants.Phillips was the winner of the eleventh season of American Idol."
+            ],
+            "selfrag_time": 38.98651123046875,
+            "self_rag_answer": "Jones was disqualified in 12th place for concealing arrests and outstanding warrants. Phillips was the winner of the eleventh season of American Idol [1].",
+            "openai_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 0.0,
+                "factual_correctness(mode=f1)": 0.0
+            },
+            "rag_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 1.0,
+                "factual_correctness(mode=f1)": 0.0
+            },
+            "self_rag_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 0.5,
+                "factual_correctness(mode=f1)": 0.0
+            },
+            "openai_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                0.0
+            ],
+            "rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.6666666666666666,
+                0.0,
+                0.0
+            ],
+            "self_rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.6666666666666666,
+                0.3333333333333333,
+                1.0
+            ]
+        }
+    ],
+    "args": [],
+    "total_cost": 0.0,
+    "azure_filter_fail": ""
+}

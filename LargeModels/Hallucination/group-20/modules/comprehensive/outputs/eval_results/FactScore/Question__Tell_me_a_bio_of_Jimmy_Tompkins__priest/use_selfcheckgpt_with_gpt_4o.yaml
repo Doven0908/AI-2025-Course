@@ -1,0 +1,185 @@
+evaluator_name: ragas
+results:
+  accuracy: null
+  coherence: 10
+  conciseness: 7
+  context_precision: null
+  context_recall: null
+  context_relevance: null
+  correctness: null
+  factual_correctness: null
+  faithfulness: null
+  fluency: 10
+  overall_quality: 1
+  relevance: 0.5540768631114572
+solve_result:
+  answer: "Jimmy Tompkins (1870\u20131953) was a Canadian Catholic priest, educator,\
+    \ and social reformer renowned for his influential efforts in community development\
+    \ in Nova Scotia, particularly in rural Cape Breton communities. He was deeply\
+    \ committed to improving the lives of the province's impoverished and disempowered\
+    \ residents. Father Tompkins is closely associated with the Antigonish Movement,\
+    \ a social and economic reform initiative that emerged in the early 20th century\
+    \ to address poverty and isolation in rural Nova Scotia through adult education,\
+    \ cooperative enterprises, and community involvement. His contributions to this\
+    \ movement helped pave the way for significant advancements in cooperative businesses,\
+    \ credit unions, and people-centered economic initiatives. \n\nAlthough his methods\
+    \ and ideals often sparked controversy within the church and among community elites,\
+    \ Tompkins remained steadfast in his vision of social justice. He advocated for\
+    \ libraries, schools, and accessible education for all, believing that knowledge\
+    \ and cooperation were the keys to community revitalization. Jimmy Tompkins left\
+    \ a lasting legacy, inspiring many through his tireless work to uplift marginalized\
+    \ communities. His life's work reflected his determination to blend faith with\
+    \ practical action, ensuring that education and empowerment were central to community\
+    \ well-being in Nova Scotia. He passed away in 1953, leaving behind ideals that\
+    \ continue to influence Nova Scotia's cultural and social landscape."
+  dataitem:
+    answer: null
+    contexts:
+    - content: "Jimmy Tompkins (priest) Reverend James John Tompkins (7 September\
+        \ 1870 \u2013 5 May 1953) was a Roman Catholic priest who founded the Antigonish\
+        \ Movement, a progressive effort that incorporated adult education, cooperatives\
+        \ and rural community development to aid the fishing and mining communities\
+        \ of northern and eastern Nova Scotia, Canada. The Antigonish Movement later\
+        \ evolved into the Extension Department (now the Coady International Center)\
+        \ of St. Francis Xavier University. Father Tompkins believed in the emancipating\
+        \ power of education and sought to improve economic conditions through study\
+        \ groups and co-operative action. \"It is not enough to have ideas, we have\
+        \ to"
+      score: 1.9833195
+      title: Jimmy Tompkins (priest)
+    - content: "Little Dover and Queensport. As parish priest Tompkins observed firsthand\
+        \ the plight of the poor fishing community there and helped organize and lead\
+        \ what would become the Antigonish Movement of cooperative fisheries, stores,\
+        \ housing projects, and adult study groups. The Antigonish Movement was eventually\
+        \ institutionalized in the form of the Extension Department at St. Francis\
+        \ Xavier, which was headed by Tompkins' double-cousin Father Moses Coady and\
+        \ which included Father (Dr.) Hugh MacPherson, A.B. MacDonald and others.\
+        \ Jimmy Tompkins (priest) Reverend James John Tompkins (7 September 1870 \u2013\
+        \ 5 May 1953) was a Roman Catholic priest who founded the Antigonish Movement,"
+      score: 1.8856537
+      title: Jimmy Tompkins (priest)
+    - content: Rome from 1897 to 1902. On his return, he continued teaching at St.
+        Francis Xavier University and became the vice-rector in 1907. Working closely
+        with the Carnegie Corporation, he implemented various reform and modernization
+        programs, culminating in an unsuccessful attempt to amalgamate various sectarian
+        and non-sectarian colleges in the Maritime Provinces into one nondenominational
+        university centered around Dalhousie University in Halifax. Although the Roman
+        Catholic Archbishop of Halifax Edward McCarthy supported amalgamation, the
+        Catholic Bishop of Antigonish James Morrison successfully opposed it and eventually
+        exiled Tompkins to the tiny fishing village of Canso, Nova Scotia as parish
+        priest for Canso,
+      score: 1.845299
+      title: Jimmy Tompkins (priest)
+    - content: put legs on them", he often said. He started the first regional library
+        in Nova Scotia along with the first credit union and a cooperative housing
+        association in Reserve Mines that was dubbed "Tompkinsville". Father Tompkins
+        was the Spiritual founder of the Antigonish Movement. Jimmy Tompkins was born
+        in Margaree Forks, Nova Scotia, a small farming community on Cape Breton Island.
+        From 1888-1895, he attended St. Francis Xavier University in alternate semesters
+        while teaching Greek and Mathematics to support himself. He attended the Urban
+        College of the Congregatio de Propaganda Fide (Papal Congregation for the
+        Propagation of the Faith) in
+      score: 1.7628992
+      title: Jimmy Tompkins (priest)
+    - content: his brave tackling, time on the ball in defence and attacking runs,
+        he also scored five goals. His career highlights included playing in an F.A.
+        cup semifinal against Sheffield United in 1936. Towards the end of his career
+        he occasionally deputised as captain when regular skipper Mike Keeping was
+        absent through injury. Seeing the imminent approach of World War II Tompkins
+        signed on in the Territorial Army. On the outbreak of hostilities he was swiftly
+        drafted into the regular army as a private with the Royal Fusiliers. He worked
+        his way rapidly through the non-commissioned ranks, then was commissioned
+        as
+      score: 1.6412997
+      title: Jimmy Tompkins (footballer)
+    - content: "the RAF, having joined the service in 1959. He was killed in February\
+        \ 1965 when the Canberra bomber in which he was navigator crashed into a hillside\
+        \ near Osnabr\xFCck during a low level exercise in poor visibility, killing\
+        \ both himself and the pilot. Fulham Football Club paid each of Tompkins'\
+        \ children half of the \xA3500 Tompkins had been due to receive from his benefit\
+        \ year, which he missed due to the war, on their 21st birthdays. Jimmy Tompkins\
+        \ (footballer) John James Tompkins (1914\u20131944), known as Jim Tompkins\
+        \ or Jimmy Tompkins, was an English professional footballer who played all\
+        \ his professional"
+      score: 1.5808005
+      title: Jimmy Tompkins (footballer)
+    - content: "were killed before the order to withdraw was given. Tompkins was last\
+        \ seen charging a machinegun nest, but his body was never found. It is assumed\
+        \ he and his comrades must have suffered a direct hit from a German tank shell.\
+        \ His name is inscribed on the war memorial at Bayeux, panel 13 column 1.\
+        \ Tompkins married Cecilia Parker in 1939. The couple had two children, Neil\
+        \ (1940-1965) and Jill (m.Harris) (1943\u2013present). Cecilia died from a\
+        \ liver infection in 1944, two months before her husband. Neil was a promising\
+        \ sportsman, playing cricket for Surrey seconds; he also played football for"
+      score: 1.5762315
+      title: Jimmy Tompkins (footballer)
+    - content: Mike Tompkins Mike Tompkins is a U.S. politician who was the Natural
+        Law Party vice presidential candidate during the 1992 and 1996 presidential
+        elections. Born in Boston, Massachusetts, he graduated from Harvard University
+        in 1970 and completed his post-graduate studies at Maharishi European Research
+        University (MERU) in Seelisberg, Switzerland in 1984, where he received a
+        doctorate in the Science of Creative Intelligence. He became an associate
+        director of the Institute of Science, Technology and Public Policy, a nonprofit
+        organization affiliated with the Maharishi Mahesh Yogi that defines itself
+        as a "progressive policy think tank." In 1992, Tompkins joined John Hagelin
+      score: 1.5644383
+      title: Mike Tompkins
+    - content: an officer in 1942. At the time of his death he had been seconded to
+        the Hampshire regiment, had attained the rank of Major and held a provisional
+        rank as lieutenant colonel, a remarkable rise even in the accelerated promotions
+        of wartime. Tompkins joined the Allied offensive in France shortly after D-Day.
+        On 10 July 1944 he was ordered to lead his command in an attempt to secure
+        the village of Maltot; unfortunately, unknown to his commanders, Maltot was
+        surrounded by German Tiger tanks concealed in woods and depressions which
+        opened fire as the Hampshires entered the town. Fifty-six men
+      score: 1.5626242
+      title: Jimmy Tompkins (footballer)
+    - content: "Jimmy Tompkins (footballer) John James Tompkins (1914\u20131944),\
+        \ known as Jim Tompkins or Jimmy Tompkins, was an English professional footballer\
+        \ who played all his professional career for Fulham Football Club before his\
+        \ death in World War II. Tompkins was born in Edmonton, North London in 1914,\
+        \ the son of Arthur and Annie Tompkins. He began his football career playing\
+        \ as an amateur for Woking whilst at the same time being registered (as an\
+        \ amateur) with Fulham. His paid employment was as a member of Arsenal's ground\
+        \ staff; it was during this period that the legendary Arsenal manager Herbert\
+        \ Chapman saw him"
+      score: 1.5422812
+      title: Jimmy Tompkins (footballer)
+    meta:
+      dataset: FactScore
+    question: 'Question: Tell me a bio of Jimmy Tompkins (priest).'
+  metadata:
+    dataset: FactScore
+    model_name: gpt-4o
+    sentence_hallucination_scores:
+      ? Although his methods and ideals often sparked controversy within the church
+        and among community elites, Tompkins remained steadfast in his vision of social
+        justice.
+      : 0.0
+      ? Born in Margaree, Nova Scotia, Tompkins devoted much of his life to fostering
+        education, literacy, and community empowerment.
+      : 1.0
+      ? Father Tompkins is closely associated with the Antigonish Movement, which
+        emerged in the early 20th century as a social and economic reform movement
+        aimed at addressing the poverty and isolation of rural Nova Scotians through
+        adult education, cooperative enterprises, and community involvement.
+      : 0.0
+      ? He advocated for libraries, schools, and accessible education for all, believing
+        that knowledge and cooperation were the keys to community revitalization.
+      : 0.0
+      He passed away in1943 ,leaving behind ideals that continue to influence the province's cultural and social fabric.: 1.0
+      He was deeply committed to improving the lives of the province's impoverished and disempowered residents.: 0.0
+      ? His contributions to this movement helped pave the way for significant advancements
+        in cooperative businesses, credit unions, and people-centered economic initiatives.
+      : 0.0
+      ? His life's work reflected his determination to blend faith with practical
+        action, ensuring that education and empowerment remained central to community
+        well-being in Nova Scotia.
+      : 0.0
+      ? "Jimmy Tompkins (1870\u20131953) was a Canadian Catholic priest, educator,\
+        \ and social reformer renowned for his influential efforts in community development\
+        \ in Nova Scotia, particularly in rural Cape Breton communities."
+      : 0.0
+      Jimmy Tompkins left a lasting legacy, inspiring many through his tireless work to uplift marginalized communities.: 0.0
+    solve_method: use-selfcheckgpt
+    solve_time: 51.107123613357544

@@ -1,0 +1,141 @@
+evaluator_name: ragas
+results:
+  accuracy: 0.75
+  coherence: 5
+  conciseness: 10
+  context_precision: null
+  context_recall: null
+  context_relevance: null
+  correctness: 0.5475144155200569
+  factual_correctness: 0.5
+  faithfulness: null
+  fluency: 10
+  overall_quality: 1
+  relevance: 0.8589824343918713
+solve_result:
+  answer: The New York Rangers last won the Stanley Cup in 1994, defeating the Vancouver
+    Canucks in a thrilling seven-game series. It marked the end of a 54-year championship
+    drought for the team.
+  dataitem:
+    answer: The Rangers have won the Stanley Cup a number of times, the last being
+      on June 14,1994. In the 1994 Stanley Cup Finals, the New York Rangers defeated
+      the Vancouver Canucks. Previously, the Rangers won the Stanley Cup on April
+      13, 1940, and on April 13,1933.
+    contexts:
+    - content: were making their tenth appearance in the Finals and first since losing
+        to Montreal in . The Rangers last won the Stanley Cup in 1940. With the Rangers
+        having 112 points against Vancouver's 85, the 27 point difference was the
+        largest point differential between two teams in a Stanley Cup Final since
+        1982 when 41 points separated the New York Islanders (118) and Vancouver (77).
+        In a back and forth series that went the maximum, one lengthy drought ended
+        and another began. The Rangers won the Stanley Cup their fourth title in franchise
+        history, and first since , while the
+      score: 0.80419921875
+      title: 1994 Stanley Cup playoffs
+    - content: "playoffs are listed here.\" Prior to 2013, this was the last time\
+        \ two Original Six clubs met in the finals. Both teams would next appear in\
+        \ the Stanley Cup Finals: Canadiens winning in , Rangers winning in . 1979\
+        \ Stanley Cup playoffs The 1979 Stanley Cup playoffs, the championship of\
+        \ the National Hockey League (NHL) began on April 10, after the conclusion\
+        \ of the 1978\u201379 NHL season. The playoffs concluded on May 21 with the\
+        \ champion Montreal Canadiens defeating the New York Rangers 4\u20131 to win\
+        \ the Final series four games to one and win the Stanley Cup. Three Original"
+      score: 0.78173828125
+      title: 1979 Stanley Cup playoffs
+    - content: "1979 Stanley Cup Finals The 1979 Stanley Cup Finals was the championship\
+        \ series of the National Hockey League's (NHL) 1978\u201379 season, and the\
+        \ culmination of the 1979 Stanley Cup playoffs. It was contested between the\
+        \ New York Rangers and the defending champion Montreal Canadiens, making their\
+        \ fourth straight appearance. It was New York's first appearance in the Finals\
+        \ since . The Canadiens would win the best-of-seven series, four games to\
+        \ one, to win their fourth consecutive Stanley Cup championship. This was\
+        \ the last Stanley Cup Final until 2013 where both teams were from the Original\
+        \ Six, and the first of"
+      score: 0.78076171875
+      title: 1979 Stanley Cup Finals
+    - content: "1979 Stanley Cup playoffs The 1979 Stanley Cup playoffs, the championship\
+        \ of the National Hockey League (NHL) began on April 10, after the conclusion\
+        \ of the 1978\u201379 NHL season. The playoffs concluded on May 21 with the\
+        \ champion Montreal Canadiens defeating the New York Rangers 4\u20131 to win\
+        \ the Final series four games to one and win the Stanley Cup. Three Original\
+        \ Six teams made the semifinals which would not happen again until the 2014\
+        \ Conference Finals. The twelve teams that qualified for the playoffs are\
+        \ ranked 1\u201312 based on regular season points. \"Note: Only teams that\
+        \ qualified for the"
+      score: 0.77490234375
+      title: 1979 Stanley Cup playoffs
+    - content: "to 1984; the Islanders won each series by margins of 4\u20130, 4\u2013\
+        2, 4\u20132 and 3\u20132 en route to 4 finals and 3 Stanley Cups (in addition\
+        \ to their win to make it 4 championships and 5 finals in a row). In the 1990s,\
+        \ the teams met twice, with the Rangers winning 4\u20131 in 1990, and sweeping\
+        \ the Islanders 4\u20130 in 1994, en route to winning their first Stanley\
+        \ Cup since 1940. The 1994 first-round playoff series is the most recent meeting\
+        \ between the two teams in the playoffs. The Rangers' fanbase generally comes\
+        \ from the city's five boroughs, Westchester, Fairfield,"
+      score: 0.76953125
+      title: "Islanders\u2013Rangers rivalry"
+    - content: playoffs for the first time and defeated the Rangers. The two teams
+        squared off again in 1979, a series the Rangers won. They went on to lose
+        the Cup Finals to the Montreal Canadiens, who won their fourth Stanley Cup
+        in a row. The Islanders won the Stanley Cup for the first time in , beginning
+        their own streak of four consecutive championships; their title capped off
+        their 11th season and the team surpassed the then-57-year-old Rangers for
+        total Cups won. During the Islanders' second Cup run, in , the Islanders swept
+        the Rangers in the second round. During that
+      score: 0.767578125
+      title: Curse of 1940
+    - content: "1994 Stanley Cup Finals The 1994 Stanley Cup Finals was the championship\
+        \ series of the National Hockey League's (NHL) 1993\u201394 season, and the\
+        \ culmination of the 1994 Stanley Cup playoffs. It was contested between the\
+        \ Eastern Conference champion New York Rangers and Western Conference champion\
+        \ Vancouver Canucks. The Canucks were making the club's second Final appearance,\
+        \ their first coming during their Cinderella run of , and the Rangers were\
+        \ making their tenth appearance, their first since . The Rangers ended their\
+        \ record 54-year championship drought with a victory in game seven to claim\
+        \ the long-awaited Stanley Cup. It was the"
+      score: 0.76611328125
+      title: 1994 Stanley Cup Finals
+    - content: Curse of 1940 The Curse of 1940, also called Dutton's Curse, was a
+        superstitious explanation for why the National Hockey League (NHL)'s New York
+        Rangers did not win the league's championship trophy, the Stanley Cup, from
+        1940 through 1994. The Rangers began play in the season and won a division
+        title in their first season of existence and a Stanley Cup against the Montreal
+        Maroons in their second. They would win two more Cups in and , defeating the
+        Toronto Maple Leafs both times. During the season, the mortgage on the Rangers'
+        home arena, the third Madison Square Garden (built
+      score: 0.76611328125
+      title: Curse of 1940
+    - content: operations in 1942 due to World War II. In the meantime, the Rangers
+        had usurped the Americans' commercial success with their own success on the
+        ice, winning three Stanley Cups between 1928 and 1940. The refusal of the
+        Garden's management to allow the resurrection of the Americans after the war
+        was one of the popular theories underlying the Curse of 1940, which supposedly
+        prevented the Rangers from winning the Stanley Cup again until 1994. Another
+        alleged cause of "The Curse" stemmed from then-manager Kilpatrick burning
+        the Garden's mortgage papers in the bowl of the Stanley Cup, as receipts from
+        the
+      score: 0.76513671875
+      title: Madison Square Garden (1925)
+    - content: "meeting for these two teams, with the Rangers having won both of their\
+        \ previous playoff series against the Kings. Their most recent meeting was\
+        \ in the preliminary round of the 1981 playoffs, a best-of-five series which\
+        \ the Rangers won 3\u20131, as well as the first major professional sports\
+        \ championship final between New York City and Los Angeles since the Dodgers\
+        \ beat the Yankees in the 1981 World Series in a strike-shortened season.\
+        \ While the Kings won their franchise's first Stanley Cup in , the Rangers\
+        \ had not won a Stanley Cup since . The Kings and Rangers split this year's"
+      score: 0.763671875
+      title: 2014 Stanley Cup playoffs
+    meta:
+      dataset: ASQA
+    question: When is the last time the rangers won the stanley cup?
+  metadata:
+    dataset: ASQA
+    model_name: gpt-4o
+    sentence_hallucination_scores:
+      It marked the end of a 54-year championship drought for the team.: 0.0
+      ? The New York Rangers last won the Stanley Cup in **1994**, defeating the Vancouver
+        Canucks in a thrilling seven-game series.
+      : 0.0
+    solve_method: use-selfcheckgpt
+    solve_time: 21.836875915527344

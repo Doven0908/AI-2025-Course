@@ -1,0 +1,153 @@
+evaluator_name: ragas
+results:
+  accuracy: 0.0
+  coherence: 3
+  conciseness: 10
+  context_precision: 0.9999999999
+  context_recall: 0.25
+  context_relevance: 1.0
+  correctness: 0.30211328374461704
+  factual_correctness: 0.0
+  faithfulness: 0.6666666666666666
+  fluency: 7
+  overall_quality: 0
+  relevance: 0.9527196805069095
+solve_result:
+  answer: The Church of England first allowed female bishops on 7 July 2008, when
+    the General Synod voted to approve the ordination of women as bishops and rejected
+    moves for alternative episcopal oversight for those who do not accept the ministry
+    of bishops who are women [1].
+  dataitem:
+    answer: 'In November 2013 the General Synod approved a package of measures as
+      the next steps to enable women to become bishops, generally welcoming a package
+      of proposals outlined for Draft Legislation of Women in the Episcopate (GS 1924).
+      The General Synod again considered the matter in February 2014 and sent further
+      draft legislation to all the dioceses of the Church of England. All dioceses
+      that were able to meet within the necessary time frame (43 of 44) approved the
+      draft legislation in time for it be debated at the General Synod in York in
+      July 2014. That legislation passed all three houses of General Synod on 14 July
+      2014, achieving the two-thirds majority required in all three. '
+    contexts:
+    - content: of women as bishops, with 378 in favour, 8 against and 25 abstentions.
+        On 14 July 2014, the General Synod approved the ordination of women as bishops.
+        The House of Bishops recorded 37 votes in favour, two against with one abstention.
+        The House of Clergy had 162 in favour, 25 against and four abstentions. The
+        House of Laity voted 152 for, 45 against with five abstentions. This legislation
+        had to be approved by the Ecclesiastical Committee of the Parliament before
+        it could be finally implemented at the November 2014 synod. In December 2014,
+        Libby Lane was announced as the first
+      score: 0.83837890625
+      title: Church of England
+    - content: its first female priests. On 11 July 2005 a vote was passed by the
+        Church of England's General Synod in York to allow women's ordination as bishops.
+        Both of these events were subject to opposition from some within the church
+        who found difficulties in accepting them. Adjustments had to be made in the
+        diocesan structure to accommodate those parishes unwilling to accept the ministry
+        of women priests. (See women's ordination) The first black archbishop of the
+        Church of England, John Sentamu, formerly of Uganda, was enthroned on 30 November
+        2005 as Archbishop of York. In 2006 the Church of England
+      score: 0.83837890625
+      title: History of the Church of England
+    - content: '"further exploration" of possible arrangements for parishes that did
+        not want to be directly under the authority of a bishop who is a woman. On
+        7 July 2008, the synod voted to approve the ordination of women as bishops
+        and rejected moves for alternative episcopal oversight for those who do not
+        accept the ministry of bishops who are women. Actual ordinations of women
+        to the episcopate required further legislation, which was narrowly rejected
+        in a vote at General Synod in November 2012. On 20 November 2013, the General
+        Synod voted overwhelmingly in support of a plan to allow the ordination'
+      score: 0.83251953125
+      title: Church of England
+    - content: more lay readers were appointed until 1969. Legislation authorising
+        the ordination of women as deacons was passed in 1986 and they were first
+        ordained in 1987. The ordination of women as priests was passed by the General
+        Synod in 1992 and began in 1994. In 2010, for the first time in the history
+        of the Church of England, more women than men were ordained as priests (290
+        women and 273 men). In July 2005, the synod voted to "set in train" the process
+        of allowing the consecration of women as bishops. In February 2006, the synod
+        voted overwhelmingly for the
+      score: 0.83056640625
+      title: Church of England
+    - content: of 2014, women have served or are serving as bishops in the United
+        States, Canada, New Zealand, Australia, Ireland, South Africa, South India,
+        Wales, and in the extra provincial Episcopal Church of Cuba. Libby Lane became
+        the first woman consecrated a bishop of the Church of England in 2015. It
+        had ordained 32 women as its first female priests in March 1994. In 2015 Rachel
+        Treweek was consecrated as the first female diocesan bishop in the Church
+        of England (Diocese of Gloucester). She and Sarah Mullally, Bishop of Crediton,
+        were the first women to be consecrated and ordained bishop in
+      score: 0.82568359375
+      title: Ordination of women
+    - content: the General Synod in York in July 2014. That legislation passed all
+        three houses of General Synod on 14 July 2014, achieving the two-thirds majority
+        required in all three. It gained the necessary parliamentary approvals and
+        royal assent in the subsequent months and was finally approved by the General
+        Synod on 17 November 2014. The first woman to be ordained as a bishop in the
+        Church of England was Libby Lane, whose appointment as Bishop of Stockport
+        (a suffragan see in the Diocese of Chester) was announced on 17 December 2014.
+        She was consecrated at York Minster on 26 January
+      score: 0.81982421875
+      title: Ordination of women in the Anglican Communion
+    - content: woman to become a bishop in the Church of England. She was consecrated
+        as a bishop in January 2015. In July 2015, Rachel Treweek was the first woman
+        to become a diocesan bishop in the Church of England when she became the Bishop
+        of Gloucester. She and Sarah Mullally, Bishop of Crediton, were the first
+        women to be ordained as bishops at Canterbury Cathedral. Treweek later made
+        headlines by calling for gender-inclusive language, saying that "God is not
+        to be seen as male. God is God." In May 2018, the Diocese of London consecrated
+        Dame Sarah Mullally as the first
+      score: 0.81201171875
+      title: Church of England
+    - content: the Church of England to appoint women as bishops. The first female
+        bishop to be appointed to the Lords was Rachel Treweek. Consecrated Bishop
+        of Gloucester on 22 July 2015 and enthroned on 19 September 2015, she joined
+        the Lords on 7 September 2015 with the full title "The Rt Rev. the Lord Bishop
+        of Gloucester", and was introduced to the House by the Archbishop of Canterbury
+        and the Bishop of London on 26 October 2015. She made her maiden speech on
+        7 March 2016. Lords Spiritual (Women) Act 2015 The Lords Spiritual (Women)
+        Act 2015 is an Act of
+      score: 0.80810546875
+      title: Lords Spiritual (Women) Act 2015
+    - content: Diocese of Niagara.) The Anglican Church of Australia began to ordain
+        women as priests in 1992 and in the late 1990s embarked on a protracted debate
+        over the ordination of women as bishops, a debate that was ultimately decided
+        though the church's appellate tribunal, which ruled on 28 September 2007 that
+        there is nothing in the church's constitution that would prevent the consecration
+        of a woman priest as a bishop in a diocese which by ordinance has adopted
+        the law of the Church of England Clarification Canon 1992, which paved the
+        way for the ordination of women as priests. Following
+      score: 0.80712890625
+      title: Ordination of women in the Anglican Communion
+    - content: Bishop of Edmonton in the Anglican Church of Canada, as 8th Bishop
+        of Christchurch. In 2013, Helen-Ann Hartley became the first woman ordained
+        in the Church of England to become a bishop when she was elected as Bishop
+        of Waikato and joint diocesan bishop in the Diocese of Waikato and Taranaki.
+        Following the first ordinations of women as priests in 1976, the first woman
+        to become a bishop in the Anglican Church of Canada was Victoria Matthews.
+        She was elected suffragan bishop in the Diocese of Toronto on 19 November
+        1993 and was ordained to the episcopate on 12 February
+      score: 0.80615234375
+      title: Ordination of women in the Anglican Communion
+    meta:
+      dataset: ASQA
+    question: When did the church of england allow female bishops?
+  metadata:
+    dataset: ASQA
+    intermediate:
+    - '[Retrieval]'
+    - The Church of England first allowed female bishops on 7 July 2008, when the
+      General Synod voted to approve the ordination of women as bishops and rejected
+      moves for alternative episcopal oversight for those who do not accept the ministry
+      of bishops who are women.
+    model_name: selfrag/selfrag_llama2_7b
+    retrieved_contexts:
+    - '"further exploration" of possible arrangements for parishes that did not want
+      to be directly under the authority of a bishop who is a woman. On 7 July 2008,
+      the synod voted to approve the ordination of women as bishops and rejected moves
+      for alternative episcopal oversight for those who do not accept the ministry
+      of bishops who are women. Actual ordinations of women to the episcopate required
+      further legislation, which was narrowly rejected in a vote at General Synod
+      in November 2012. On 20 November 2013, the General Synod voted overwhelmingly
+      in support of a plan to allow the ordination'
+    solve_method: use-self-rag
+    solve_time: 103.87486529350281

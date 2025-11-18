@@ -1,0 +1,228 @@
+evaluator_name: ragas
+results:
+  accuracy: 0.25
+  coherence: 9
+  conciseness: 7
+  context_precision: 0.0
+  context_recall: 0.5
+  context_relevance: 0.0
+  correctness: 0.3419759362073034
+  factual_correctness: 0.17
+  faithfulness: 0.42857142857142855
+  fluency: 10
+  overall_quality: 0
+  relevance: 0.0
+solve_result:
+  answer: The reference information does not provide the release date for the next
+    episode of *The Next Step*. However, it confirms that the show has aired multiple
+    seasons and mentions premiere dates for seasons 1 through 6. If you want information
+    about future episodes, it is recommended to check the show's airing networks (e.g.,
+    Family Channel in Canada or Vrak), streaming platforms like Hulu (United States),
+    CBBC (United Kingdom), and ABC Me (Australia), or updates from the show's official
+    website or social media channels.
+  dataitem:
+    answer: The Next Step is a Canadian teen drama series created by Frank Van Keeken.
+      On May 5, 2014, the series was renewed for a third season, which premiered on
+      March 16, 2015. On April 16, 2015, it was announced that the series would return
+      for a fourth season, which premiered on February 15, 2016. On March 21, 2016,
+      Frank van Keeken announced on Instagram that "The Next Step" would return for
+      a fifth season, which premiered on May 26, 2017. Episode 152 came out on November
+      29, 2017. Episode 153 came out on December 6, 2017 and episode 154 came out
+      on December 13, 2017.
+    contexts:
+    - content: S1 and S1.5), and a four episode season finale. Special content was
+        also going to be available, including "The Next Step Interactive". Filming
+        began July 12, 2012 in Toronto, Ontario. On April 9, 2013, Family announced
+        that it had renewed the series for a second season. On May 5, 2014, the series
+        was renewed for a third season, which premiered on March 16, 2015. On April
+        16, 2015, it was announced that the series would return for a fourth season,
+        which premiered on February 15, 2016. On March 21, 2016, Frank van Keeken
+        announced on Instagram that "The Next Step"
+      score: 0.78173828125
+      title: The Next Step (2013 TV series)
+    - content: The Next Step (2013 TV series) The Next Step is a Canadian teen drama
+        series. It follows the members of a troupe from the titular dance studio,
+        as they train for and compete in various championships, and their members
+        deal with rivalries with other dance schools. The series is shot in a mockumentary
+        style influenced by reality television. The series premiered on Family Channel
+        on March 8, 2013; the series has also spawned digital content, as well as
+        live touring shows featuring its cast members. In February 24, 2012, Family
+        Channel announced that it had ordered 26 half-hour episodes (including
+      score: 0.77734375
+      title: The Next Step (2013 TV series)
+    - content: '1, being about what happened in the show. The "About the Show" section
+        has information about the characters of the show, a schedule of shows, a gallery
+        of shots and videos from the show and a store, with "The Next Step" related
+        clothing. It also includes "The Next Step" soundtrack. On September 27, 2013,
+        Paul Cormack of "Family Channel" announced that "The Next Step" cast would
+        go on a tour. Cormack announced: ""We are always looking for new and exciting
+        ways to connect with our audience on a national level. The Next Step Hit The
+        Floor Tour reaches viewers in'
+      score: 0.75927734375
+      title: The Next Step (2013 TV series)
+    - content: "would return for a fifth season, which premiered on May 26, 2017.\
+        \ The series has been renewed for a sixth season of 26 episodes which premiered\
+        \ in Canada on September 29, 2018. The series premiere of \"The Next Step\"\
+        \ set ratings records for Family, with at least 574,000 viewers on its initial\
+        \ broadcast\u2014which set a record for Family's highest-rated original series\
+        \ premiere. On January 8, 2014, BBC Worldwide licensed the series to several\
+        \ international broadcasters, including ABC Me in Australia, Hulu in the United\
+        \ States, and CBBC in the United Kingdom. In Canada, the show also airs on\
+        \ Vrak in"
+      score: 0.75732421875
+      title: The Next Step (2013 TV series)
+    - content: The Next Step (People Under the Stairs album) The Next Step is the
+        debut album by People Under the Stairs. It was released on March 24, 1998
+        by Om Records. The duo were responsible for nearly every aspect of the album's
+        production and initial release. Quick sales of the album and its sole single,
+        "The Next Step II", also helped to get the group noticed by the label Om Records,
+        with whom the group produced four other albums and found greater success.
+        After spending several months recording material and performing their first
+        few shows in 1998, Thes One and Double
+      score: 0.71240234375
+      title: The Next Step (People Under the Stairs album)
+    - content: a six-episode "Television Favorites" collection on DVD on June 27,
+        2006. The first two seasons of the series were released on DVD in 2018, with
+        season one coming out June 12, 2018. Season three is scheduled for release
+        on November 20, 2018. Reviewing the pilot episode, Jean Rosenbluth of "Variety"
+        wrote that, despite being an unoriginal clone of "The Brady Bunch", it is
+        a "modestly amusing, occasionally heartwarming show". Step by Step (TV series)
+        Step by Step is an American television sitcom that aired for seven seasons.
+        It ran on ABC as part of its TGIF Friday night lineup from
+      score: 0.71044921875
+      title: Step by Step (TV series)
+    - content: 'on December 25, 2006, four years after "The Next Step" was released.
+        All tracks composed by James Brown and Derrick Monk; except where indicated
+        The Next Step (James Brown album) The Next Step is the 62nd and final studio
+        album by American musician James Brown. The album was released on August 27,
+        2002, by Fome Records. "The following year he was the subject of a PBS American
+        Masters documentary, James Brown: Soul Survivor. He continued performing well
+        into the first decade of the 2000s, appearing at the second Bonnaroo festival
+        in 2003, at the Edinburgh Live 8 concert in 2005,'
+      score: 0.70947265625
+      title: The Next Step (James Brown album)
+    - content: of "Movin' On Up", the opening theme of "The Jeffersons". All songs
+        written by Christopher "Thes One" Portugal and Michael "Double K" Turner,
+        except where noted. The Next Step (People Under the Stairs album) The Next
+        Step is the debut album by People Under the Stairs. It was released on March
+        24, 1998 by Om Records. The duo were responsible for nearly every aspect of
+        the album's production and initial release. Quick sales of the album and its
+        sole single, "The Next Step II", also helped to get the group noticed by the
+        label Om Records, with whom the group
+      score: 0.7060546875
+      title: The Next Step (People Under the Stairs album)
+    - content: (Richelle). Newcomer Isaiah Peck, who will star as Henry in season
+        4, will also attend the tour. Taveeta Szymanowicz (Thalia) was only on the
+        Canadian tour, Brittany Raymond (Riley) was on the European shows and she
+        could not come to the shows in Australia and New Zealand because of a family
+        problem. The Next Step (2013 TV series) The Next Step is a Canadian teen drama
+        series. It follows the members of a troupe from the titular dance studio,
+        as they train for and compete in various championships, and their members
+        deal with rivalries with other dance schools. The series
+      score: 0.70361328125
+      title: The Next Step (2013 TV series)
+    - content: their work on this segment. "Next Step 2.0" was announced in September
+        2006, aimed at bringing an upgraded version of the original program in High
+        Definition. Syndication of "The Next Step" news segments on LiveScience was
+        announced in December 2007. The Next Step (1991 TV series) The Next Step was
+        a television show that aired on KRON in San Francisco and later on The Discovery
+        Channel during the 1990s. It was created and hosted by Richard Hart and showcased
+        the latest in cutting-edge technology and its applications from electric vehicles
+        to virtual reality. The final segment of each show was
+      score: 0.70263671875
+      title: The Next Step (1991 TV series)
+    meta:
+      dataset: ASQA
+    question: When does the next episode of the next step come out?
+  metadata:
+    dataset: ASQA
+    model_name: openai/gpt-4o
+    pre_answer: The reference information does not provide details about when the
+      next episode of *The Next Step* will be released. However, based on the information
+      provided, the show has had multiple seasons with premiere dates mentioned. If
+      you are looking for up-to-date scheduling for the show, it would be best to
+      check the show's official website, a broadcasting network like Family Channel,
+      or streaming platforms where the show is available.
+    retrieved_contexts:
+    - S1 and S1.5), and a four episode season finale. Special content was also going
+      to be available, including "The Next Step Interactive". Filming began July 12,
+      2012 in Toronto, Ontario. On April 9, 2013, Family announced that it had renewed
+      the series for a second season. On May 5, 2014, the series was renewed for a
+      third season, which premiered on March 16, 2015. On April 16, 2015, it was announced
+      that the series would return for a fourth season, which premiered on February
+      15, 2016. On March 21, 2016, Frank van Keeken announced on Instagram that "The
+      Next Step"
+    - The Next Step (2013 TV series) The Next Step is a Canadian teen drama series.
+      It follows the members of a troupe from the titular dance studio, as they train
+      for and compete in various championships, and their members deal with rivalries
+      with other dance schools. The series is shot in a mockumentary style influenced
+      by reality television. The series premiered on Family Channel on March 8, 2013;
+      the series has also spawned digital content, as well as live touring shows featuring
+      its cast members. In February 24, 2012, Family Channel announced that it had
+      ordered 26 half-hour episodes (including
+    - '1, being about what happened in the show. The "About the Show" section has
+      information about the characters of the show, a schedule of shows, a gallery
+      of shots and videos from the show and a store, with "The Next Step" related
+      clothing. It also includes "The Next Step" soundtrack. On September 27, 2013,
+      Paul Cormack of "Family Channel" announced that "The Next Step" cast would go
+      on a tour. Cormack announced: ""We are always looking for new and exciting ways
+      to connect with our audience on a national level. The Next Step Hit The Floor
+      Tour reaches viewers in'
+    - "would return for a fifth season, which premiered on May 26, 2017. The series\
+      \ has been renewed for a sixth season of 26 episodes which premiered in Canada\
+      \ on September 29, 2018. The series premiere of \"The Next Step\" set ratings\
+      \ records for Family, with at least 574,000 viewers on its initial broadcast\u2014\
+      which set a record for Family's highest-rated original series premiere. On January\
+      \ 8, 2014, BBC Worldwide licensed the series to several international broadcasters,\
+      \ including ABC Me in Australia, Hulu in the United States, and CBBC in the\
+      \ United Kingdom. In Canada, the show also airs on Vrak in"
+    - The Next Step (People Under the Stairs album) The Next Step is the debut album
+      by People Under the Stairs. It was released on March 24, 1998 by Om Records.
+      The duo were responsible for nearly every aspect of the album's production and
+      initial release. Quick sales of the album and its sole single, "The Next Step
+      II", also helped to get the group noticed by the label Om Records, with whom
+      the group produced four other albums and found greater success. After spending
+      several months recording material and performing their first few shows in 1998,
+      Thes One and Double
+    solve_method: use-cove
+    solve_time: 12.054737329483032
+    verification_answers: "1. **Does the reference information provide the release\
+      \ date for the next episode of *The Next Step*?**  \n   No, the reference information\
+      \ does not provide the release date for the next episode of *The Next Step*.\n\
+      \n2. **How can up-to-date scheduling for *The Next Step* be accessed or verified?**\
+      \  \n   The reference suggests that scheduling for the show might be available\
+      \ in the \"About the Show\" section, which includes a schedule of shows. Alternatively,\
+      \ viewers might need to check the show's airing networks or streaming platforms\
+      \ for up-to-date information.\n\n3. **What sources are suggested for finding\
+      \ information about the show's premiere dates or episode releases?**  \n   Suggested\
+      \ sources include the Family Channel, the show's \"About the Show\" section,\
+      \ BBC Worldwide licensees (such as ABC Me in Australia, Hulu in the US, and\
+      \ CBBC in the UK), or the Canadian network Vrak.\n\n4. **Does the text confirm\
+      \ how many seasons the show *The Next Step* has had?**  \n   Yes, the text confirms\
+      \ at least six seasons, with the sixth premiering on September 29, 2018. It\
+      \ mentions that the series has been renewed for multiple seasons, but does not\
+      \ provide details about seasons beyond the sixth.\n\n5. **Is there any mention\
+      \ of specific platforms where *The Next Step* is available for streaming?**\
+      \  \n   Yes, specific platforms mentioned include Hulu (United States), ABC\
+      \ Me (Australia), and CBBC (United Kingdom). Additionally, the text notes that\
+      \ it airs on Vrak in Canada.\n\n6. **Are details about the show's airing network\
+      \ included in the text?**  \n   Yes, the text mentions that *The Next Step*\
+      \ premiered on Family Channel in Canada.\n\n7. **Does the text indicate that\
+      \ premiere dates for previous seasons are mentioned?**  \n   Yes, premiere dates\
+      \ for seasons 1 through 6 are mentioned. For example, Season 1 premiered on\
+      \ March 8, 2013, and Season 6 premiered on September 29, 2018.\n\n8. **What\
+      \ is the recommended course of action if someone wants information about future\
+      \ episodes of *The Next Step*?**  \n   Based on the text, viewers could check\
+      \ updates from the show's airing networks (e.g., Family Channel, Vrak), streaming\
+      \ platforms (e.g., Hulu, CBBC, ABC Me), or official social media announcements\
+      \ (such as the announcement made by Frank van Keeken on Instagram)."
+    verification_questions: "1. Does the reference information provide the release\
+      \ date for the next episode of *The Next Step*?  \n2. How can up-to-date scheduling\
+      \ for *The Next Step* be accessed or verified?  \n3. What sources are suggested\
+      \ for finding information about the show's premiere dates or episode releases?\
+      \  \n4. Does the text confirm how many seasons the show *The Next Step* has\
+      \ had?  \n5. Is there any mention of specific platforms where *The Next Step*\
+      \ is available for streaming?  \n6. Are details about the show's airing network\
+      \ included in the text?  \n7. Does the text indicate that premiere dates for\
+      \ previous seasons are mentioned?  \n8. What is the recommended course of action\
+      \ if someone wants information about future episodes of *The Next Step*?"

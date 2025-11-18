@@ -1,0 +1,181 @@
+evaluator_name: ragas
+results:
+  accuracy: null
+  coherence: 10
+  conciseness: 6
+  context_precision: null
+  context_recall: null
+  context_relevance: null
+  correctness: null
+  factual_correctness: null
+  faithfulness: null
+  fluency: 10
+  overall_quality: 1
+  relevance: 0.7027152359494309
+solve_result:
+  answer: "Adel Emam (Arabic: \u0639\u0627\u062F\u0644 \u0625\u0645\u0627\u0645) is\
+    \ a legendary Egyptian actor and one of the most iconic and prominent figures\
+    \ in the Arab world\u2019s film and entertainment industry. He was born on May\
+    \ 17, 1940, in Mansoura, Egypt, but was raised in Cairo. With a career spanning\
+    \ over six decades, he is celebrated for his significant contribution to Egyptian\
+    \ cinema, theater, and television, earning titles such as the \"Leader of Comedy\"\
+    \ (Arabic: \u0632\u0639\u064A\u0645 \u0627\u0644\u0643\u0648\u0645\u064A\u062F\
+    \u064A\u0627) and the \"Leader\" (Arabic: \u0627\u0644\u0632\u0639\u064A\u0645\
+    ).\n\n### Early Life and Education:\nAdel Emam studied agricultural sciences at\
+    \ Cairo University, where he developed an interest in acting through his involvement\
+    \ in university theater. His passion for performing arts led him to pursue opportunities\
+    \ in acting, which marked the beginning of his extraordinary career.\n\n### Career\
+    \ Highlights:\nAdel Emam entered the entertainment industry in the 1960s, initially\
+    \ appearing in minor comedic roles. He gradually rose to fame due to his immense\
+    \ talent and unique ability to blend humor with powerful, socially relevant themes.\n\
+    \n1. **Film Career:**\n   Adel Emam's film career exploded in the 1970s, and he\
+    \ became a massive box-office draw. He starred in a wide variety of films, ranging\
+    \ from comedy and romance to drama and action. Some of his most popular films\
+    \ include:\n   - *Al-Irhab wal-Kabab* (1992, \"Terrorism and Kebab\")\n   - *Morgan\
+    \ Ahmed Morgan* (2007)\n   - *Bakhit wa Adila* (1995)\n   - *Al-Nom Fi Asal* (1982,\
+    \ \"Sleep in Honey\")\n   - *Omaret Ya\u2018qobian* (2006, \"The Yacoubian Building\"\
+    ), a critically acclaimed political drama based on Alaa Al-Aswany\u2019s novel.\n\
+    \   \n   Many of his films addressed social and political issues, skillfully combining\
+    \ humor with meaningful commentary.\n\n2. **Theater Career:**\n   Adel Emam was\
+    \ also a highly celebrated figure in the theater. His plays, including *Madraset\
+    \ El-Moshaghbeen* (\"The School of Troublemakers\") and *El-Wad Sayed El-Shaghal*\
+    \ (\"Sayed the Servant\"), became cultural landmarks in the Arab world. His theatrical\
+    \ performances are remembered for their witty dialogue and engaging storytelling.\n\
+    \n3. **Television Career:**\n   In the later years of his career, Adel Emam shifted\
+    \ his focus toward television, starring in several critically acclaimed TV series\
+    \ during Ramadan, a peak television season in the Arab world. Some of his notable\
+    \ series include *Al-Araf* (2013), *Naji Atallah's Squad* (2012), and *Afaret\
+    \ Adly Allam* (2017).\n\n### Style and Legacy:\nAdel Emam is known for his charismatic,\
+    \ bold, and versatile performances, often tackling themes of social injustice,\
+    \ corruption, and freedom of expression, as well as addressing political and religious\
+    \ extremism. He is also admired for his fearless approach to discussing controversial\
+    \ topics in his work.\n\n### Awards and Honors:\nAdel Emam has received numerous\
+    \ awards and honors, both locally and internationally, throughout his illustrious\
+    \ career. These include lifetime achievement awards from film festivals and recognition\
+    \ for his contribution to Arab cinema and culture.\n\n### Personal Life:\nAdel\
+    \ Emam lives a relatively private life but is known to be a family man. His son,\
+    \ Rami Emam, is a successful film director, and his other son, Mohamed Emam, has\
+    \ followed in his footsteps to become an actor.\n\n### Influence and Global Recognition:\n\
+    Adel Emam's influence extends beyond Egypt, as his work resonates across the Arab\
+    \ world, and he is regarded as one of the greatest performers in the region. His\
+    \ films and plays have left an indelible mark on Arab culture, and he continues\
+    \ to be celebrated as a national and regional treasure.\n\nAs of October 2023,\
+    \ Adel Emam is retired from the public eye, but his legacy continues to inspire\
+    \ new generations of actors and filmmakers."
+  dataitem:
+    answer: null
+    contexts:
+    - content: "range of humour including slapstick, farce, and even the occasional\
+        \ double entendre. His character archetype is an individual down on his luck\
+        \ who rises above powerful outside pressures. In January 2000, the United\
+        \ Nations appointed Emam as a Goodwill Ambassador for UNHCR He is an important\
+        \ figure in Egypt and the Arabic-speaking countries largely because of the\
+        \ political roles he took on in many of his films and plays. These roles,\
+        \ whether he intended it or not, often put him in a critical position vis-\xE0\
+        -vis the president or the government. He has been cast several times by the\
+        \ producer Emad"
+      score: 1.8531046
+      title: Adel Emam
+    - content: "Adel Emam Adel Imam (sometimes credited as: Adel Emam), (), born May\
+        \ 17, 1940, in Shaha (\u0634\u0647\u0627) near El Mansoura (\u0627\u0644\u0645\
+        \u0646\u0635\u0648\u0631\u0629), is an Egyptian movie and stage actor. He\
+        \ is primarily a comedian, but he has starred in more serious works and, especially\
+        \ in his earlier films, has combined comedy with romance. Emam earned a bachelor's\
+        \ degree in Agriculture from Cairo University. Since then he has appeared\
+        \ in over 100 movies and 10 plays. He is one of the most famous actors in\
+        \ Egypt, and has received critical and popular praise throughout his career.\
+        \ Emam's roles have displayed a wide"
+      score: 1.7834026
+      title: Adel Emam
+    - content: "first Career Achievement Award in El-Gouna Film Festival in 2017.\
+        \ Adel Emam Adel Imam (sometimes credited as: Adel Emam), (), born May 17,\
+        \ 1940, in Shaha (\u0634\u0647\u0627) near El Mansoura (\u0627\u0644\u0645\
+        \u0646\u0635\u0648\u0631\u0629), is an Egyptian movie and stage actor. He\
+        \ is primarily a comedian, but he has starred in more serious works and, especially\
+        \ in his earlier films, has combined comedy with romance. Emam earned a bachelor's\
+        \ degree in Agriculture from Cairo University. Since then he has appeared\
+        \ in over 100 movies and 10 plays. He is one of the most famous actors in\
+        \ Egypt, and has received critical and popular"
+      score: 1.7458069
+      title: Adel Emam
+    - content: "Imam said he would appeal the sentence. On September 12, 2012, Emam\
+        \ won his appeal when a Cairo misdemeanours court cleared him of defaming\
+        \ Islam in his films. Adel Emam received numerous awards through his five\
+        \ decades career. He won Horus Award twice for his leading roles in Omaret\
+        \ Yakobean and Al-irhabi at Cairo International Film Festival. He won the\
+        \ Honorary Award of the Festival at 2014 Marrakech International Film Festival.\
+        \ He won International Jury Award at S\xE3o Paulo International Film Festival.\
+        \ In 2005 and 2008 Dubai International Film Festival awarded Adel Emam the\
+        \ Lifetime Achievement Award. He received the"
+      score: 1.6243315
+      title: Adel Emam
+    - content: 'strand of the film''s complex narrative. Adel Emam is married and
+        has three children: the young director Rami Imam, Sarah Emam, and Mohamed
+        Imam, who also starred in the movie "The Yacoubian Building" as Taha ElShazli.
+        He is the brother of Esam Imam and Iman Imam. His brother-in-law is the late
+        actor Mustafa Metwalli. Adel Emam stated on a talk show hosted by Hala Sarhan
+        that Amin Shalaby and the late Younes Shalaby as well as Saeed Saleh were
+        his best friends since university. In February 2012, Emam was sentenced (in
+        absentia) to three months in jail for offending Islam.'
+      score: 1.5633106
+      title: Adel Emam
+    - content: Mohamed Emam Mohamed Adel Imam () is an Egyptian actor. He comes from
+        an artistic family as his father is actor Adel Emam (also known as El Zaeem
+        in Egypt). His brother is director Rami Imam. Mohamed went to Jesuit school
+        before he entered The American University in Cairo. He studied theater, and
+        acted many roles in the university. One of them was Atawa in El Maghmati's
+        play for the director Mahmoud El Lozy. Imam played his first role out of the
+        university when he took part in the Egyptian series "Kanaria and Shorkah"
+        as Ashraf Sayed El Ousy (Hany
+      score: 1.5517046
+      title: Mohamed Emam
+    - content: "Khaled El Emam Khaled El Emam is the founder and CEO of Privacy Analytics.\
+        \ El Emam is also a senior scientist at the Children\u2019s Hospital of Eastern\
+        \ Ontario (CHEO) Research Institute and Director of the multi-disciplinary\
+        \ Electronic Health Information Laboratory (EHIL), conducting academic research\
+        \ on de-identification and re-identification risk. El Emam is a Privacy by\
+        \ Design Ambassador recognized by the Ontario Information and Privacy Commissioner.\
+        \ He previously held the Canada Research Chair in Electronic Health Information\
+        \ at the University of Ottawa and was an Associate Professor in the Faculty\
+        \ of Medicine at the University. He has a PhD from the"
+      score: 1.5120503
+      title: Khaled El Emam
+    - content: Adel Emara General Adel Emara is an Egyptian general. He is Deputy
+        Defence Minister of Egypt, and a member of the Supreme Council of the Armed
+        Forces (SCAF) which has ruled Egypt since the resignation of Hosni Mubarak
+        in February 2011. On 19 December 2011, Emara held a press conference in which
+        he justified army violence against protestors in Egypt, and blamed "evil forces
+        [which] wanted to drag Egypt into a chaos, putting army into confrontation
+        with the people." Responding to a journalist demanding the army apologize
+        to Egyptian women for brutality towards female protestors, he interrupted
+        the conference to
+      score: 1.5103705
+      title: Adel Emara
+    - content: "2018. Islam Adel Islam Adel (; born July 1, 1988) is an Egyptian professional\
+        \ footballer who currently plays as a Defensive Midfielder for the Saudi club\
+        \ Al Jandal. In 2016, Adel signed a 3-year contract for Misr Lel-Makkasa in\
+        \ a free transfer as his contract with Wadi Degla expired. He participated\
+        \ in 3 matches with Makkasa in 2016\u201317 Egyptian Premier League in which\
+        \ they finished 2nd. He previously played for El-Entag El-Harby, Telephonat\
+        \ Beni Suef and Wadi Degla. In July 2017, he signed a 2-year contract for\
+        \ Raja CA in a free transfer. He moved to Saudi club Al Jandal"
+      score: 1.5038879
+      title: Islam Adel
+    - content: "Adel Adham Adel Adham (; March 8, 1928 \u2013 February 1, 1996) was\
+        \ one of Egypt's most famous actors. He was known for his portrayal of evil\
+        \ and ambiguous characters. His mother was of Turkish origin. Adel Adham was\
+        \ born in March 8, 1987 in Alexandria. His debut in cinema was the year 1945\
+        \ in the film \"Laila, Daughter of the Poor (1945)\". In his most recent film\
+        \ before his death, his character was told by another character that he will\
+        \ go to hell. Adham's character's response? \"Well, if we go to heaven, we\
+        \ will not find anyone we know!\""
+      score: 1.4969907
+      title: Adel Adham
+    meta:
+      dataset: FactScore
+    question: 'Question: Tell me a bio of Adel Emam.'
+  metadata:
+    dataset: FactScore
+    model_name: openai/gpt-4o
+    solve_method: direct-answer
+    solve_time: 12.532045364379883

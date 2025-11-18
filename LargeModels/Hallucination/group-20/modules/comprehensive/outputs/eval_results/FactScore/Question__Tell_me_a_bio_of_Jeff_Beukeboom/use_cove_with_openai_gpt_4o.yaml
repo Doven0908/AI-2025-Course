@@ -1,0 +1,340 @@
+evaluator_name: ragas
+results:
+  accuracy: null
+  coherence: 10
+  conciseness: 7
+  context_precision: null
+  context_recall: null
+  context_relevance: 1.0
+  correctness: null
+  factual_correctness: null
+  faithfulness: 0.9
+  fluency: 10
+  overall_quality: 1
+  relevance: 0.6457475660913611
+solve_result:
+  answer: "Jeffrey Scott Beukeboom, born on March 28, 1965, is a Canadian ice hockey\
+    \ coach and former professional player who made a lasting impact in the National\
+    \ Hockey League (NHL) as a defenceman. Known for his physical style of play and\
+    \ rugged defensive abilities, Beukeboom enjoyed a successful career with the Edmonton\
+    \ Oilers and New York Rangers.\n\nBeukeboom\u2019s hockey journey began in junior\
+    \ hockey playing for the Sault Ste. Marie Greyhounds from 1982 to 1985. He was\
+    \ selected in the first round, 19th overall, in the 1983 NHL Entry Draft by the\
+    \ Edmonton Oilers. After refining his skills in juniors for two years, he joined\
+    \ the Oilers where he contributed to their dominance, helping the team secure\
+    \ three Stanley Cup victories. He quickly gained recognition for his hard-hitting\
+    \ play and willingness to protect teammates.\n\nOn November 12, 1991, Beukeboom\
+    \ was traded to the New York Rangers as part of the deal involving Mark Messier.\
+    \ With the Rangers, he became a fan favorite and an integral part of the team\u2019\
+    s defense. Frequently paired with the offensive-minded Brian Leetch, Beukeboom\u2019\
+    s stay-at-home defensive play complemented Leetch\u2019s style, allowing the duo\
+    \ to excel. Beukeboom played a critical role in the Rangers\u2019 1994 Stanley\
+    \ Cup victory, the team\u2019s first in 54 years. Though his aggressive physicality\
+    \ led to multiple concussions, he was celebrated for leading the team in penalty\
+    \ minutes during three seasons and is second all-time in penalty minutes for the\
+    \ Rangers.\n\nRecurring injuries, including a devastating concussion caused by\
+    \ a sucker punch, led Beukeboom to retire in 1999. Post-retirement, he suffered\
+    \ from post-concussion symptoms for nearly two years before recovering.\n\nAfter\
+    \ stepping away from playing hockey, Beukeboom transitioned into coaching and\
+    \ other hockey roles. He served as an assistant coach for the Toronto Roadrunners\
+    \ during the 2003\u201304 American Hockey League (AHL) season and became president\
+    \ and part owner of the Lindsay Muskies of the Ontario Provincial Junior \"A\"\
+    \ Hockey League in 2005. Later, in 2008, he joined the Barrie Colts of the Ontario\
+    \ Hockey League (OHL) as an assistant coach, continuing his involvement in developing\
+    \ young players. In June 2009, he took on another assistant coaching role.\n\n\
+    Beyond the rink, Beukeboom\u2019s contributions extended into philanthropy. He\
+    \ supported the \"Ice Hockey in Harlem\" program, which introduces hockey to underprivileged\
+    \ youth in New York, and was honored with the Rangers\u2019 Crumb Bum Award in\
+    \ 1996 for his dedication to local children. Beukeboom further demonstrated his\
+    \ personality by appearing in a lighthearted \"This is SportsCenter\" commercial\
+    \ where he humorously responded to ESPN\u2019s Steve Levy calling him \"Puke-a-boom.\"\
+    \n\nFamily connections enriched Beukeboom\u2019s hockey legacy. He is the uncle\
+    \ of Johnny and Scott McGuire, both of whom played hockey in various leagues,\
+    \ and the second cousin of Adam Beukeboom.\n\nJeff Beukeboom remains a respected\
+    \ figure in hockey for his physical play, leadership, and contributions both on\
+    \ and off the ice, symbolizing dedication, toughness, and generosity."
+  dataitem:
+    answer: null
+    contexts:
+    - content: "Jeff Beukeboom Jeffrey Scott Beukeboom (born March 28, 1965) is a\
+        \ Canadian professional ice hockey coach and former player in the National\
+        \ Hockey League (NHL). He played as a defenceman for the Edmonton Oilers and\
+        \ New York Rangers. Beukeboom played junior hockey for the Sault Ste. Marie\
+        \ Greyhounds (1982\u20131985). After being selected in the first round (19th\
+        \ overall) of the 1983 NHL Entry Draft by the Edmonton Oilers, he played in\
+        \ juniors for two more years before joining the Oilers. While playing for\
+        \ the Oilers, he won three Stanley Cups, and was known as a hard-hitting defenceman.\
+        \ Beukeboom was traded"
+      score: 1.8863778
+      title: Jeff Beukeboom
+    - content: "played, and is currently second all-time on the Rangers' penalty minutes\
+        \ list. Even after retiring, he continued to suffer post-concussion symptoms\
+        \ for almost two years before recovering. Beukeboom returned to hockey as\
+        \ an assistant coach for the Toronto Roadrunners American Hockey League (AHL)\
+        \ for the 2003\u201304 season. In 2005, he became the president and part owner\
+        \ of the Lindsay Muskies of the Ontario Provincial Junior \"A\" Hockey League,\
+        \ and in 2008, Beukeboom became an assistant coach for the Barrie Colts of\
+        \ the Ontario Hockey League (OHL) and worked in both teams. In June 2009,\
+        \ Beukeboom was named the assistant coach"
+      score: 1.723105
+      title: Jeff Beukeboom
+    - content: "the team in penalty minutes three times (1992\u201393, 1993\u2013\
+        94, 1995\u201396) and won his last with the Rangers in 1994. He was also known\
+        \ for his philanthropy, including Ice Hockey in Harlem. Beukeboom won the\
+        \ Rangers' Crumb Bum Award, given for service to local youngsters, in 1996.\
+        \ While with the Rangers, Beukeboom also appeared in a memorable \"This is\
+        \ Sportscenter\" spot in which he assaults ESPN's Steve Levy after being told\
+        \ Levy had referred to Beukeboom as \"Puke-a-boom.\" Due to his physical play,\
+        \ Beukeboom suffered multiple concussions, the most devastating of which came\
+        \ as a result of a sucker punch by"
+      score: 1.6830616
+      title: Jeff Beukeboom
+    - content: "second cousin of Adam Beukeboom. He is the uncle of Johnny and Scott\
+        \ McGuire. Johnny played in the Ontario Hockey League (OHL), American Hockey\
+        \ League (AHL), and ECHL, while Scott spent two seasons in the Central Ontario\
+        \ Junior C Hockey League. Jeff Beukeboom Jeffrey Scott Beukeboom (born March\
+        \ 28, 1965) is a Canadian professional ice hockey coach and former player\
+        \ in the National Hockey League (NHL). He played as a defenceman for the Edmonton\
+        \ Oilers and New York Rangers. Beukeboom played junior hockey for the Sault\
+        \ Ste. Marie Greyhounds (1982\u20131985). After being selected in the first\
+        \ round (19th overall) of"
+      score: 1.6802197
+      title: Jeff Beukeboom
+    - content: from the Edmonton Oilers to the New York Rangers on November 12, 1991.
+        At the time, neither the Rangers nor Oilers made any announcement to indicate
+        that Beukeboom was part of the Mark Messier trade. At and , Beukeboom quickly
+        established himself as a fan favourite and an anchor of the defence with his
+        bodychecks and willingness to protect his teammates, through fighting if necessary.
+        He played on the top defensive pairing with Brian Leetch, and was an alternate
+        captain. Beukeboom's stay-at-home play allowed Leetch to lead the rush and
+        kept opposing players out of the goal crease. He led
+      score: 1.6572359
+      title: Jeff Beukeboom
+    - content: a third round draft pick in the 2011 NHL Entry Draft, in exchange for
+        Eric Brewer. However, the Blues did not sign him and he decided to attend
+        the New York Rangers' prospect camp in 2013. His daughter, Tyson, played college
+        rugby for St. Francis Xavier University. In 2012, she was named the CIS Female
+        Athlete of the Year. In 2014, she was named to Canadian national team. Beukeboom
+        is the brother of former Ontario Hockey League players John and Brian Beukeboom,
+        the cousin of fellow former NHL player Joe Nieuwendyk, the nephew of the late
+        Ed Kea., and the
+      score: 1.6207066
+      title: Jeff Beukeboom
+    - content: of the Sudbury Wolves of the Ontario Hockey League. In 2012, he returned
+        to the AHL as an assistant coach for the Connecticut Whale who would later
+        be renamed to Hartford Wolf Pack. On July 1, 2016, he was hired as an assistant
+        coach for the New York Rangers. Beukeboom was born in Ajax, Ontario, but grew
+        up in Lindsay, Ontario. His son, Brock, played for the UPEI Panthers. Brock
+        was drafted by the Tampa Bay Lightning in the third round (63rd pick) of the
+        2010 NHL Entry Draft. He was traded to the Blues in February 2011, along with
+      score: 1.6107612
+      title: Jeff Beukeboom
+    - content: Jeff Radebe Jeffrey Thamsanqa "Jeff" Radebe (born 06 August 1953) is
+        a South African politician was appointed as Minister of Energy by Cyril Ramaphosa
+        on 26 February 2018. He served in the government of South Africa as Minister
+        in the Presidency from 2014 to 2018. Previously he was Minister of Justice
+        and Constitutional Development from 2009 to 2014. Radebe is South Africa's
+        longest continuously serving cabinet member, having been part of every national
+        administration since 1994 and under every post-apartheid President. Radebe
+        was born in Cato Manor, and lived there until 1958 when his family was forcibly
+        removed to KwaMashu.
+      score: 1.4346135
+      title: Jeff Radebe
+    - content: Hermanus Beukes Hermanus Christoffel Beukes (also known as Oom Maans
+        Beukes) (born 20 June 1913 in Rehoboth, German South-West Africa - died 22
+        July 2004 in Rehoboth, Namibia) was a Coloured Namibian politician and activist.
+        Beukes was a frequent petitioner of the United Nations because of Apartheid
+        South Africa's actions while Namibia was held under its mandate. Beukes was
+        in a group of Namibians who fled to neighboring Botswana in 1963. Alongside
+        Kenneth Abrahams, Andreas Shipanga and fellow Baster Paul Smit, the group
+        fled the country because of their actions in recruiting soldiers for SWAPO's
+        military wing, the People's Liberation
+      score: 1.4321116
+      title: Hermanus Beukes
+    - content: "and Brim commenced divorce proceedings, which completed in summer\
+        \ 2014. Jeff Bewkes Jeffrey Lawrence Bewkes (born May 25, 1952) is an American\
+        \ media executive. He was CEO of Time Warner from January 1, 2008 to June\
+        \ 14, 2018, President from December 2005 to June 2018, and Chairman of the\
+        \ Board from January 1, 2009 to 2018. Bewkes was born in Paterson, New Jersey,\
+        \ the middle son of Marjorie Louise (n\xE9e Klenk) and Eugene Garrett Bewkes\
+        \ Jr., an executive at Norton Simon. He is of Dutch and German ancestry, was\
+        \ raised in Darien, Connecticut, and is a graduate of Deerfield Academy."
+      score: 1.4186618
+      title: Jeff Bewkes
+    meta:
+      dataset: FactScore
+    question: 'Question: Tell me a bio of Jeff Beukeboom.'
+  metadata:
+    dataset: FactScore
+    model_name: openai/gpt-4o
+    pre_answer: "Jeffrey Scott Beukeboom, born on March 28, 1965, is a Canadian professional\
+      \ ice hockey coach and former player in the National Hockey League (NHL). Beukeboom\
+      \ played as a defenceman for the Edmonton Oilers and New York Rangers and was\
+      \ celebrated for his physical play and hard-hitting style.\n\nBeukeboom began\
+      \ his hockey career playing junior hockey for the Sault Ste. Marie Greyhounds\
+      \ between 1982 and 1985. He was selected in the first round, 19th overall, of\
+      \ the 1983 NHL Entry Draft by the Edmonton Oilers. Before joining the NHL, he\
+      \ spent two more years in juniors refining his skills. During his tenure with\
+      \ the Oilers, Beukeboom won three Stanley Cups and became known for his rugged\
+      \ defensive play. He was traded to the New York Rangers on November 12, 1991,\
+      \ as part of the Mark Messier trade. With the Rangers, Beukeboom quickly became\
+      \ a fan favorite and contributed significantly to the team's defense, often\
+      \ paired with Brian Leetch in the top defensive duo. His stay-at-home style\
+      \ of play complemented Leetch's offensive abilities.\n\nKnown for his toughness\
+      \ on the ice, Beukeboom led the Rangers in penalty minutes several times and\
+      \ became the second all-time leader in penalty minutes for the team. However,\
+      \ his physical style of play led to multiple concussions, including one resulting\
+      \ from a sucker punch. These concussions contributed to his retirement in 1999.\n\
+      \nPost-retirement, Beukeboom suffered from post-concussion symptoms for almost\
+      \ two years before recovering. He transitioned into coaching, serving as an\
+      \ assistant coach for the Toronto Roadrunners in the American Hockey League\
+      \ (AHL) during the 2003\u201304 season. In 2005, he became president and part\
+      \ owner of the Lindsay Muskies of the Ontario Provincial Junior \"A\" Hockey\
+      \ League, and later, in 2008, joined the Barrie Colts of the Ontario Hockey\
+      \ League (OHL) as an assistant coach. In June 2009, Beukeboom continued to pursue\
+      \ coaching opportunities.\n\nAlongside his hockey career, Beukeboom contributed\
+      \ to philanthropy, including the program \"Ice Hockey in Harlem\" and received\
+      \ the Rangers' Crumb Bum Award in 1996 for his service to local youth. Beukeboom\
+      \ also appeared in a memorable \"This is Sportscenter\" commercial, showcasing\
+      \ his rough persona in a comedic setting.\n\nOff the ice, Beukeboom is connected\
+      \ to hockey through family ties as well. He is the uncle of Johnny and Scott\
+      \ McGuire, who played in various hockey leagues, and is the second cousin of\
+      \ Adam Beukeboom.\n\nJeff Beukeboom remains a respected figure in hockey for\
+      \ his contributions as a player, coach, and philanthropist."
+    retrieved_contexts:
+    - "Jeff Beukeboom Jeffrey Scott Beukeboom (born March 28, 1965) is a Canadian\
+      \ professional ice hockey coach and former player in the National Hockey League\
+      \ (NHL). He played as a defenceman for the Edmonton Oilers and New York Rangers.\
+      \ Beukeboom played junior hockey for the Sault Ste. Marie Greyhounds (1982\u2013\
+      1985). After being selected in the first round (19th overall) of the 1983 NHL\
+      \ Entry Draft by the Edmonton Oilers, he played in juniors for two more years\
+      \ before joining the Oilers. While playing for the Oilers, he won three Stanley\
+      \ Cups, and was known as a hard-hitting defenceman. Beukeboom was traded"
+    - "played, and is currently second all-time on the Rangers' penalty minutes list.\
+      \ Even after retiring, he continued to suffer post-concussion symptoms for almost\
+      \ two years before recovering. Beukeboom returned to hockey as an assistant\
+      \ coach for the Toronto Roadrunners American Hockey League (AHL) for the 2003\u2013\
+      04 season. In 2005, he became the president and part owner of the Lindsay Muskies\
+      \ of the Ontario Provincial Junior \"A\" Hockey League, and in 2008, Beukeboom\
+      \ became an assistant coach for the Barrie Colts of the Ontario Hockey League\
+      \ (OHL) and worked in both teams. In June 2009, Beukeboom was named the assistant\
+      \ coach"
+    - "the team in penalty minutes three times (1992\u201393, 1993\u201394, 1995\u2013\
+      96) and won his last with the Rangers in 1994. He was also known for his philanthropy,\
+      \ including Ice Hockey in Harlem. Beukeboom won the Rangers' Crumb Bum Award,\
+      \ given for service to local youngsters, in 1996. While with the Rangers, Beukeboom\
+      \ also appeared in a memorable \"This is Sportscenter\" spot in which he assaults\
+      \ ESPN's Steve Levy after being told Levy had referred to Beukeboom as \"Puke-a-boom.\"\
+      \ Due to his physical play, Beukeboom suffered multiple concussions, the most\
+      \ devastating of which came as a result of a sucker punch by"
+    - "second cousin of Adam Beukeboom. He is the uncle of Johnny and Scott McGuire.\
+      \ Johnny played in the Ontario Hockey League (OHL), American Hockey League (AHL),\
+      \ and ECHL, while Scott spent two seasons in the Central Ontario Junior C Hockey\
+      \ League. Jeff Beukeboom Jeffrey Scott Beukeboom (born March 28, 1965) is a\
+      \ Canadian professional ice hockey coach and former player in the National Hockey\
+      \ League (NHL). He played as a defenceman for the Edmonton Oilers and New York\
+      \ Rangers. Beukeboom played junior hockey for the Sault Ste. Marie Greyhounds\
+      \ (1982\u20131985). After being selected in the first round (19th overall) of"
+    - from the Edmonton Oilers to the New York Rangers on November 12, 1991. At the
+      time, neither the Rangers nor Oilers made any announcement to indicate that
+      Beukeboom was part of the Mark Messier trade. At and , Beukeboom quickly established
+      himself as a fan favourite and an anchor of the defence with his bodychecks
+      and willingness to protect his teammates, through fighting if necessary. He
+      played on the top defensive pairing with Brian Leetch, and was an alternate
+      captain. Beukeboom's stay-at-home play allowed Leetch to lead the rush and kept
+      opposing players out of the goal crease. He led
+    solve_method: use-cove
+    solve_time: 26.2434401512146
+    verification_answers: "**1. Personal Background**  \n   - **When and where was\
+      \ Jeffrey Scott Beukeboom born?**  \n     Jeffrey Scott Beukeboom was born on\
+      \ March 28, 1965.  \n\n   - **What is Jeffrey Scott Beukeboom's nationality?**\
+      \  \n     He is Canadian.  \n\n---\n\n**2. Playing Career**  \n   - **For which\
+      \ NHL teams did Beukeboom play as a defenceman?**  \n     Beukeboom played for\
+      \ the Edmonton Oilers and the New York Rangers.  \n\n   - **What was his style\
+      \ of play as a hockey player?**  \n     Beukeboom was known as a hard-hitting,\
+      \ physical defenceman who protected teammates and kept opponents out of the\
+      \ goal crease.  \n\n   - **Which junior hockey team did Beukeboom play for,\
+      \ and during what years?**  \n     Beukeboom played for the Sault Ste. Marie\
+      \ Greyhounds from 1982 to 1985.  \n\n   - **In which NHL Entry Draft year was\
+      \ Beukeboom selected, and what was his draft position?**  \n     Beukeboom was\
+      \ selected in the 1983 NHL Entry Draft as the 19th overall pick.  \n\n   - **How\
+      \ many Stanley Cups did Beukeboom win during his time with the Edmonton Oilers?**\
+      \  \n     He won three Stanley Cups during his time with the Edmonton Oilers.\
+      \  \n\n   - **On what date was Beukeboom traded to the New York Rangers, and\
+      \ why was the trade significant?**  \n     Beukeboom was traded to the New York\
+      \ Rangers on November 12, 1991. The trade was significant because it was part\
+      \ of the deal involving Mark Messier, although no formal announcement was made\
+      \ about Beukeboom\u2019s inclusion at the time.  \n\n   - **Who was Beukeboom\
+      \ frequently paired with on defense while playing for the New York Rangers?**\
+      \  \n     Beukeboom frequently played in a top defensive pairing with Brian\
+      \ Leetch.  \n\n   - **What were Beukeboom\u2019s contributions to the Rangers\u2019\
+      \ defense?**  \n     His stay-at-home play allowed Brian Leetch to lead offensive\
+      \ rushes and prevented opposing players from crowding the goal crease.  \n\n\
+      ---\n\n**3. Physical Style and Retirement**  \n   - **What accolade did Beukeboom\
+      \ achieve related to penalty minutes during his time with the Rangers?**  \n\
+      \     Beukeboom led the team in penalty minutes in three seasons: 1992\u2013\
+      93, 1993\u201394, and 1995\u201396. He is second all-time on the Rangers' penalty\
+      \ minutes list.  \n\n   - **Why did Beukeboom retire from hockey in 1999?**\
+      \  \n     Beukeboom retired due to recurring concussion issues, including one\
+      \ resulting from a sucker punch.  \n\n   - **How long did Beukeboom suffer from\
+      \ post-concussion symptoms after retirement?**  \n     Beukeboom suffered from\
+      \ post-concussion symptoms for almost two years after retiring.  \n\n---\n\n\
+      **4. Coaching Career**  \n   - **Which team did Beukeboom serve as an assistant\
+      \ coach for during the 2003\u201304 season?**  \n     He was an assistant coach\
+      \ for the Toronto Roadrunners in the American Hockey League (AHL).  \n\n   -\
+      \ **In what year did Beukeboom become president and part owner of the Lindsay\
+      \ Muskies?**  \n     Beukeboom became president and part owner of the Lindsay\
+      \ Muskies in 2005.  \n\n   - **Which team did Beukeboom join as an assistant\
+      \ coach in 2008, and what league do they play in?**  \n     Beukeboom joined\
+      \ the Barrie Colts of the Ontario Hockey League (OHL) as an assistant coach\
+      \ in 2008.  \n\n   - **What notable transition did Beukeboom make in June 2009?**\
+      \  \n     In June 2009, Beukeboom was named an assistant coach for another team\
+      \ (not named in the context).  \n\n---\n\n**5. Philanthropy and Media**  \n\
+      \   - **What philanthropic program did Beukeboom contribute to?**  \n     He\
+      \ contributed to the \"Ice Hockey in Harlem\" program, which promotes hockey\
+      \ among local youth.  \n\n   - **What award did Beukeboom receive in 1996 for\
+      \ his service to local youth?**  \n     Beukeboom received the Rangers\u2019\
+      \ \"Crumb Bum Award\" in 1996 for his service to local youngsters.  \n\n   -\
+      \ **What was the focus of Beukeboom\u2019s role in a \"This is Sportscenter\"\
+      \ commercial?**  \n     Beukeboom appeared in a comedic Sportscenter commercial\
+      \ where he assaulted ESPN\u2019s Steve Levy for calling him \"Puke-a-boom.\"\
+      \  \n\n---\n\n**6. Family Connections**  \n   - **Who are Beukeboom\u2019s relatives\
+      \ who have connections to hockey, and what is their relation to him?**  \n \
+      \    Beukeboom\u2019s uncle is Johnny McGuire, who played in the OHL, AHL, and\
+      \ ECHL. His other uncle, Scott McGuire, spent two seasons in the Central Ontario\
+      \ Junior C Hockey League.  \n\n   - **How is Adam Beukeboom related to Jeffrey\
+      \ Scott Beukeboom?**  \n     Adam Beukeboom is Jeff Beukeboom\u2019s second\
+      \ cousin.  \n\n---\n\n**7. Legacy**  \n   - **How is Jeffrey Scott Beukeboom\
+      \ remembered in the context of hockey?**  \n     He is remembered for his physical,\
+      \ hard-hitting style, leadership as an alternate captain, and his partnership\
+      \ with Brian Leetch, helping the Rangers win the Stanley Cup in 1994. Additionally,\
+      \ his philanthropic work and dedication to youth hockey are notable aspects\
+      \ of his legacy.  "
+    verification_questions: "Here are several questions to help verify specific information\
+      \ within the text:\n\n1. **Personal Background:**  \n   - When and where was\
+      \ Jeffrey Scott Beukeboom born?  \n   - What is Jeffrey Scott Beukeboom's nationality?\n\
+      \n2. **Playing Career:**  \n   - For which NHL teams did Beukeboom play as a\
+      \ defenceman?  \n   - What was his style of play as a hockey player?  \n   -\
+      \ Which junior hockey team did Beukeboom play for, and during what years?  \n\
+      \   - In which NHL Entry Draft year was Beukeboom selected, and what was his\
+      \ draft position?  \n   - How many Stanley Cups did Beukeboom win during his\
+      \ time with the Edmonton Oilers?  \n   - On what date was Beukeboom traded to\
+      \ the New York Rangers, and why was the trade significant?  \n   - Who was Beukeboom\
+      \ frequently paired with on defense while playing for the New York Rangers?\
+      \  \n   - What were Beukeboom\u2019s contributions to the Rangers\u2019 defense?\n\
+      \n3. **Physical Style and Retirement:**  \n   - What accolade did Beukeboom\
+      \ achieve related to penalty minutes during his time with the Rangers?  \n \
+      \  - Why did Beukeboom retire from hockey in 1999?  \n   - How long did Beukeboom\
+      \ suffer from post-concussion symptoms after retirement?\n\n4. **Coaching Career:**\
+      \  \n   - Which team did Beukeboom serve as an assistant coach for during the\
+      \ 2003\u201304 season?  \n   - In what year did Beukeboom become president and\
+      \ part owner of the Lindsay Muskies?  \n   - Which team did Beukeboom join as\
+      \ an assistant coach in 2008, and what league do they play in?  \n   - What\
+      \ notable transition did Beukeboom make in June 2009?  \n\n5. **Philanthropy\
+      \ and Media:**  \n   - What philanthropic program did Beukeboom contribute to?\
+      \  \n   - What award did Beukeboom receive in 1996 for his service to local\
+      \ youth?  \n   - What was the focus of Beukeboom\u2019s role in a \"This is\
+      \ Sportscenter\" commercial?\n\n6. **Family Connections:**  \n   - Who are Beukeboom\u2019\
+      s relatives who have connections to hockey, and what is their relation to him?\
+      \  \n   - How is Adam Beukeboom related to Jeffrey Scott Beukeboom?\n\n7. **Legacy:**\
+      \  \n   - How is Jeffrey Scott Beukeboom remembered in the context of hockey?"

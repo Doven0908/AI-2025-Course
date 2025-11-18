@@ -1,0 +1,600 @@
+[
+    {
+        "question": "key events in the development of law relating to native title in australia",
+        "baseline_response": "1. Mabo v Queensland (No 2) (1992)  \n2. Native Title Act 1993 (Cth)  \n3. Wik Peoples v Queensland (1996)  \n4. Yorta Yorta v Victoria (2002)  \n5. Northern Territory v Mr Griffiths and Lorraine Jones (2019)  \n6. Timber Creek compensation case (2019)",
+        "final_answer": "Key events in the development of law relating to native title in Australia include:\n\n1. **Mabo v Queensland (No 2) (1992)** – The High Court of Australia recognized native title for the first time, overturning the doctrine of *terra nullius* and affirming that Indigenous Australians could hold rights to land based on traditional laws and customs.\n\n2. **Native Title Act 1993 (Cth)** – Enacted in response to the *Mabo* decision, this legislation established a national framework for claiming, protecting, and managing native title, and created the National Native Title Tribunal.\n\n3. **Wik Peoples v Queensland (1996)** – The High Court held that native title could coexist with certain pastoral leases, clarifying that such leases did not automatically extinguish native title, which led to significant legislative amendments in 1998.\n\n4. **Yorta Yorta v Victoria (2002)** – The High Court ruled that native title requires continuous observance of traditional laws and customs since sovereignty, setting a high evidentiary bar for claimants and shaping future native title determinations.\n\n5. **Timber Creek compensation case (2019)** – Also known as *Northern Territory v Mr Griffiths and Lorraine Jones*, this was the first High Court decision to quantify compensation for the extinguishment of native title, recognizing both economic and non-economic (cultural and spiritual) dimensions of native title loss and establishing a precedent for future compensation claims.",
+        "baseline_predictions": [
+            {
+                "start": 61,
+                "end": 67,
+                "confidence": 0.9673876166343689,
+                "text": " (Cth)"
+            },
+            {
+                "start": 70,
+                "end": 106,
+                "confidence": 0.9985055923461914,
+                "text": "3. Wik Peoples v Queensland (1996)  "
+            },
+            {
+                "start": 107,
+                "end": 247,
+                "confidence": 0.9994557499885559,
+                "text": "4. Yorta Yorta v Victoria (2002)  \n5. Northern Territory v Mr Griffiths and Lorraine Jones (2019)  \n6. Timber Creek compensation case (2019)"
+            }
+        ],
+        "cove_predictions": [
+            {
+                "start": 129,
+                "end": 143,
+                "confidence": 0.7378758788108826,
+                "text": " High Court of"
+            },
+            {
+                "start": 164,
+                "end": 171,
+                "confidence": 0.5424177050590515,
+                "text": " native"
+            },
+            {
+                "start": 197,
+                "end": 255,
+                "confidence": 0.9997847676277161,
+                "text": " overturning the doctrine of *terra nullius* and affirming"
+            },
+            {
+                "start": 379,
+                "end": 381,
+                "confidence": 0.6825366616249084,
+                "text": "th"
+            },
+            {
+                "start": 583,
+                "end": 838,
+                "confidence": 0.9998390674591064,
+                "text": "3. **Wik Peoples v Queensland (1996)** – The High Court held that native title could coexist with certain pastoral leases, clarifying that such leases did not automatically extinguish native title, which led to significant legislative amendments in 1998.\n"
+            },
+            {
+                "start": 839,
+                "end": 1474,
+                "confidence": 0.9996662139892578,
+                "text": "4. **Yorta Yorta v Victoria (2002)** – The High Court ruled that native title requires continuous observance of traditional laws and customs since sovereignty, setting a high evidentiary bar for claimants and shaping future native title determinations.\n\n5. **Timber Creek compensation case (2019)** – Also known as *Northern Territory v Mr Griffiths and Lorraine Jones*, this was the first High Court decision to quantify compensation for the extinguishment of native title, recognizing both economic and non-economic (cultural and spiritual) dimensions of native title loss and establishing a precedent for future compensation claims."
+            }
+        ]
+    },
+    {
+        "question": "who was in charge of building the golden gate bridge",
+        "baseline_response": "1. Joseph Strauss  \n2. Charles Alton Ellis  \n3. Leon Moisseiff  \n4. Irving Morrow",
+        "final_answer": "Joseph Strauss was in charge of building the Golden Gate Bridge as its chief engineer and project leader. While other professionals—such as Charles Alton Ellis (who performed critical structural engineering work), Irving Morrow (who designed the Art Deco elements and selected the bridge’s iconic color), and Leon Moisseiff (whose deflection theory influenced suspension bridge design)—made important contributions, Strauss held the official leadership role and oversaw the project from conception through construction.",
+        "baseline_predictions": [
+            {
+                "start": 2,
+                "end": 17,
+                "confidence": 0.9535066485404968,
+                "text": " Joseph Strauss"
+            },
+            {
+                "start": 20,
+                "end": 44,
+                "confidence": 0.9974581599235535,
+                "text": "2. Charles Alton Ellis  "
+            },
+            {
+                "start": 45,
+                "end": 64,
+                "confidence": 0.9876063466072083,
+                "text": "3. Leon Moisseiff  "
+            },
+            {
+                "start": 65,
+                "end": 81,
+                "confidence": 0.9897019863128662,
+                "text": "4. Irving Morrow"
+            }
+        ],
+        "cove_predictions": [
+            {
+                "start": 0,
+                "end": 14,
+                "confidence": 0.8211415410041809,
+                "text": "Joseph Strauss"
+            },
+            {
+                "start": 105,
+                "end": 415,
+                "confidence": 0.9996911287307739,
+                "text": " While other professionals—such as Charles Alton Ellis (who performed critical structural engineering work), Irving Morrow (who designed the Art Deco elements and selected the bridge’s iconic color), and Leon Moisseiff (whose deflection theory influenced suspension bridge design)—made important contributions,"
+            }
+        ]
+    },
+    {
+        "question": "when do you have the right to remain silent",
+        "baseline_response": "1. Miranda v. Arizona  \n2. United States Supreme Court  \n3. Fifth Amendment  \n4. U.S. Constitution  \n5. Law enforcement officers  \n6. Custodial interrogation  \n7. Police custody  \n8. Criminal suspect",
+        "final_answer": "You have the right to remain silent primarily during **custodial interrogation**—that is, when you are in **police custody** and subject to questioning by **law enforcement officers**. This right is guaranteed by the **Fifth Amendment** to the **U.S. Constitution**, which protects individuals from self-incrimination. The **United States Supreme Court** affirmed and clarified this protection in the landmark case **Miranda v. Arizona (1966)**, requiring that criminal suspects be informed of their rights—including the right to remain silent and the warning that anything they say can be used against them in court—before custodial interrogation begins. While the specifics may vary by jurisdiction, the core principle applies to **criminal suspects** in the U.S. legal system.",
+        "baseline_predictions": [
+            {
+                "start": 1,
+                "end": 23,
+                "confidence": 0.9572826027870178,
+                "text": ". Miranda v. Arizona  "
+            },
+            {
+                "start": 131,
+                "end": 199,
+                "confidence": 0.9899020195007324,
+                "text": "6. Custodial interrogation  \n7. Police custody  \n8. Criminal suspect"
+            }
+        ],
+        "cove_predictions": [
+            {
+                "start": 105,
+                "end": 108,
+                "confidence": 0.6271445155143738,
+                "text": " **"
+            },
+            {
+                "start": 122,
+                "end": 124,
+                "confidence": 0.5152086615562439,
+                "text": "**"
+            },
+            {
+                "start": 154,
+                "end": 157,
+                "confidence": 0.7356281280517578,
+                "text": " **"
+            },
+            {
+                "start": 160,
+                "end": 172,
+                "confidence": 0.5109251737594604,
+                "text": " enforcement"
+            },
+            {
+                "start": 396,
+                "end": 444,
+                "confidence": 0.9888922572135925,
+                "text": " the landmark case **Miranda v. Arizona (1966)**"
+            },
+            {
+                "start": 701,
+                "end": 779,
+                "confidence": 0.823915958404541,
+                "text": " the core principle applies to **criminal suspects** in the U.S. legal system."
+            }
+        ]
+    },
+    {
+        "question": "bob's big boy restaurants in southern california",
+        "baseline_response": "1. Burbank  \n2. Downey  \n3. Norco  \n4. Northridge  \n5. San Bernardino",
+        "final_answer": "All listed Bob's Big Boy restaurants are confirmed to be in Southern California. Therefore, the refined answer remains unchanged from the baseline:\n\n1. Burbank  \n2. Downey  \n3. Norco  \n4. Northridge  \n5. San Bernardino",
+        "baseline_predictions": [
+            {
+                "start": 38,
+                "end": 49,
+                "confidence": 0.5848190188407898,
+                "text": " Northridge"
+            },
+            {
+                "start": 52,
+                "end": 69,
+                "confidence": 0.9599825739860535,
+                "text": "5. San Bernardino"
+            }
+        ],
+        "cove_predictions": [
+            {
+                "start": 103,
+                "end": 133,
+                "confidence": 0.6859355568885803,
+                "text": " answer remains unchanged from"
+            },
+            {
+                "start": 137,
+                "end": 146,
+                "confidence": 0.5539029240608215,
+                "text": " baseline"
+            },
+            {
+                "start": 201,
+                "end": 218,
+                "confidence": 0.9699375629425049,
+                "text": "5. San Bernardino"
+            }
+        ]
+    },
+    {
+        "question": "who are they singing about in american pie",
+        "baseline_response": "1. Buddy Holly  \n2. Ritchie Valens  \n3. The Big Bopper (J.P. Richardson)",
+        "final_answer": "The song \"American Pie\" by Don McLean mourns the collective loss of three musicians who died in a plane crash on February 3, 1959—Buddy Holly, Ritchie Valens, and The Big Bopper (J.P. Richardson)—an event McLean dubbed \"the day the music died.\" While all three are referenced in the song as part of this pivotal tragedy, Buddy Holly is considered the central figure, as he was a major influence on McLean and symbolizes the loss of innocence in early rock and roll. Thus, the song is not about one person alone, but primarily centers on Buddy Holly within the broader tribute to all three artists.",
+        "baseline_predictions": [
+            {
+                "start": 39,
+                "end": 43,
+                "confidence": 0.635766863822937,
+                "text": " The"
+            },
+            {
+                "start": 47,
+                "end": 72,
+                "confidence": 0.9945297837257385,
+                "text": " Bopper (J.P. Richardson)"
+            }
+        ],
+        "cove_predictions": [
+            {
+                "start": 109,
+                "end": 124,
+                "confidence": 0.9755065441131592,
+                "text": " on February 3,"
+            },
+            {
+                "start": 158,
+                "end": 196,
+                "confidence": 0.9984731078147888,
+                "text": " and The Big Bopper (J.P. Richardson)—"
+            },
+            {
+                "start": 324,
+                "end": 332,
+                "confidence": 0.6901717782020569,
+                "text": "dy Holly"
+            },
+            {
+                "start": 335,
+                "end": 350,
+                "confidence": 0.6417641639709473,
+                "text": " considered the"
+            },
+            {
+                "start": 366,
+                "end": 404,
+                "confidence": 0.9984087347984314,
+                "text": " as he was a major influence on McLean"
+            }
+        ]
+    },
+    {
+        "question": "the federal reserve bank of the united states is also known as",
+        "baseline_response": "1. The Fed  \n2. Federal Reserve System",
+        "final_answer": "The Federal Reserve Bank of the United States is also known as:\n\n1. The Fed  \n2. The Federal Reserve System",
+        "baseline_predictions": [],
+        "cove_predictions": []
+    },
+    {
+        "question": "who sang the theme song to bosom buddies",
+        "baseline_response": "1. Billy Joel",
+        "final_answer": "Billy Joel sang the theme song to *Bosom Buddies*. The song is titled “My Life,” and it was used as the show’s opening theme during its original run from 1980 to 1982.",
+        "baseline_predictions": [],
+        "cove_predictions": [
+            {
+                "start": 84,
+                "end": 167,
+                "confidence": 0.9983096122741699,
+                "text": " it was used as the show’s opening theme during its original run from 1980 to 1982."
+            }
+        ]
+    },
+    {
+        "question": "who wrote if loving you is wrong i dont want to be right",
+        "baseline_response": "1. Homer Banks  \n2. Carl Hampton  \n3. Raymond Jackson",
+        "final_answer": "The song \"If Loving You Is Wrong I Don't Want to Be Right\" was co-written by Homer Banks, Carl Hampton, and Raymond Jackson.",
+        "baseline_predictions": [],
+        "cove_predictions": []
+    },
+    {
+        "question": "what do britain's got talent winners win",
+        "baseline_response": "1. Cash prize  \n2. Opportunity to perform at the Royal Variety Performance",
+        "final_answer": "The winner of *Britain's Got Talent* receives a £250,000 cash prize and the opportunity to perform at the Royal Variety Performance.",
+        "baseline_predictions": [],
+        "cove_predictions": [
+            {
+                "start": 36,
+                "end": 67,
+                "confidence": 0.9955499172210693,
+                "text": " receives a £250,000 cash prize"
+            }
+        ]
+    },
+    {
+        "question": "who got relegated from the premier league 2018",
+        "baseline_response": "1. Swansea City  \n2. Stoke City  \n3. West Bromwich Albion",
+        "final_answer": "The teams relegated from the Premier League at the end of the 2017–18 season (commonly referred to as the 2018 relegation) were:\n\n1. Swansea City  \n2. Stoke City  \n3. West Bromwich Albion",
+        "baseline_predictions": [],
+        "cove_predictions": [
+            {
+                "start": 9,
+                "end": 19,
+                "confidence": 0.7044628858566284,
+                "text": " relegated"
+            },
+            {
+                "start": 28,
+                "end": 122,
+                "confidence": 0.9887396693229675,
+                "text": " Premier League at the end of the 2017–18 season (commonly referred to as the 2018 relegation)"
+            }
+        ]
+    },
+    {
+        "question": "where is sugar cane grown in the caribbean",
+        "baseline_response": "1. Jamaica  \n2. Cuba  \n3. Dominican Republic  \n4. Trinidad and Tobago  \n5. Barbados  \n6. Guyana  \n7. Haiti  \n8. Puerto Rico  \n9. Saint Kitts and Nevis  \n10. Grenada",
+        "final_answer": "Final Refined Answer:\n\nSugar cane is grown in the following Caribbean countries and territories:\n\n1. **Jamaica** – Still cultivated today, though on a smaller scale than historically.  \n2. **Cuba** – One of the country’s most important agricultural products with deep historical and economic significance.  \n3. **Dominican Republic** – Actively grown.  \n4. **Trinidad and Tobago** – Grown on a smaller scale following the closure of the state sugar company in 2003, with some efforts toward revival.  \n5. **Barbados** – Still cultivated, with ongoing cultural and economic ties through rum production and heritage.  \n6. **Guyana** – A major historical and current crop, remaining a key export.  \n7. **Haiti** – Grown, though specific details on current scale are limited.  \n8. **Puerto Rico** – Cultivated on a small scale today, primarily for local use, artisanal products, and cultural preservation.  \n9. **Saint Kitts and Nevis** – Commercial production ended in 2005; only potential small-scale or experimental cultivation remains.  \n10. **Grenada** – Still grown, mainly for local use and small-scale rum production.\n\nNote: While sugar cane is or has been grown in all listed locations, its current economic significance and scale of production vary widely—from active commercial cultivation (e.g., Cuba, Guyana) to largely historical or niche production (e.g., Saint Kitts and Nevis, Puerto Rico).",
+        "baseline_predictions": [
+            {
+                "start": 25,
+                "end": 44,
+                "confidence": 0.8865601420402527,
+                "text": " Dominican Republic"
+            },
+            {
+                "start": 47,
+                "end": 71,
+                "confidence": 0.9810793399810791,
+                "text": "4. Trinidad and Tobago  "
+            },
+            {
+                "start": 86,
+                "end": 95,
+                "confidence": 0.9885877370834351,
+                "text": "6. Guyana"
+            },
+            {
+                "start": 98,
+                "end": 108,
+                "confidence": 0.9749835133552551,
+                "text": "7. Haiti  "
+            },
+            {
+                "start": 109,
+                "end": 152,
+                "confidence": 0.9898383617401123,
+                "text": "8. Puerto Rico  \n9. Saint Kitts and Nevis  "
+            },
+            {
+                "start": 153,
+                "end": 164,
+                "confidence": 0.9279731512069702,
+                "text": "10. Grenada"
+            }
+        ],
+        "cove_predictions": [
+            {
+                "start": 199,
+                "end": 305,
+                "confidence": 0.8058039546012878,
+                "text": " One of the country’s most important agricultural products with deep historical and economic significance."
+            },
+            {
+                "start": 308,
+                "end": 353,
+                "confidence": 0.996122419834137,
+                "text": "3. **Dominican Republic** – Actively grown.  "
+            },
+            {
+                "start": 354,
+                "end": 501,
+                "confidence": 0.9984052777290344,
+                "text": "4. **Trinidad and Tobago** – Grown on a smaller scale following the closure of the state sugar company in 2003, with some efforts toward revival.  "
+            },
+            {
+                "start": 537,
+                "end": 616,
+                "confidence": 0.9456239938735962,
+                "text": " with ongoing cultural and economic ties through rum production and heritage.  "
+            },
+            {
+                "start": 617,
+                "end": 773,
+                "confidence": 0.9973184466362,
+                "text": "6. **Guyana** – A major historical and current crop, remaining a key export.  \n7. **Haiti** – Grown, though specific details on current scale are limited.  "
+            },
+            {
+                "start": 776,
+                "end": 901,
+                "confidence": 0.9952690005302429,
+                "text": " **Puerto Rico** – Cultivated on a small scale today, primarily for local use, artisanal products, and cultural preservation."
+            },
+            {
+                "start": 906,
+                "end": 1035,
+                "confidence": 0.9968017339706421,
+                "text": " **Saint Kitts and Nevis** – Commercial production ended in 2005; only potential small-scale or experimental cultivation remains."
+            },
+            {
+                "start": 1038,
+                "end": 1121,
+                "confidence": 0.9920753240585327,
+                "text": "10. **Grenada** – Still grown, mainly for local use and small-scale rum production."
+            }
+        ]
+    },
+    {
+        "question": "what disease is caused by bacterium treponema pallidum",
+        "baseline_response": "1. Syphilis",
+        "final_answer": "Syphilis",
+        "baseline_predictions": [],
+        "cove_predictions": []
+    },
+    {
+        "question": "what are the first four officers in the line of succession to the presidency",
+        "baseline_response": "1. Vice President  \n2. Speaker of the House of Representatives  \n3. President pro tempore of the Senate  \n4. Secretary of State",
+        "final_answer": "The first four officers in the line of succession to the U.S. presidency are:\n\n1. Vice President  \n2. Speaker of the House of Representatives  \n3. President pro tempore of the Senate  \n4. Secretary of State",
+        "baseline_predictions": [],
+        "cove_predictions": []
+    },
+    {
+        "question": "what three factors make up american political culture",
+        "baseline_response": "1. Liberty  \n2. Equality  \n3. Democracy",
+        "final_answer": "The three core factors that make up American political culture are liberty, equality, and democracy. These foundational values are enshrined in key documents like the Declaration of Independence and the U.S. Constitution and continue to shape the nation’s political institutions, discourse, and civic identity—though their interpretation and application have evolved and been debated throughout U.S. history.",
+        "baseline_predictions": [
+            {
+                "start": 0,
+                "end": 26,
+                "confidence": 0.9656276106834412,
+                "text": "1. Liberty  \n2. Equality  "
+            },
+            {
+                "start": 27,
+                "end": 39,
+                "confidence": 0.8770613670349121,
+                "text": "3. Democracy"
+            }
+        ],
+        "cove_predictions": [
+            {
+                "start": 0,
+                "end": 14,
+                "confidence": 0.7008314728736877,
+                "text": "The three core"
+            },
+            {
+                "start": 62,
+                "end": 220,
+                "confidence": 0.9832549095153809,
+                "text": " are liberty, equality, and democracy. These foundational values are enshrined in key documents like the Declaration of Independence and the U.S. Constitution"
+            },
+            {
+                "start": 316,
+                "end": 358,
+                "confidence": 0.7542126774787903,
+                "text": " their interpretation and application have"
+            },
+            {
+                "start": 370,
+                "end": 383,
+                "confidence": 0.6900852918624878,
+                "text": " been debated"
+            },
+            {
+                "start": 396,
+                "end": 407,
+                "confidence": 0.6817957758903503,
+                "text": ".S. history"
+            }
+        ]
+    },
+    {
+        "question": "what size engine does a 2000 chevy silverado have",
+        "baseline_response": "1. 4.3L V6  \n2. 4.8L V8  \n3. 5.3L V8  \n4. 6.0L V8",
+        "final_answer": "The 2000 Chevrolet Silverado was available with the following engine options:\n\n- **4.3L V6** (Vortec 4300) – base engine, primarily in the 1500 series  \n- **4.8L V8** (Vortec 4800 LR4) – base V8 option for the 1500 series  \n- **5.3L V8** (Vortec 5300 LM7) – available across various trims  \n- **6.0L V8** (Vortec 6000 LQ4) – offered mainly in 2500 and 3500 heavy-duty models",
+        "baseline_predictions": [
+            {
+                "start": 15,
+                "end": 23,
+                "confidence": 0.8426249027252197,
+                "text": " 4.8L V8"
+            }
+        ],
+        "cove_predictions": [
+            {
+                "start": 80,
+                "end": 85,
+                "confidence": 0.8077449798583984,
+                "text": " **4."
+            },
+            {
+                "start": 86,
+                "end": 87,
+                "confidence": 0.7204052805900574,
+                "text": "L"
+            },
+            {
+                "start": 154,
+                "end": 157,
+                "confidence": 0.7107935547828674,
+                "text": " **"
+            },
+            {
+                "start": 158,
+                "end": 161,
+                "confidence": 0.7238312363624573,
+                "text": ".8L"
+            },
+            {
+                "start": 164,
+                "end": 166,
+                "confidence": 0.7011189460754395,
+                "text": "**"
+            },
+            {
+                "start": 169,
+                "end": 172,
+                "confidence": 0.6036670207977295,
+                "text": "ort"
+            },
+            {
+                "start": 179,
+                "end": 194,
+                "confidence": 0.9204922914505005,
+                "text": " LR4) – base V8"
+            },
+            {
+                "start": 250,
+                "end": 255,
+                "confidence": 0.8672716021537781,
+                "text": " LM7)"
+            },
+            {
+                "start": 314,
+                "end": 322,
+                "confidence": 0.9355642795562744,
+                "text": "000 LQ4)"
+            },
+            {
+                "start": 351,
+                "end": 362,
+                "confidence": 0.8302215337753296,
+                "text": " 3500 heavy"
+            }
+        ]
+    },
+    {
+        "question": "where does song of the south take place",
+        "baseline_response": "1. Georgia  \n2. Southern United States",
+        "final_answer": "*Song of the South* takes place on a plantation in Georgia during the Reconstruction era following the American Civil War.",
+        "baseline_predictions": [],
+        "cove_predictions": []
+    },
+    {
+        "question": "which two frescos are displayed in the royal gallery in the houses of parliament",
+        "baseline_response": "1. The Death of Nelson  \n2. The Meeting of Wellington and Blücher",
+        "final_answer": "The two frescoes displayed in the Royal Gallery in the Houses of Parliament are:\n\n1. *The Death of Nelson*  \n2. *The Meeting of Wellington and Blücher*\n\nBoth were painted by Daniel Maclise and depict pivotal British military victories—the Battle of Trafalgar (1805) and the Battle of Waterloo (1815), respectively.",
+        "baseline_predictions": [],
+        "cove_predictions": []
+    },
+    {
+        "question": "what are the three sites on the ribosome",
+        "baseline_response": "1. A site  \n2. P site  \n3. E site",
+        "final_answer": "The three sites on the ribosome are:\n\n1. A site  \n2. P site  \n3. E site",
+        "baseline_predictions": [],
+        "cove_predictions": []
+    },
+    {
+        "question": "where is the rugby league world cup 2017 held",
+        "baseline_response": "1. Australia  \n2. New Zealand  \n3. Papua New Guinea",
+        "final_answer": "The 2017 Rugby League World Cup was co-hosted by Australia, New Zealand, and Papua New Guinea. The majority of matches, including the final, took place in Australia, while New Zealand and Papua New Guinea hosted select group stage matches—Papua New Guinea hosted three matches in Port Moresby.",
+        "baseline_predictions": [],
+        "cove_predictions": [
+            {
+                "start": 98,
+                "end": 164,
+                "confidence": 0.8485655784606934,
+                "text": " majority of matches, including the final, took place in Australia"
+            },
+            {
+                "start": 165,
+                "end": 293,
+                "confidence": 0.9957560896873474,
+                "text": " while New Zealand and Papua New Guinea hosted select group stage matches—Papua New Guinea hosted three matches in Port Moresby."
+            }
+        ]
+    },
+    {
+        "question": "when did india win the cricket world cup",
+        "baseline_response": "1. 1983  \n2. 2011",
+        "final_answer": "India won the Cricket World Cup in **1983** and **2011**.",
+        "baseline_predictions": [],
+        "cove_predictions": []
+    }
+]

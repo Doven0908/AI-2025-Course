@@ -1,0 +1,189 @@
+evaluator_name: ragas
+results:
+  accuracy: 0.75
+  coherence: 9
+  conciseness: 5
+  context_precision: 0.8055555555287036
+  context_recall: 0.75
+  context_relevance: 1.0
+  correctness: 0.5133596223957471
+  factual_correctness: 0.25
+  faithfulness: 1.0
+  fluency: 10
+  overall_quality: 1
+  relevance: 0.9700899672608337
+solve_result:
+  answer: "The Ottoman Empire gradually took over Greece beginning in the 14th century:\n\
+    \n- **1371**: Victory over the Serbs at the Battle of Maritsa marked the start\
+    \ of Ottoman expansion into the region.  \n- **1453**: The Ottomans captured Constantinople,\
+    \ severely weakening Byzantine hold in the Greek-speaking world.  \n- **1458**:\
+    \ Athens fell to the Ottomans.  \n- **1460**: The Despotate of the Morea, the\
+    \ last remnant of the Byzantine Empire in mainland Greece, fell to the Ottomans.\
+    \  \n- **By the early 16th century**: The Ottomans controlled most of mainland\
+    \ Greece and the majority of the Aegean islands, except some Venetian and Genoese-controlled\
+    \ port cities, the Ionian Islands, and later Venetian territories like Cyprus\
+    \ (1571) and Crete (1670).  \n\nThus, the full Ottoman takeover of Greece happened\
+    \ incrementally from the late 14th century to the early 16th century."
+  dataitem:
+    answer: Different parts of Greece were taken by the Ottoman Empire at different
+      times, with some being untaken by the Ottomans. In 1453, the Ottoman Empire
+      took over all of mainland Greece except for the Despotate of the Morea, which
+      fell to the Ottomans in 1460, completing the takeover of mainland Greece. In
+      1458, the Ottomans took over Athens, the capital and largest city of Greece.
+      In 1670, the Ottoman Empire completed its takeover of Greece except for the
+      Ionian Islands, the only part of the Greek-speaking world that escaped Ottoman
+      rule, which remained Venetian until 1797.
+    contexts:
+    - content: the last emperor from the Serbian Nemanjic dynasty. This was followed
+        by another Ottoman draw in the 1389 Battle of Kosovo. With no further threat
+        by the Serbs and the subsequent Byzantine civil wars, the Ottomans besieged
+        and took Constantinople in 1453 and then advanced southwards into Greece,
+        capturing Athens in 1458. The Greeks held out in the Peloponnese until 1460,
+        and the Venetians and Genoese clung to some of the islands, but by the early
+        16th century all of mainland Greece and most of the Aegean islands were in
+        Ottoman hands, excluding several port cities still held by the
+      score: 0.80615234375
+      title: Ottoman Greece
+    - content: "in Peloponnese did not become part of the Ottoman administration,\
+        \ although the latter was under Ottoman suzerainty. The Eastern Roman Empire,\
+        \ the remnant of the ancient Roman Empire which ruled most of the Greek-speaking\
+        \ world for over 1100 years, had been fatally weakened since the sacking of\
+        \ Constantinople by the Latin Crusaders in 1204. The Ottoman advance into\
+        \ Greece was preceded by victory over the Serbs to its north. First, the Ottomans\
+        \ won the Battle of Maritsa in 1371. The Serb forces were then led by the\
+        \ King Vuka\u0161in of Serbia, the father of Prince Marko and the co-ruler\
+        \ of"
+      score: 0.76953125
+      title: Ottoman Greece
+    - content: of Constantinople to the Ottomans in 1453, the Despotate of the Morea
+        was the last remnant of the Byzantine Empire to hold out against the Ottomans.
+        However, it fell to the Ottomans in 1460, completing the conquest of mainland
+        Greece. While most of mainland Greece and the Aegean islands was under Ottoman
+        control by the end of the 15th century, Cyprus and Crete remained Venetian
+        territory and did not fall to the Ottomans until 1571 and 1670 respectively.
+        The only part of the Greek-speaking world that escaped Ottoman rule was the
+        Ionian Islands, which remained Venetian until 1797. Corfu withstood
+      score: 0.7685546875
+      title: Ottoman Greece
+    - content: of Constantinople in 1453 and then the fall of Mistra in the Despotate
+        of the Morea, most of the plains of present-day Greece fell entirely into
+        the hands of the Ottoman Empire. The only territories that did not fall under
+        Ottoman rule were the mountain ranges (populated by Greeks and inaccessible
+        to the Ottoman Turks), as well as a handful of islands and coastal possessions
+        under the control of Venice. This situation lasted until at least 1821, although
+        there were some parts of Greece, such as Macedonia and Epirus, that still
+        remained in Turkish hands until the 20th century. This
+      score: 0.76708984375
+      title: Klepht
+    - content: (the Ottoman Sanjak of Tirhala) but also much of Epirus. The Ottoman
+        government, however, refused to implement the protocol's terms, leading Greece
+        and the Empire to the verge of war. In the end, the Great Powers applied pressure
+        on Greece to reduce her claims. On 24 May 1881, the Great Powers and the Ottoman
+        Empire signed a treaty which finalized the new Greco-Turkish border, leading
+        to the incorporation of most of Thessaly (except the Elassona area) and of
+        the area around Arta into Greece. Among other measures, Greece in turn pledge
+        to respect the religious identity and autonomy, as well
+      score: 0.76123046875
+      title: Convention of Constantinople (1881)
+    - content: the Orthodox Byzantine Greeks against them, led to the emergence of
+        a distinct Greek national identity. The Byzantine Empire was restored by the
+        Palaiologos dynasty in 1261, but it was a shadow of its former self, and constant
+        civil wars and foreign attacks in the 14th century brought about its terminal
+        decline. As a result, most of Greece gradually became part of the Ottoman
+        Empire in the late 14th and early 15th century, culminating in the Fall of
+        Constantinople in 1453, the conquest of the Duchy of Athens in 1458, and of
+        the Despotate of the Morea in 1460. Ottoman
+      score: 0.7578125
+      title: History of modern Greece
+    - content: who had contributed mightily to Greek independence. By the Convention
+        of May 11, 1832, Greece was finally recognized as a sovereign state. When
+        the Ottomans finally granted the Greeks their independence, a multi-power
+        treaty was formally established in 1830. Capodistria, who had been Greece's
+        unrecognized head of state since 1828, was assassinated by the Mavromichalis
+        family in October 1831. To prevent further experiments in republican government,
+        the Great Powers, especially Russia, insisted that Greece be a monarchy, and
+        the Bavarian Prince Otto, was chosen to be its first king. Ottoman Greece
+        Most of the areas which today are within modern
+      score: 0.7548828125
+      title: Ottoman Greece
+    - content: Empire. The Greek War of Independence, which began in early 1821, provided
+        further evidence of the internal and military weakness of the Ottoman Empire,
+        and the commission of atrocities by Ottoman military forces (see Chios massacre)
+        also undermined the Ottomans. The disbandment of the centuries-old Janissary
+        corps by Sultan Mahmud II on 15 June 1826 (Auspicious Incident) helped the
+        Ottoman Empire in the longer term, but in the short term it deprived the country
+        of its existing standing army. In 1828, the allied Anglo-Franco-Russian fleet
+        destroyed almost all the Ottoman naval forces during the Battle of Navarino.
+        In 1830, Greece
+      score: 0.75341796875
+      title: Crimean War
+    - content: military actions between Serbia, Greece, Montenegro and Romania against
+        Bulgaria were in full progress, the Ottoman Empire took advantage of the situation
+        to recover some of its former possessions in Thrace including Adrianople.
+        In the beginning of July 1913 its forces crossed the Bulgarian border on the
+        line Midiya-Enos, settled by the Treaty of London in May 1913. Because the
+        Bulgarian troops had all been allocated to the front with Serbia and Greece,
+        the Ottoman armies suffered no combat casualties and moved northwards and
+        westwards without battles. Thus reoccupied territories were given back to
+        the Ottoman Empire by the Treaty
+      score: 0.75341796875
+      title: Destruction of the Thracian Bulgarians in 1913
+    - content: I, and the participation of the Ottoman Empire on the side of the Central
+        Powers, Greece received an order to land in Smyrna by the Triple Entente as
+        part of the planned partition of the Ottoman Empire. On May 15, 1919, twenty
+        thousand Greek soldiers landed in Smyrna, taking control of the city and its
+        surroundings under cover of the Greek, French, and British navies. Legal justifications
+        for the landings was found in the article 7 of the Armistice of Mudros, which
+        allowed the Allies "to occupy any strategic points in the event of any situation
+        arising which threatens the
+      score: 0.75244140625
+      title: Greeks in Turkey
+    meta:
+      dataset: ASQA
+    question: When did the ottoman empire take over greece?
+  metadata:
+    dataset: ASQA
+    model_name: openai/gpt-4o
+    retrieved_contexts:
+    - the last emperor from the Serbian Nemanjic dynasty. This was followed by another
+      Ottoman draw in the 1389 Battle of Kosovo. With no further threat by the Serbs
+      and the subsequent Byzantine civil wars, the Ottomans besieged and took Constantinople
+      in 1453 and then advanced southwards into Greece, capturing Athens in 1458.
+      The Greeks held out in the Peloponnese until 1460, and the Venetians and Genoese
+      clung to some of the islands, but by the early 16th century all of mainland
+      Greece and most of the Aegean islands were in Ottoman hands, excluding several
+      port cities still held by the
+    - "in Peloponnese did not become part of the Ottoman administration, although\
+      \ the latter was under Ottoman suzerainty. The Eastern Roman Empire, the remnant\
+      \ of the ancient Roman Empire which ruled most of the Greek-speaking world for\
+      \ over 1100 years, had been fatally weakened since the sacking of Constantinople\
+      \ by the Latin Crusaders in 1204. The Ottoman advance into Greece was preceded\
+      \ by victory over the Serbs to its north. First, the Ottomans won the Battle\
+      \ of Maritsa in 1371. The Serb forces were then led by the King Vuka\u0161in\
+      \ of Serbia, the father of Prince Marko and the co-ruler of"
+    - of Constantinople to the Ottomans in 1453, the Despotate of the Morea was the
+      last remnant of the Byzantine Empire to hold out against the Ottomans. However,
+      it fell to the Ottomans in 1460, completing the conquest of mainland Greece.
+      While most of mainland Greece and the Aegean islands was under Ottoman control
+      by the end of the 15th century, Cyprus and Crete remained Venetian territory
+      and did not fall to the Ottomans until 1571 and 1670 respectively. The only
+      part of the Greek-speaking world that escaped Ottoman rule was the Ionian Islands,
+      which remained Venetian until 1797. Corfu withstood
+    - of Constantinople in 1453 and then the fall of Mistra in the Despotate of the
+      Morea, most of the plains of present-day Greece fell entirely into the hands
+      of the Ottoman Empire. The only territories that did not fall under Ottoman
+      rule were the mountain ranges (populated by Greeks and inaccessible to the Ottoman
+      Turks), as well as a handful of islands and coastal possessions under the control
+      of Venice. This situation lasted until at least 1821, although there were some
+      parts of Greece, such as Macedonia and Epirus, that still remained in Turkish
+      hands until the 20th century. This
+    - (the Ottoman Sanjak of Tirhala) but also much of Epirus. The Ottoman government,
+      however, refused to implement the protocol's terms, leading Greece and the Empire
+      to the verge of war. In the end, the Great Powers applied pressure on Greece
+      to reduce her claims. On 24 May 1881, the Great Powers and the Ottoman Empire
+      signed a treaty which finalized the new Greco-Turkish border, leading to the
+      incorporation of most of Thessaly (except the Elassona area) and of the area
+      around Arta into Greece. Among other measures, Greece in turn pledge to respect
+      the religious identity and autonomy, as well
+    solve_method: use-rag
+    solve_time: 2.85994815826416

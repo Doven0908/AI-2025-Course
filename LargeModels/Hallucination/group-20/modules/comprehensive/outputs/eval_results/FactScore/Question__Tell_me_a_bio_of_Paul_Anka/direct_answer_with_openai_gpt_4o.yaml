@@ -1,0 +1,175 @@
+evaluator_name: ragas
+results:
+  accuracy: null
+  coherence: 10
+  conciseness: 7
+  context_precision: null
+  context_recall: null
+  context_relevance: null
+  correctness: null
+  factual_correctness: null
+  faithfulness: null
+  fluency: 10
+  overall_quality: 1
+  relevance: 0.7784463532948364
+solve_result:
+  answer: 'Paul Anka is a legendary Canadian-American singer, songwriter, and actor
+    who rose to global fame in the mid-20th century as one of the most prominent pop
+    artists of his era. Born on **July 30, 1941**, in **Ottawa, Ontario, Canada**,
+    to Lebanese immigrant parents, Anka demonstrated a remarkable passion and talent
+    for music from a young age.
+
+
+    He gained immense popularity as a teenager with his breakthrough single, **"Diana"**
+    (1957), which became a massive international hit and sold millions of copies.
+    The song showcased Anka''s distinctive voice and songwriting abilities, instantly
+    propelling him into the spotlight. Following "Diana," Anka continued his successful
+    streak with other major hits, including **"Lonely Boy," "Put Your Head on My Shoulder,"
+    "You Are My Destiny,"** and **"Having My Baby."** His music appealed to audiences
+    of all ages and marked him as one of the leading figures in the early pop music
+    scene.
+
+
+    Paul Anka is also widely regarded as one of the most accomplished songwriters
+    of his time. Besides writing his own songs, he penned hits for many other artists,
+    most notably **"My Way,"** which became Frank Sinatra''s iconic anthem. He also
+    wrote the theme for Johnny Carson''s **"The Tonight Show."**
+
+
+    Beyond music, Anka explored acting and appeared in multiple films during his career,
+    such as **"The Longest Day"** (1962), a World War II epic drama. His versatility
+    as a performer has helped him sustain a career spanning several decades, and he
+    remains an influential figure in the entertainment industry.
+
+
+    Throughout his career, Anka has received numerous accolades and honors, including
+    a star on the **Hollywood Walk of Fame** and induction into the **Canadian Music
+    Hall of Fame.** To this day, Anka continues to perform and record music, demonstrating
+    his enduring appeal and timeless talent.
+
+
+    In his personal life, Anka has five daughters and a son from multiple marriages.
+    His life story, including his experiences in show business, was documented in
+    his memoir, **"My Way: An Autobiography,"** published in 2013.
+
+
+    Paul Anka''s contributions to music, both as a performer and songwriter, have
+    solidified his place as one of the most important and influential artists of the
+    20th century.'
+  dataitem:
+    answer: null
+    contexts:
+    - content: "Paul Anka Paul Albert Anka, (, Arabic: \u0628\u0648\u0644 \u0639\u0646\
+        \u0642\u0627; born July 30, 1941) is a Canadian singer, songwriter and actor.\
+        \ Anka became famous during the late 1950s, 1960s, and 1970s with hit songs\
+        \ like \"Diana\", \"Lonely Boy\", \"Put Your Head on My Shoulder\", and \"\
+        (You're) Having My Baby\". He wrote such well-known music as the theme for\
+        \ \"The Tonight Show Starring Johnny Carson\" and one of Tom Jones's biggest\
+        \ hits, \"She's a Lady\". He also wrote the English lyrics to Claude Fran\xE7\
+        ois and Jacques Revaux's music for Frank Sinatra's signature song, \"My Way\"\
+        , which has been covered by many, including"
+      score: 1.6975129
+      title: Paul Anka
+    - content: "Christians. Anka's father (Andy) was Syrian-American from 'Uy\u016B\
+        n al-W\u0101d\u012B, Syria, from the Na'Nou' (Arabic: \u0646\u0639\u0646\u0648\
+        \u0639) family and his mother (Camelia) was Canadian-Lebanese \"from the town\
+        \ of Kfar Mechki, Rashaya District, in Lebanon\". Anka sang with the St. Elias\
+        \ Antiochian Orthodox Cathedral choir under the direction of Frederick Karam,\
+        \ with whom he studied music theory. He studied piano with Winnifred Rees.\
+        \ He attended Fisher Park High School, where he was part of a vocal trio called\
+        \ the Bobby Soxers. Paul Anka recorded his first single, \"I Confess\", when\
+        \ he was 14. In 1957, with $100 given to him by his uncle,"
+      score: 1.6116903
+      title: Paul Anka
+    - content: "Anna Anka Anna Anka (\"n\xE9e\" Danuta Anna Ko\u0142odziejska, previously\
+        \ \xC5berg; born 1971), is a Swedish-American model, actress, and author.\
+        \ She was married to Canadian singer Paul Anka. Anka is featured in the Swedish\
+        \ reality show (). Anka made a brief appearance in the American film \"Dumb\
+        \ and Dumber\", credited as Anna \xC5berg. She had two lines, both in Swedish:\
+        \ () and (). She has also played minor roles in the films \"The Specialist\"\
+        \ and \"Drop Zone\". Anka has released a workout and training book called\
+        \ \"The 30-minute pregnancy workout book: The Complete Light Weight Program\
+        \ for Fitness.\" In 2009, Anka"
+      score: 1.6040506
+      title: Anna Anka
+    - content: her Polish Lowland Sheepdog after Anka. Series co-creator Daniel Palladino
+        chose the name after hearing the "Rock Swings" album at a coffeehouse. In
+        the cold open to the episode "The Real Paul Anka", both Paul Ankas were featured
+        in a dream sequence Lorelai describes to her daughter, Rory. In 1978, Anka
+        opened Jubilation, a restaurant and club considered one of the first modern-era
+        nightclubs in Las Vegas; County Commissioner Chris Giunchigliani is its first
+        female bartender. In 2012, Anka co-founded the holographic tech startup, ARHT
+        Media. He is currently a member of ARHT Media's Board of Advisors, alongsisde
+        Kevin O'Leary
+      score: 1.6032635
+      title: Paul Anka
+    - content: "Later that year, two years after marrying, Paul and Anna Anka divorced.\
+        \ By August 2014, Anna Anka said she was on good terms with Paul, though not\
+        \ with her first husband. In June 2017, Anka lost custody of her son after\
+        \ a ruling which assigned custody to Paul Anka without any mandate for guaranteed\
+        \ visitation or family therapy. In August 2017, Anna Anka appealed the decision,\
+        \ which Paul Anka criticized. Anna Anka Anna Anka (\"n\xE9e\" Danuta Anna\
+        \ Ko\u0142odziejska, previously \xC5berg; born 1971), is a Swedish-American\
+        \ model, actress, and author. She was married to Canadian singer Paul Anka.\
+        \ Anka is featured"
+      score: 1.5945082
+      title: Anna Anka
+    - content: of the best moments of the show. In 1972, a street in Ottawa was named
+        Paul Anka Drive. In 1981, the Ottawa City Council named August 26 as "Paul
+        Anka Day" to celebrate his quarter-century in show business. Anka won the
+        Juno Award for Composer of the Year (an award given for songwriting) in 1975.
+        He has been nominated for Juno Awards many other times. He was inducted into
+        the Canadian Music Hall of Fame in 1980. Anka was inducted into Canada's Walk
+        of Fame in 2005. In the mid-1980s, Anka was secretly recorded while launching
+        a tirade against his
+      score: 1.5712745
+      title: Paul Anka
+    - content: "daughter of a Lebanese diplomat, Charles de Zogheb, from February\
+        \ 16, 1963, until 2001. The couple met in 1962 in San Juan, Puerto Rico, where\
+        \ she was a fashion model on assignment and under contract to the Eileen Ford\
+        \ Agency. Zogheb, brought up in Egypt, is of Lebanese, English, French, Dutch,\
+        \ and Greek descent. The couple married the following year in a ceremony at\
+        \ Paris-Orly Airport. She quit modeling after their second child was born.\
+        \ They have five daughters: Amelia, Anthea, Alicia, Amanda (married to actor\
+        \ Jason Bateman), and Alexandra. In 2008, Anka married his personal trainer,\
+        \ Anna \xC5berg, in"
+      score: 1.5466621
+      title: Paul Anka
+    - content: his career. This time he signed with United Artists and in 1974 teamed
+        up with Odia Coates to record the 1 hit, "(You're) Having My Baby", exposing
+        Anka to a new generation of fans and proved his staying power among his original
+        fan base that was now maturing. Anka also wrote five songs which were included
+        on an album by Don Goodwin. Anka and Coates would record two more duets that
+        made it into the Top 10, "One Man Woman/One Woman Man" ( 7) and "I Don't Like
+        to Sleep Alone" ( 8), and the 15 duet "(I Believe) There's
+      score: 1.5235914
+      title: Paul Anka
+    - content: "and Brian Mulroney. Works cited Paul Anka Paul Albert Anka, (, Arabic:\
+        \ \u0628\u0648\u0644 \u0639\u0646\u0642\u0627; born July 30, 1941) is a Canadian\
+        \ singer, songwriter and actor. Anka became famous during the late 1950s,\
+        \ 1960s, and 1970s with hit songs like \"Diana\", \"Lonely Boy\", \"Put Your\
+        \ Head on My Shoulder\", and \"(You're) Having My Baby\". He wrote such well-known\
+        \ music as the theme for \"The Tonight Show Starring Johnny Carson\" and one\
+        \ of Tom Jones's biggest hits, \"She's a Lady\". He also wrote the English\
+        \ lyrics to Claude Fran\xE7ois and Jacques Revaux's music for Frank Sinatra's\
+        \ signature song, \"My Way\", which has"
+      score: 1.5215752
+      title: Paul Anka
+    - content: in "The Real Paul Anka" episode of "Gilmore Girls". He made several
+        appearances on the NBC TV series "Las Vegas". Anka was the subject of the
+        1962 National Film Board of Canada documentary ""Lonely Boy"", considered
+        a classic work of cinema verite. He wrote and performed songs in a 1985 Canadian
+        children's Christmas cartoon, "George and the Christmas Star". In "American
+        Idol"s seasons 2 and 3, he made a special appearance and sang an adapted version
+        of "My Way" that mocked the format of the show, as well as participants, judges,
+        and the host. The performance was praised as one
+      score: 1.4745979
+      title: Paul Anka
+    meta:
+      dataset: FactScore
+    question: 'Question: Tell me a bio of Paul Anka.'
+  metadata:
+    dataset: FactScore
+    model_name: openai/gpt-4o
+    solve_method: direct-answer
+    solve_time: 7.77050256729126

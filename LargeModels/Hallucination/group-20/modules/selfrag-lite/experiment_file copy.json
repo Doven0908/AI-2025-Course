@@ -1,0 +1,228 @@
+{
+    "data": [
+        {
+            "qa_pairs": [
+                {
+                    "context": "No context provided",
+                    "question": "What is the literal meaning of the latin word camera obscura?",
+                    "short_answers": [
+                        "dark chamber"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "What is the common photograpy meaning of the latin word camera obscura?",
+                    "short_answers": [
+                        "pinhole image"
+                    ],
+                    "wikipage": null
+                }
+            ],
+            "wikipages": [
+                {
+                    "title": "Camera obscura",
+                    "url": "https://en.wikipedia.org/wiki/Camera%20obscura"
+                }
+            ],
+            "annotations": [
+                {
+                    "knowledge": [
+                        {
+                            "content": "A camera obscura (plural camerae obscurae or camera obscuras, from Latin camera obsc\u016bra, \"dark chamber\")[1] is a darkened room with a small hole or lens at one side through which an image is projected onto a wall[2][3] or table[4] opposite the hole.[2][3]",
+                            "wikipage": "Camera obscura"
+                        },
+                        {
+                            "content": "A camera obscura without a lens but with a very small hole is sometimes referred to as a pinhole camera, although this more often refers to simple (homemade) lensless cameras where photographic film or photographic paper is used.",
+                            "wikipage": "Camera obscura"
+                        }
+                    ],
+                    "long_answer": "A camera obscura, from the Latin word camera obsc\u016bra or \"dark chamber\", is a darkened room with a small hole or lens at one side through which an image is projected onto a wall or table opposite the hole. A camera obscura without a lens but with a very small hole is sometimes referred to as a pinhole camera or pinhole image, although this more often refers to simple (homemade) lensless cameras where photographic film or photographic paper is used."
+                },
+                {
+                    "knowledge": [
+                        {
+                            "content": "The word camera comes from camera obscura, which means \"dark chamber\" and is the Latin name of the original device for projecting an image of external reality onto a flat surface. The modern photographic camera evolved from the camera obscura.",
+                            "wikipage": "Camera"
+                        }
+                    ],
+                    "long_answer": "The literal meaning of the Latin word camera obscura is \"dark chamber,\" while its meaning in common photography is \"pinhole image.\" Camera obscura is also the Latin name of the original device for projecting an image of external reality onto a flat surface. The modern photographic camera evolved from the camera obscura."
+                }
+            ],
+            "sample_id": "-3346585405026933671",
+            "question": "What is the meaning of the latin word camera obscura?",
+            "docs": [
+                {
+                    "id": "585465",
+                    "title": "Camera obscura",
+                    "text": "Camera obscura Camera obscura (plural \"camera obscura\" or \"camera obscuras\"; from Latin, meaning \"dark room\": \"camera\" \"(vaulted) chamber or room,\" and \"obscura\" \"darkened, dark\"), also referred to as pinhole image, is the natural optical phenomenon that occurs when an image of a scene at the other side of a screen (or for instance a wall) is projected through a small hole in that screen as a reversed and inverted image (left to right and upside down) on a surface opposite to the opening. The surroundings of the projected image have to be relatively dark for the image to be clear,",
+                    "score": 0.77001953125,
+                    "summary": "The Latin meaning of \"camera obscura\" is \"dark room\".",
+                    "extraction": "\"Camera obscura\" comes from the Latin words \"camera\" meaning \"chamber or room\" and \"obscura\" meaning \"darkened, dark\"."
+                }
+            ],
+            "answer": "The literal meaning of the Latin word camera obscura is \"dark chamber,\" while its meaning in common photography is \"pinhole image.\" Camera obscura is also the Latin name of the original device for projecting an image of external reality onto a flat surface. The modern photographic camera evolved from the camera obscura.",
+            "openai_answer": "The Latin term *camera obscura* translates to \"dark chamber\" in English. It refers to a device or room used for projecting an external scene onto a surface inside through a small hole or lens, often seen as a precursor to modern photography.",
+            "openai_time": 2.162268877029419,
+            "rag_answer": "The Latin word \"camera obscura\" means \"dark room,\" with \"camera\" meaning \"(vaulted) chamber or room\" and \"obscura\" meaning \"darkened\" or \"dark.\"",
+            "rag_time": 1.6887547969818115,
+            "output": "The Latin word \"camera obscura\" means \"dark room.\"It is the natural optical phenomenon that occurs when an image of a scene at the other side of a screen is projected through a small hole in that screen as a reversed and inverted image on a surface opposite to the opening [1].",
+            "intermediate": [
+                "[Retrieval]",
+                "The Latin word \"camera obscura\" means \"dark room.\"It is the natural optical phenomenon that occurs when an image of a scene at the other side of a screen is projected through a small hole in that screen as a reversed and inverted image on a surface opposite to the opening."
+            ],
+            "selfrag_time": 86.45048069953918,
+            "self_rag_answer": "The Latin word \"camera obscura\" means \"dark room.\"It is the natural optical phenomenon that occurs when an image of a scene at the other side of a screen is projected through a small hole in that screen as a reversed and inverted image on a surface opposite to the opening [1].",
+            "openai_answer_ragas_evaluation": {
+                "context_recall": 0.6666666666666666,
+                "faithfulness": 0.6666666666666666,
+                "factual_correctness(mode=f1)": 0.86
+            },
+            "rag_answer_ragas_evaluation": {
+                "context_recall": 0.6666666666666666,
+                "faithfulness": 1.0,
+                "factual_correctness(mode=f1)": 0.29
+            },
+            "self_rag_answer_ragas_evaluation": {
+                "context_recall": 0.6666666666666666,
+                "faithfulness": 1.0,
+                "factual_correctness(mode=f1)": 0.25
+            },
+            "openai_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                0.0
+            ],
+            "rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0
+            ],
+            "self_rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "qa_pairs": [
+                {
+                    "context": "No context provided",
+                    "question": "What character kills the main character in Happy Death Day?",
+                    "short_answers": [
+                        "Tree's roommate, Lori",
+                        "Lori Spengler",
+                        "Lori"
+                    ],
+                    "wikipage": null
+                },
+                {
+                    "context": "No context provided",
+                    "question": "What actress's character kills the main character in happy death day?",
+                    "short_answers": [
+                        "Ruby Modine"
+                    ],
+                    "wikipage": null
+                }
+            ],
+            "wikipages": [
+                {
+                    "title": "Happy Death Day",
+                    "url": "https://en.wikipedia.org/wiki/Happy%20Death%20Day"
+                }
+            ],
+            "annotations": [
+                {
+                    "knowledge": [
+                        {
+                            "content": "Happy Death Day is a 2017 American black comedy slasher film directed by Christopher Landon, and written by Scott Lobdell. ",
+                            "wikipage": "Happy Death Day"
+                        },
+                        {
+                            "content": "Theresa \"Tree\" Gelbman is a fictional character from Christopher Landon's slasher film Happy Death Day (2017) and its sequel Happy Death Day 2U (2019). She was created by writer Scott Lobdell and portrayed by Jessica Rothe in both of her performances.[1][2] Gelbman's storyline revolves around her being murdered on the night of her birthday and finding herself reliving the day repeatedly.",
+                            "wikipage": "Tree Gelbman"
+                        },
+                        {
+                            "content": "Tree realizes Lori is her true killer...Lori admits to also having an affair with Dr. Butler, whose preference for Tree drove Lori mad with jealousy.",
+                            "wikipage": "Happy Death Day"
+                        }
+                    ],
+                    "long_answer": "Theresa \"Tree\" Gelbman is the main character in the 2017 black comedy, Happy Death Day. She is killed by her roommate, Lori (Ruby Modine) out of jealousy over a love interest."
+                },
+                {
+                    "knowledge": [
+                        {
+                            "content": "Happy Death Day is a 2017 American black comedy slasher film directed by Christopher Landon, and written by Scott Lobdell.",
+                            "wikipage": "Happy Death Day"
+                        },
+                        {
+                            "content": "Ruby Wylder Rivera Modine (born July 31, 1990) is an American actress, dancer and singer. She is best known for playing Sierra Morton in Shameless,[3][4] and co-starring in the 2017 slasher film Happy Death Day[5] and its sequel as Lori Spengler.",
+                            "wikipage": "Ruby Modine"
+                        },
+                        {
+                            "content": "A sequel, Happy Death Day 2U, was released on February 13, 2019.",
+                            "wikipage": "Happy Death Day"
+                        }
+                    ],
+                    "long_answer": "In Happy Death Day, the main character is killed by the character of Tree's roommate, Lori Spengler, played by actress, dancer, and singer Ruby Modine. Modine co-starred as the character in both the 2017 film and its sequel, 2019's Happy Death Day 2U."
+                }
+            ],
+            "sample_id": "-8467012199151434041",
+            "question": "Who kills the main character in happy death day?",
+            "docs": [
+                {
+                    "id": "20114441",
+                    "title": "Happy Death Day",
+                    "text": "Tree also meets with her married professor, Gregory Butler, with whom she is having an affair. That night, on her way to a party, Tree is lured into a tunnel and murdered by a figure wearing a mask of the campus mascot \u2013 a baby. Tree immediately wakes up in the same way she had previously \u2013 in Carter's bed \u2013 and is unnerved to find the previous day's events repeating themselves. Baffled, she nonetheless relives the day and uses this second chance to avoid the tunnel and reach the party. However, the masked killer follows her to the party",
+                    "score": 0.72412109375,
+                    "summary": "Tree is murdered by a figure wearing a mask of the campus mascot, a baby. It is unclear who the killer is.",
+                    "extraction": "The main character, Tree, is killed by a figure wearing a mask of the campus mascot - a baby."
+                }
+            ],
+            "answer": "In Happy Death Day, the main character is killed by the character of Tree's roommate, Lori Spengler, played by actress, dancer, and singer Ruby Modine. Modine co-starred as the character in both the 2017 film and its sequel, 2019's Happy Death Day 2U.",
+            "openai_answer": "In *Happy Death Day*, the main character, Tree Gelbman, is killed multiple times throughout the film as she relives the same day repeatedly. However, the primary antagonist responsible for her initial death is revealed to be **Lori Spengler**, her roommate. Lori poisons a cupcake intended for Tree and later attempts to kill her during the climax of the movie. Lori's motive stems from jealousy and resentment toward Tree.",
+            "openai_time": 1.6159231662750244,
+            "rag_answer": "In the theatrical version of *Happy Death Day*, **Lori Spengler**, Tree's roommate, kills Tree. Lori is motivated by jealousy because of a romantic interest in Dr. Gregory Butler, who was having an affair with Tree. Lori uses a poisoned cupcake to attempt to murder Tree. However, in the original ending shown in test screenings, Dr. Butler's wife, Stephanie, kills Tree in revenge for her husband's affair with Tree. Both versions underwent revisions, leading to the final theatrical version where Lori is the killer.",
+            "rag_time": 1.7428619861602783,
+            "output": "In the movie Happy Death Day, the main character, Tree, is killed by a figure wearing a mask of the campus mascot, a baby. The figure is revealed to be Carter, who is having an affair with Tree's married professor, Gregory Butler [1].",
+            "intermediate": [
+                "[Retrieval]",
+                "In the movie Happy Death Day, the main character, Tree, is killed by a figure wearing a mask of the campus mascot, a baby.The figure is revealed to be Carter, who is having an affair with Tree's married professor, Gregory Butler."
+            ],
+            "selfrag_time": 52.226473808288574,
+            "self_rag_answer": "In the movie Happy Death Day, the main character, Tree, is killed by a figure wearing a mask of the campus mascot, a baby. The figure is revealed to be Carter, who is having an affair with Tree's married professor, Gregory Butler [1].",
+            "openai_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 0.2,
+                "factual_correctness(mode=f1)": 0.14
+            },
+            "rag_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 0.125,
+                "factual_correctness(mode=f1)": 0.38
+            },
+            "self_rag_answer_ragas_evaluation": {
+                "context_recall": 0.0,
+                "faithfulness": 0.3333333333333333,
+                "factual_correctness(mode=f1)": 0.0
+            },
+            "openai_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.0,
+                0.3333333333333333,
+                0.3333333333333333,
+                0.3333333333333333
+            ],
+            "rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.3333333333333333,
+                0.0,
+                0.3333333333333333,
+                1.0,
+                0.3333333333333333
+            ],
+            "self_rag_answer_selfcheckgpt_sentence_hallucination_scores": [
+                0.6666666666666666,
+                0.6666666666666666,
+                0.6666666666666666
+            ]
+        }
+    ],
+    "args": [],
+    "total_cost": 0.0,
+    "azure_filter_fail": ""
+}

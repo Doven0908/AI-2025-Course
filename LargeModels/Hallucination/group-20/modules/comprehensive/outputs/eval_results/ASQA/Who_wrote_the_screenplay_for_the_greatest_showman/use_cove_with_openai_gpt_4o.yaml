@@ -1,0 +1,206 @@
+evaluator_name: ragas
+results:
+  accuracy: 1.0
+  coherence: 10
+  conciseness: 10
+  context_precision: 0.32499999998375
+  context_recall: 1.0
+  context_relevance: 1.0
+  correctness: 0.5170306174181285
+  factual_correctness: 0.44
+  faithfulness: 1.0
+  fluency: 10
+  overall_quality: 1
+  relevance: 0.9499583812454883
+solve_result:
+  answer: The screenplay for *The Greatest Showman* was written by **Jenny Bicks**
+    and **Bill Condon**.
+  dataitem:
+    answer: '"The Greatest Showman" is a 2017 American musical drama film directed
+      by Michael Gracey in his directorial debut. Jenny Bicks, an American television
+      producer and screenwriter, and Bill Condon, an American director and screenwriter,
+      wrote the screenplay for "The Greatest Showman".'
+    contexts:
+    - content: "Herman J. Mankiewicz Herman Jacob Mankiewicz (November 7, 1897 \u2013\
+        \ March 5, 1953) was an American screenwriter, who, with Orson Welles, wrote\
+        \ the screenplay for \"Citizen Kane\" (1941). Earlier, he was the Berlin correspondent\
+        \ for the \"Chicago Tribune\" and the drama critic for \"The New York Times\"\
+        \ and \"The New Yorker\". Alexander Woollcott said that Herman Mankiewicz\
+        \ was the \"funniest man in New York\". Both Mankiewicz and Welles received\
+        \ Academy Awards for their screenplay. He was often asked to fix the screenplays\
+        \ of other writers, with much of his work uncredited. Occasional flashes of\
+        \ what came to be called the"
+      score: 0.736328125
+      title: Herman J. Mankiewicz
+    - content: 'the stage production, was filmed at the same time as "The Great Ziegfeld"
+        and released in the same year. The screenplay by William Anthony McGuire was
+        a "novelty" to many audiences who were familiar with the theatrical Broadway
+        shows of the follies. The script, although fictionalized with embellishments
+        needed for the motion picture, did show some accuracies in the life of Ziegfeld.
+        Frank S. Nugent of "The New York Times" said of the script: "What William
+        Anthony McGuire has attempted in his screen play, and with general success,
+        is to encompass not merely the fantastic personal history of Ziegfeld but'
+      score: 0.72900390625
+      title: The Great Ziegfeld
+    - content: screenwriter Herman J. Mankiewicz, who had been writing Mercury radio
+        scripts. "Arguing, inventing, discarding, these two powerful, headstrong,
+        dazzlingly articulate personalities thrashed toward "Kane"", wrote biographer
+        Richard Meryman. One of the long-standing controversies about "Citizen Kane"
+        has been the authorship of the screenplay. Welles conceived the project with
+        screenwriter Herman J. Mankiewicz, who was writing radio plays for Welles's
+        CBS Radio series, "The Campbell Playhouse". Mankiewicz based the original
+        outline on the life of William Randolph Hearst, whom he knew socially and
+        came to hate after being exiled from Hearst's circle. In February 1940 Welles
+        supplied Mankiewicz with 300 pages
+      score: 0.7265625
+      title: Citizen Kane
+    - content: its own aesthetic hypocrisy. You've rarely seen a more straight-laced
+        musical about the joys of letting your freak flag fly." The Greatest Showman
+        The Greatest Showman is a 2017 American musical film directed by Michael Gracey
+        in his directorial debut, written by Jenny Bicks and Bill Condon and starring
+        Hugh Jackman, Zac Efron, Michelle Williams, Rebecca Ferguson, and Zendaya.
+        The film is inspired by the story of P. T. Barnum's creation of the Barnum
+        & Bailey Circus and the lives of its star attractions. Principal photography
+        began in New York City in November 2016. The film premiered on December 8,
+      score: 0.72607421875
+      title: The Greatest Showman
+    - content: The Greatest Showman The Greatest Showman is a 2017 American musical
+        film directed by Michael Gracey in his directorial debut, written by Jenny
+        Bicks and Bill Condon and starring Hugh Jackman, Zac Efron, Michelle Williams,
+        Rebecca Ferguson, and Zendaya. The film is inspired by the story of P. T.
+        Barnum's creation of the Barnum & Bailey Circus and the lives of its star
+        attractions. Principal photography began in New York City in November 2016.
+        The film premiered on December 8, 2017, aboard the RMS "Queen Mary 2". It
+        was released in the United States on December 20, 2017, by 20th
+      score: 0.72216796875
+      title: The Greatest Showman
+    - content: had only reached her conclusion by comparing the first and last drafts
+        of the "Citizen Kane" script, whereas Carringer examined every intermediate
+        draft by Mankiewicz and Welles, and concluded that a co-writer credit was
+        justified, with each man writing between 40% and 60% of the script. He additionally
+        concluded that Houseman's claims to have contributed to the script were largely
+        unfounded. Mankiewicz had already written an unperformed play entitled, "The
+        Tree Will Grow" about John Dillinger. Welles liked the idea of multiple viewpoints
+        but was not interested in playing Dillinger. Mankiewicz and Welles talked
+        about picking someone else to use
+      score: 0.72021484375
+      title: Mercury Theatre
+    - content: also wrote "The Love Song of Barney Kempinski", which was the first
+        presentation of "ABC Stage 67", and the screenplay for "The Tiger Makes Out".
+        Along with Larry Gelbart, Schisgal co-wrote the screenplay for "Tootsie",
+        for which he was nominated for an Oscar, Golden Globe, and BAFTA, and for
+        which he won awards from the Writers Guild of America, New York Film Critics
+        Circle, National Society of Film Critics and the Los Angeles Film Critics
+        Association. Murray Schisgal Murray Schisgal (born November 25, 1926) is an
+        American playwright and screenwriter. Schisgal was born in Brooklyn, New York
+        City. He is
+      score: 0.7177734375
+      title: Murray Schisgal
+    - content: credit form listed Welles first, Mankiewicz second. Welles's assistant
+        Richard Wilson said that the person who circled Mankiewicz's name in pencil,
+        then drew an arrow that put it in first place, was Welles. The official credit
+        reads, "Screenplay by Herman J. Mankiewicz and Orson Welles". Mankiewicz's
+        rancor toward Welles grew over the remaining 12 years of his life. Questions
+        over the authorship of the "Citizen Kane" screenplay were revived in 1971
+        by influential film critic Pauline Kael, whose controversial 50,000-word essay
+        "Raising Kane" was commissioned as an introduction to the shooting script
+        in "The Citizen Kane Book", published in October
+      score: 0.716796875
+      title: Raising Kane
+    - content: Samuel Hoffenstein Samuel "Sam" Hoffenstein (October 8, 1890 - October
+        6, 1947) was a screenwriter and a musical composer. Born in Russia, he emigrated
+        to the United States and began a career in New York City as a newspaper writer
+        and in the entertainment business. In 1931 he moved to Los Angeles, where
+        he lived for the rest of his life and where he wrote the scripts for over
+        thirty movies. These movies included "Dr. Jekyll and Mr. Hyde" (1931), "The
+        Miracle Man" (1932), "Phantom of the Opera" (1943), "The Wizard of Oz" (1939),
+        "Tales of Manhattan" (1942), "Flesh and
+      score: 0.71435546875
+      title: Samuel Hoffenstein
+    - content: in three acts. In 1948, Marshman was recruited by Charles Brackett
+        and Billy Wilder to help write the screenplay of "Sunset Boulevard". He suggested
+        that a gigolo be introduced to the story as a romantic interest for the heroine.
+        Characteristics of the main character can be attributed to Marshman, such
+        as name similarity, personality, and identical birthday. He shared a screenwriting
+        credit with Wilder and Brackett. The three won an Academy Award for Best Original
+        Screenplay. Marshman has two other films to his credit, the 1953 productions
+        "Taxi" (screenplay) and "Second Chance" (story). He chose to return to the
+        East
+      score: 0.712890625
+      title: D. M. Marshman Jr.
+    meta:
+      dataset: ASQA
+    question: Who wrote the screenplay for the greatest showman?
+  metadata:
+    dataset: ASQA
+    model_name: openai/gpt-4o
+    pre_answer: The screenplay for *The Greatest Showman* was written by **Jenny Bicks**
+      and **Bill Condon**.
+    retrieved_contexts:
+    - "Herman J. Mankiewicz Herman Jacob Mankiewicz (November 7, 1897 \u2013 March\
+      \ 5, 1953) was an American screenwriter, who, with Orson Welles, wrote the screenplay\
+      \ for \"Citizen Kane\" (1941). Earlier, he was the Berlin correspondent for\
+      \ the \"Chicago Tribune\" and the drama critic for \"The New York Times\" and\
+      \ \"The New Yorker\". Alexander Woollcott said that Herman Mankiewicz was the\
+      \ \"funniest man in New York\". Both Mankiewicz and Welles received Academy\
+      \ Awards for their screenplay. He was often asked to fix the screenplays of\
+      \ other writers, with much of his work uncredited. Occasional flashes of what\
+      \ came to be called the"
+    - 'the stage production, was filmed at the same time as "The Great Ziegfeld" and
+      released in the same year. The screenplay by William Anthony McGuire was a "novelty"
+      to many audiences who were familiar with the theatrical Broadway shows of the
+      follies. The script, although fictionalized with embellishments needed for the
+      motion picture, did show some accuracies in the life of Ziegfeld. Frank S. Nugent
+      of "The New York Times" said of the script: "What William Anthony McGuire has
+      attempted in his screen play, and with general success, is to encompass not
+      merely the fantastic personal history of Ziegfeld but'
+    - screenwriter Herman J. Mankiewicz, who had been writing Mercury radio scripts.
+      "Arguing, inventing, discarding, these two powerful, headstrong, dazzlingly
+      articulate personalities thrashed toward "Kane"", wrote biographer Richard Meryman.
+      One of the long-standing controversies about "Citizen Kane" has been the authorship
+      of the screenplay. Welles conceived the project with screenwriter Herman J.
+      Mankiewicz, who was writing radio plays for Welles's CBS Radio series, "The
+      Campbell Playhouse". Mankiewicz based the original outline on the life of William
+      Randolph Hearst, whom he knew socially and came to hate after being exiled from
+      Hearst's circle. In February 1940 Welles supplied Mankiewicz with 300 pages
+    - its own aesthetic hypocrisy. You've rarely seen a more straight-laced musical
+      about the joys of letting your freak flag fly." The Greatest Showman The Greatest
+      Showman is a 2017 American musical film directed by Michael Gracey in his directorial
+      debut, written by Jenny Bicks and Bill Condon and starring Hugh Jackman, Zac
+      Efron, Michelle Williams, Rebecca Ferguson, and Zendaya. The film is inspired
+      by the story of P. T. Barnum's creation of the Barnum & Bailey Circus and the
+      lives of its star attractions. Principal photography began in New York City
+      in November 2016. The film premiered on December 8,
+    - The Greatest Showman The Greatest Showman is a 2017 American musical film directed
+      by Michael Gracey in his directorial debut, written by Jenny Bicks and Bill
+      Condon and starring Hugh Jackman, Zac Efron, Michelle Williams, Rebecca Ferguson,
+      and Zendaya. The film is inspired by the story of P. T. Barnum's creation of
+      the Barnum & Bailey Circus and the lives of its star attractions. Principal
+      photography began in New York City in November 2016. The film premiered on December
+      8, 2017, aboard the RMS "Queen Mary 2". It was released in the United States
+      on December 20, 2017, by 20th
+    solve_method: use-cove
+    solve_time: 8.100382328033447
+    verification_answers: "Here are the answers based on the context provided:\n\n\
+      1. Jenny Bicks and Bill Condon wrote the screenplay for *The Greatest Showman*.\
+      \  \n2. The two writers involved in creating the screenplay for *The Greatest\
+      \ Showman* were Jenny Bicks and Bill Condon.  \n3. Yes, Jenny Bicks contributed\
+      \ to the screenplay for *The Greatest Showman*.  \n4. Yes, Bill Condon was one\
+      \ of the writers of *The Greatest Showman*.  \n5. Two individuals (Jenny Bicks\
+      \ and Bill Condon) are credited for writing the screenplay of *The Greatest\
+      \ Showman*.  \n6. No, Jenny Bicks is not the sole writer of the screenplay for\
+      \ *The Greatest Showman*; Bill Condon also contributed.  \n7. No, Bill Condon\
+      \ did not exclusively write the screenplay for *The Greatest Showman*. Jenny\
+      \ Bicks also contributed.  \n8. Yes, Jenny Bicks and Bill Condon are co-writers\
+      \ of the screenplay for *The Greatest Showman*.  "
+    verification_questions: "Certainly! Here are some questions:\n\n1. Who wrote the\
+      \ screenplay for *The Greatest Showman*?  \n2. Which two writers were involved\
+      \ in creating the screenplay for *The Greatest Showman*?  \n3. Did Jenny Bicks\
+      \ contribute to the screenplay for *The Greatest Showman*?  \n4. Was Bill Condon\
+      \ one of the writers of *The Greatest Showman*?  \n5. How many individuals are\
+      \ credited for writing the screenplay of *The Greatest Showman*?  \n6. Is Jenny\
+      \ Bicks the sole writer of the screenplay for *The Greatest Showman*?  \n7.\
+      \ Did Bill Condon exclusively write the screenplay for *The Greatest Showman*?\
+      \  \n8. Are Jenny Bicks and Bill Condon the co-writers of the screenplay for\
+      \ *The Greatest Showman*?  \n\nThese questions focus on the verification of\
+      \ the specific information in the text."

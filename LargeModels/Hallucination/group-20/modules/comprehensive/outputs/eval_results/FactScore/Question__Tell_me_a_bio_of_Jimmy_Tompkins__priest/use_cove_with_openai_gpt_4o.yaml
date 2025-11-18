@@ -1,0 +1,321 @@
+evaluator_name: ragas
+results:
+  accuracy: null
+  coherence: 10
+  conciseness: 3
+  context_precision: null
+  context_recall: null
+  context_relevance: 1.0
+  correctness: null
+  factual_correctness: null
+  faithfulness: 1.0
+  fluency: 10
+  overall_quality: 1
+  relevance: 0.5603569017180332
+solve_result:
+  answer: "Jimmy Tompkins, born Reverend James John Tompkins on September 7, 1870,\
+    \ in Margaree Forks, Nova Scotia, was a Roman Catholic priest recognized as the\
+    \ spiritual founder of the Antigonish Movement. This initiative aimed to uplift\
+    \ impoverished fishing and mining communities in northern and eastern Nova Scotia,\
+    \ Canada, through adult education, cooperatives, and rural community development.\
+    \ Tompkins strongly believed in the transformative power of education and championed\
+    \ economic improvement using study groups and cooperative action.\n\nTompkins\
+    \ attended St. Francis Xavier University between 1888 and 1895, supporting himself\
+    \ financially by teaching Greek and Mathematics during alternate semesters. He\
+    \ continued his education at the Urban College of the Congregatio de Propaganda\
+    \ Fide in Rome from 1897 to 1902. Upon returning to Canada, he resumed teaching\
+    \ at St. Francis Xavier University and became vice-rector in 1907. During this\
+    \ time, he collaborated with the Carnegie Corporation to implement various reform\
+    \ efforts, including modernization in education. However, his ambitious proposal\
+    \ to merge sectarian and non-sectarian colleges in the Maritime Provinces into\
+    \ a single nondenominational university centered around Dalhousie University met\
+    \ opposition. While Archbishop Edward McCarthy supported the idea, Bishop James\
+    \ Morrison opposed it, resulting in Tompkins' reassignment as parish priest to\
+    \ the small fishing village of Canso, Nova Scotia.\n\nIn Canso and nearby communities,\
+    \ Tompkins encountered firsthand the struggles of impoverished fishing communities.\
+    \ He responded by organizing cooperative fisheries, credit unions, stores, and\
+    \ housing projects, including the Reserve Mines cooperative known as \"Tompkinsville.\"\
+    \ He also initiated adult study groups and started Nova Scotia\u2019s first regional\
+    \ library. These efforts laid the foundation for the Antigonish Movement, which\
+    \ was later institutionalized as the Extension Department at St. Francis Xavier\
+    \ University\u2014now known as the Coady International Center. Tompkins was supported\
+    \ in these endeavors by his double-cousin, Father Moses Coady, along with other\
+    \ figures such as Father (Dr.) Hugh MacPherson and A.B. MacDonald.\n\nTompkins'\
+    \ philosophy was encapsulated in his motto: \"It is not enough to have ideas;\
+    \ we have to put legs on them.\" His determination and commitment to action left\
+    \ a lasting legacy of community empowerment and cooperative development. He passed\
+    \ away on May 5, 1953, but his vision continues to inspire through the work of\
+    \ institutions like the Coady International Center and the lasting impacts of\
+    \ the Antigonish Movement."
+  dataitem:
+    answer: null
+    contexts:
+    - content: "Jimmy Tompkins (priest) Reverend James John Tompkins (7 September\
+        \ 1870 \u2013 5 May 1953) was a Roman Catholic priest who founded the Antigonish\
+        \ Movement, a progressive effort that incorporated adult education, cooperatives\
+        \ and rural community development to aid the fishing and mining communities\
+        \ of northern and eastern Nova Scotia, Canada. The Antigonish Movement later\
+        \ evolved into the Extension Department (now the Coady International Center)\
+        \ of St. Francis Xavier University. Father Tompkins believed in the emancipating\
+        \ power of education and sought to improve economic conditions through study\
+        \ groups and co-operative action. \"It is not enough to have ideas, we have\
+        \ to"
+      score: 1.9833195
+      title: Jimmy Tompkins (priest)
+    - content: "Little Dover and Queensport. As parish priest Tompkins observed firsthand\
+        \ the plight of the poor fishing community there and helped organize and lead\
+        \ what would become the Antigonish Movement of cooperative fisheries, stores,\
+        \ housing projects, and adult study groups. The Antigonish Movement was eventually\
+        \ institutionalized in the form of the Extension Department at St. Francis\
+        \ Xavier, which was headed by Tompkins' double-cousin Father Moses Coady and\
+        \ which included Father (Dr.) Hugh MacPherson, A.B. MacDonald and others.\
+        \ Jimmy Tompkins (priest) Reverend James John Tompkins (7 September 1870 \u2013\
+        \ 5 May 1953) was a Roman Catholic priest who founded the Antigonish Movement,"
+      score: 1.8856537
+      title: Jimmy Tompkins (priest)
+    - content: Rome from 1897 to 1902. On his return, he continued teaching at St.
+        Francis Xavier University and became the vice-rector in 1907. Working closely
+        with the Carnegie Corporation, he implemented various reform and modernization
+        programs, culminating in an unsuccessful attempt to amalgamate various sectarian
+        and non-sectarian colleges in the Maritime Provinces into one nondenominational
+        university centered around Dalhousie University in Halifax. Although the Roman
+        Catholic Archbishop of Halifax Edward McCarthy supported amalgamation, the
+        Catholic Bishop of Antigonish James Morrison successfully opposed it and eventually
+        exiled Tompkins to the tiny fishing village of Canso, Nova Scotia as parish
+        priest for Canso,
+      score: 1.845299
+      title: Jimmy Tompkins (priest)
+    - content: put legs on them", he often said. He started the first regional library
+        in Nova Scotia along with the first credit union and a cooperative housing
+        association in Reserve Mines that was dubbed "Tompkinsville". Father Tompkins
+        was the Spiritual founder of the Antigonish Movement. Jimmy Tompkins was born
+        in Margaree Forks, Nova Scotia, a small farming community on Cape Breton Island.
+        From 1888-1895, he attended St. Francis Xavier University in alternate semesters
+        while teaching Greek and Mathematics to support himself. He attended the Urban
+        College of the Congregatio de Propaganda Fide (Papal Congregation for the
+        Propagation of the Faith) in
+      score: 1.7628992
+      title: Jimmy Tompkins (priest)
+    - content: his brave tackling, time on the ball in defence and attacking runs,
+        he also scored five goals. His career highlights included playing in an F.A.
+        cup semifinal against Sheffield United in 1936. Towards the end of his career
+        he occasionally deputised as captain when regular skipper Mike Keeping was
+        absent through injury. Seeing the imminent approach of World War II Tompkins
+        signed on in the Territorial Army. On the outbreak of hostilities he was swiftly
+        drafted into the regular army as a private with the Royal Fusiliers. He worked
+        his way rapidly through the non-commissioned ranks, then was commissioned
+        as
+      score: 1.6412997
+      title: Jimmy Tompkins (footballer)
+    - content: "the RAF, having joined the service in 1959. He was killed in February\
+        \ 1965 when the Canberra bomber in which he was navigator crashed into a hillside\
+        \ near Osnabr\xFCck during a low level exercise in poor visibility, killing\
+        \ both himself and the pilot. Fulham Football Club paid each of Tompkins'\
+        \ children half of the \xA3500 Tompkins had been due to receive from his benefit\
+        \ year, which he missed due to the war, on their 21st birthdays. Jimmy Tompkins\
+        \ (footballer) John James Tompkins (1914\u20131944), known as Jim Tompkins\
+        \ or Jimmy Tompkins, was an English professional footballer who played all\
+        \ his professional"
+      score: 1.5808005
+      title: Jimmy Tompkins (footballer)
+    - content: "were killed before the order to withdraw was given. Tompkins was last\
+        \ seen charging a machinegun nest, but his body was never found. It is assumed\
+        \ he and his comrades must have suffered a direct hit from a German tank shell.\
+        \ His name is inscribed on the war memorial at Bayeux, panel 13 column 1.\
+        \ Tompkins married Cecilia Parker in 1939. The couple had two children, Neil\
+        \ (1940-1965) and Jill (m.Harris) (1943\u2013present). Cecilia died from a\
+        \ liver infection in 1944, two months before her husband. Neil was a promising\
+        \ sportsman, playing cricket for Surrey seconds; he also played football for"
+      score: 1.5762315
+      title: Jimmy Tompkins (footballer)
+    - content: Mike Tompkins Mike Tompkins is a U.S. politician who was the Natural
+        Law Party vice presidential candidate during the 1992 and 1996 presidential
+        elections. Born in Boston, Massachusetts, he graduated from Harvard University
+        in 1970 and completed his post-graduate studies at Maharishi European Research
+        University (MERU) in Seelisberg, Switzerland in 1984, where he received a
+        doctorate in the Science of Creative Intelligence. He became an associate
+        director of the Institute of Science, Technology and Public Policy, a nonprofit
+        organization affiliated with the Maharishi Mahesh Yogi that defines itself
+        as a "progressive policy think tank." In 1992, Tompkins joined John Hagelin
+      score: 1.5644383
+      title: Mike Tompkins
+    - content: an officer in 1942. At the time of his death he had been seconded to
+        the Hampshire regiment, had attained the rank of Major and held a provisional
+        rank as lieutenant colonel, a remarkable rise even in the accelerated promotions
+        of wartime. Tompkins joined the Allied offensive in France shortly after D-Day.
+        On 10 July 1944 he was ordered to lead his command in an attempt to secure
+        the village of Maltot; unfortunately, unknown to his commanders, Maltot was
+        surrounded by German Tiger tanks concealed in woods and depressions which
+        opened fire as the Hampshires entered the town. Fifty-six men
+      score: 1.5626242
+      title: Jimmy Tompkins (footballer)
+    - content: "Jimmy Tompkins (footballer) John James Tompkins (1914\u20131944),\
+        \ known as Jim Tompkins or Jimmy Tompkins, was an English professional footballer\
+        \ who played all his professional career for Fulham Football Club before his\
+        \ death in World War II. Tompkins was born in Edmonton, North London in 1914,\
+        \ the son of Arthur and Annie Tompkins. He began his football career playing\
+        \ as an amateur for Woking whilst at the same time being registered (as an\
+        \ amateur) with Fulham. His paid employment was as a member of Arsenal's ground\
+        \ staff; it was during this period that the legendary Arsenal manager Herbert\
+        \ Chapman saw him"
+      score: 1.5422812
+      title: Jimmy Tompkins (footballer)
+    meta:
+      dataset: FactScore
+    question: 'Question: Tell me a bio of Jimmy Tompkins (priest).'
+  metadata:
+    dataset: FactScore
+    model_name: openai/gpt-4o
+    pre_answer: 'Jimmy Tompkins, born Reverend James John Tompkins on September 7,
+      1870, in Margaree Forks, Nova Scotia, was a Roman Catholic priest renowned as
+      the spiritual founder of the Antigonish Movement. This progressive initiative
+      integrated adult education, cooperatives, and rural community development to
+      uplift the impoverished fishing and mining communities of northern and eastern
+      Nova Scotia, Canada. Father Tompkins strongly believed in the transformative
+      power of education and promoted economic improvement through study groups and
+      cooperative action.
+
+
+      Tompkins began his studies at St. Francis Xavier University from 1888 to 1895,
+      alternating semesters while teaching Greek and Mathematics to support himself
+      financially. He furthered his education at the Urban College of the Congregatio
+      de Propaganda Fide in Rome from 1897 to 1902. Upon his return, he resumed teaching
+      at St. Francis Xavier University, ultimately becoming vice-rector in 1907. His
+      collaboration with the Carnegie Corporation led to various reform initiatives
+      highlighting modernization in education. Attempting to merge sectarian and non-sectarian
+      colleges in the Maritime Provinces into a single nondenominational university
+      centered around Dalhousie University in Halifax, he faced resistance from Catholic
+      leaders. This opposition resulted in his reassignment as parish priest to Canso,
+      Nova Scotia.
+
+
+      In Canso and the nearby communities of Little Dover and Queensport, Tompkins
+      observed the dire challenges faced by local fishing communities. He worked tirelessly
+      to organize cooperatives, regional libraries, credit unions, housing associations
+      like the Reserve Mines cooperative dubbed "Tompkinsville," and adult study groups.
+      This grassroots movement ultimately institutionalized as the Extension Department,
+      now known as the Coady International Institute at St. Francis Xavier University.
+      The movement was spearheaded further by Tompkins'' double-cousin Father Moses
+      Coady and other notable figures.
+
+
+      Tompkins left an enduring legacy as a leader who emphasized practical action
+      alongside ideas, epitomized in his motto: "It is not enough to have ideas, we
+      have to put legs on them." He passed away on May 5, 1953, leaving behind a transformative
+      impact through education, community empowerment, and cooperative development.'
+    retrieved_contexts:
+    - "Jimmy Tompkins (priest) Reverend James John Tompkins (7 September 1870 \u2013\
+      \ 5 May 1953) was a Roman Catholic priest who founded the Antigonish Movement,\
+      \ a progressive effort that incorporated adult education, cooperatives and rural\
+      \ community development to aid the fishing and mining communities of northern\
+      \ and eastern Nova Scotia, Canada. The Antigonish Movement later evolved into\
+      \ the Extension Department (now the Coady International Center) of St. Francis\
+      \ Xavier University. Father Tompkins believed in the emancipating power of education\
+      \ and sought to improve economic conditions through study groups and co-operative\
+      \ action. \"It is not enough to have ideas, we have to"
+    - "Little Dover and Queensport. As parish priest Tompkins observed firsthand the\
+      \ plight of the poor fishing community there and helped organize and lead what\
+      \ would become the Antigonish Movement of cooperative fisheries, stores, housing\
+      \ projects, and adult study groups. The Antigonish Movement was eventually institutionalized\
+      \ in the form of the Extension Department at St. Francis Xavier, which was headed\
+      \ by Tompkins' double-cousin Father Moses Coady and which included Father (Dr.)\
+      \ Hugh MacPherson, A.B. MacDonald and others. Jimmy Tompkins (priest) Reverend\
+      \ James John Tompkins (7 September 1870 \u2013 5 May 1953) was a Roman Catholic\
+      \ priest who founded the Antigonish Movement,"
+    - Rome from 1897 to 1902. On his return, he continued teaching at St. Francis
+      Xavier University and became the vice-rector in 1907. Working closely with the
+      Carnegie Corporation, he implemented various reform and modernization programs,
+      culminating in an unsuccessful attempt to amalgamate various sectarian and non-sectarian
+      colleges in the Maritime Provinces into one nondenominational university centered
+      around Dalhousie University in Halifax. Although the Roman Catholic Archbishop
+      of Halifax Edward McCarthy supported amalgamation, the Catholic Bishop of Antigonish
+      James Morrison successfully opposed it and eventually exiled Tompkins to the
+      tiny fishing village of Canso, Nova Scotia as parish priest for Canso,
+    - put legs on them", he often said. He started the first regional library in Nova
+      Scotia along with the first credit union and a cooperative housing association
+      in Reserve Mines that was dubbed "Tompkinsville". Father Tompkins was the Spiritual
+      founder of the Antigonish Movement. Jimmy Tompkins was born in Margaree Forks,
+      Nova Scotia, a small farming community on Cape Breton Island. From 1888-1895,
+      he attended St. Francis Xavier University in alternate semesters while teaching
+      Greek and Mathematics to support himself. He attended the Urban College of the
+      Congregatio de Propaganda Fide (Papal Congregation for the Propagation of the
+      Faith) in
+    - his brave tackling, time on the ball in defence and attacking runs, he also
+      scored five goals. His career highlights included playing in an F.A. cup semifinal
+      against Sheffield United in 1936. Towards the end of his career he occasionally
+      deputised as captain when regular skipper Mike Keeping was absent through injury.
+      Seeing the imminent approach of World War II Tompkins signed on in the Territorial
+      Army. On the outbreak of hostilities he was swiftly drafted into the regular
+      army as a private with the Royal Fusiliers. He worked his way rapidly through
+      the non-commissioned ranks, then was commissioned as
+    solve_method: use-cove
+    solve_time: 21.438338041305542
+    verification_answers: "1. **What significant date marks the birth of Jimmy Tompkins,\
+      \ and where was he born?**  \n   Jimmy Tompkins was born on **September 7, 1870**,\
+      \ in **Margaree Forks, Nova Scotia**, a small farming community on Cape Breton\
+      \ Island.\n\n2. **Who is considered the spiritual founder of the Antigonish\
+      \ Movement?**  \n   **Jimmy Tompkins** is considered the spiritual founder of\
+      \ the Antigonish Movement.\n\n3. **What strategy did the Antigonish Movement\
+      \ employ to uplift impoverished communities in Nova Scotia?**  \n   The Antigonish\
+      \ Movement employed **adult education, cooperatives, and rural community development**\
+      \ to uplift impoverished communities in northern and eastern Nova Scotia, including\
+      \ study groups and co-operative action.\n\n4. **How did Jimmy Tompkins financially\
+      \ support his education at St. Francis Xavier University?**  \n   Jimmy Tompkins\
+      \ supported himself financially at St. Francis Xavier University **by teaching\
+      \ Greek and Mathematics during alternate semesters**.\n\n5. **Where did Jimmy\
+      \ Tompkins further his education after St. Francis Xavier University, and what\
+      \ were the years of his attendance?**  \n   Jimmy Tompkins furthered his education\
+      \ at the **Urban College of the Congregatio de Propaganda Fide in Rome**, attending\
+      \ from **1897 to 1902**.\n\n6. **What position did Tompkins hold at St. Francis\
+      \ Xavier University after his return from Rome?**  \n   After his return from\
+      \ Rome, Jimmy Tompkins became **vice-rector** at St. Francis Xavier University\
+      \ in **1907**.\n\n7. **Which organization did Tompkins partner with for reform\
+      \ initiatives in education?**  \n   Jimmy Tompkins partnered with the **Carnegie\
+      \ Corporation** to implement reform and modernization programs in education.\n\
+      \n8. **What was the reaction of Catholic leaders to Tompkins\u2019 proposal\
+      \ to merge sectarian and non-sectarian colleges?**  \n   Catholic leaders were\
+      \ divided on the proposal to merge colleges: while the **Roman Catholic Archbishop\
+      \ of Halifax Edward McCarthy** supported amalgamation, the **Catholic Bishop\
+      \ of Antigonish James Morrison** successfully opposed it. As a result, Tompkins\
+      \ was exiled to Canso, Nova Scotia.\n\n9. **For what reasons was Tompkins reassigned\
+      \ to Canso, Nova Scotia?**  \n   Tompkins was reassigned to Canso due to his\
+      \ **unsuccessful efforts to amalgamate sectarian and non-sectarian colleges**,\
+      \ which were opposed by the Catholic Bishop of Antigonish.\n\n10. **What types\
+      \ of community support did Tompkins organize in Canso and surrounding areas?**\
+      \  \n    In Canso and the neighboring areas, Tompkins organized **cooperative\
+      \ fisheries, stores, housing projects, and adult study groups** to support the\
+      \ local poor fishing communities.\n\n11. **How did the grassroots movement initiated\
+      \ by Tompkins become institutionalized at St. Francis Xavier University?** \
+      \ \n    The grassroots movement initiated by Tompkins became institutionalized\
+      \ as the **Extension Department** (later the **Coady International Center**)\
+      \ at St. Francis Xavier University.\n\n12. **Who furthered the Antigonish Movement\
+      \ alongside Tompkins, and what is their relationship to him?**  \n    Father\
+      \ **Moses Coady**, Tompkins' **double-cousin**, furthered the Antigonish Movement\
+      \ alongside him. Others who contributed included **Father (Dr.) Hugh MacPherson**\
+      \ and **A.B. MacDonald**.\n\n13. **What motto did Jimmy Tompkins use to summarize\
+      \ his philosophy on ideas and action?**  \n    Jimmy Tompkins often said, **\"\
+      It is not enough to have ideas; we have to put legs on them.\"**\n\n14. **What\
+      \ legacy did Tompkins leave behind after his death on May 5, 1953?**  \n   \
+      \ Jimmy Tompkins left behind the **Antigonish Movement**, which empowered communities\
+      \ through education, economic development, and cooperative action, as well as\
+      \ innovations such as **Tompkinsville** (a cooperative housing association in\
+      \ Reserve Mines), and the foundation for modern community development efforts\
+      \ at the **Coady International Center** at St. Francis Xavier University."
+    verification_questions: "1. What significant date marks the birth of Jimmy Tompkins,\
+      \ and where was he born?\n2. Who is considered the spiritual founder of the\
+      \ Antigonish Movement?\n3. What strategy did the Antigonish Movement employ\
+      \ to uplift impoverished communities in Nova Scotia?\n4. How did Jimmy Tompkins\
+      \ financially support his education at St. Francis Xavier University?\n5. Where\
+      \ did Jimmy Tompkins further his education after St. Francis Xavier University,\
+      \ and what were the years of his attendance?\n6. What position did Tompkins\
+      \ hold at St. Francis Xavier University after his return from Rome?\n7. Which\
+      \ organization did Tompkins partner with for reform initiatives in education?\n\
+      8. What was the reaction of Catholic leaders to Tompkins\u2019 proposal to merge\
+      \ sectarian and non-sectarian colleges?\n9. For what reasons was Tompkins reassigned\
+      \ to Canso, Nova Scotia?\n10. What types of community support did Tompkins organize\
+      \ in Canso and surrounding areas?\n11. How did the grassroots movement initiated\
+      \ by Tompkins become institutionalized at St. Francis Xavier University?\n12.\
+      \ Who furthered the Antigonish Movement alongside Tompkins, and what is their\
+      \ relationship to him?\n13. What motto did Jimmy Tompkins use to summarize his\
+      \ philosophy on ideas and action?\n14. What legacy did Tompkins leave behind\
+      \ after his death on May 5, 1953?"

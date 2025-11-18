@@ -1,0 +1,187 @@
+evaluator_name: ragas
+results:
+  accuracy: null
+  coherence: 10
+  conciseness: 7
+  context_precision: null
+  context_recall: null
+  context_relevance: null
+  correctness: null
+  factual_correctness: null
+  faithfulness: null
+  fluency: 10
+  overall_quality: 1
+  relevance: 0.7777137565737815
+solve_result:
+  answer: "Cha Eun-woo, born **Lee Dong-min** on **March 30, 1997**, in Gunpo, Gyeonggi\
+    \ Province, South Korea, is a prominent South Korean singer, actor, and model.\
+    \ He is widely recognized for his stunning visuals, talent, and charisma. Cha\
+    \ Eun-woo debuted as a member of the popular K-pop boy group **ASTRO** under Fantagio\
+    \ Entertainment in **February 2016**, gaining attention as the group's \"face\
+    \ genius\" due to his remarkable looks and charm.\n\nWhile initially gaining fame\
+    \ as an idol, Cha Eun-woo also made a name for himself as an actor. He made his\
+    \ acting debut in a minor role in the film **\"My Brilliant Life\" (2014)** and\
+    \ later appeared in the web drama **\"To Be Continued\" (2015)**. His breakout\
+    \ role came with the romantic comedy-drama **\"My ID is Gangnam Beauty\" (2018)**,\
+    \ where he played Do Kyung-seok, earning praise for his portrayal and boosting\
+    \ his popularity. He took on more prominent roles, including **\u201CRookie Historian\
+    \ Goo Hae-ryung\u201D (2019)** and the popular drama **\u201CTrue Beauty\u201D\
+    \ (2020\u20132021)**, where he portrayed Lee Su-ho, a high school student grappling\
+    \ with emotional struggles.\n\nIn addition to his singing and acting careers,\
+    \ Cha Eun-woo has become a sought-after model and brand ambassador, endorsing\
+    \ various products and appearing in commercials due to his clean and sophisticated\
+    \ image. Known for his dedication to his craft and humble personality, he has\
+    \ a global fan base and continues to thrive in South Korea\u2019s entertainment\
+    \ industry, balancing his roles as an actor, idol, and model."
+  dataitem:
+    answer: null
+    contexts:
+    - content: Cha Eun-woo Lee Dong-min (; born ), better known as Cha Eun-woo (),
+        is a South Korean singer, actor and model under the label of Fantagio. He
+        is a member of the South Korean boy group Astro. Cha Eun-woo was born on March
+        30, 1997, in Gunpo, Gyeonggi Province. Cha graduated from Hanlim Multi Art
+        School in 2016. He is currently attending Sungkyunkwan University, majoring
+        in performing arts. Cha debuted as an actor with a minor role in the film
+        "My Brilliant Life". In August 2015, Cha along with the other members of his
+        group participated in the web-drama "To
+      score: 1.8525219
+      title: Cha Eun-woo
+    - content: "In 2018, Cha starred in the web drama \"Top Management\". The same\
+        \ year, Cha was cast in the JTBC romantic comedy series \"Gangnam Beauty\"\
+        , his first leading role on television. Cha saw a rise in popularity after\
+        \ the series aired, and was included in GQ Korea\u2019s \u2018Men of the Year\u2019\
+        . Cha Eun-woo Lee Dong-min (; born ), better known as Cha Eun-woo (), is a\
+        \ South Korean singer, actor and model under the label of Fantagio. He is\
+        \ a member of the South Korean boy group Astro. Cha Eun-woo was born on March\
+        \ 30, 1997, in Gunpo, Gyeonggi Province. Cha"
+      score: 1.818872
+      title: Cha Eun-woo
+    - content: student in her mid-20s, preparing for her civil service exam with the
+        dream of being a high school teacher. She accidentally encounters Cha Chi-soo
+        (Jung Il-woo), the arrogant heir to the biggest food conglomerate in South
+        Korea. Cha Chi-soo, newly homed after a failed attempt to attend school in
+        New York City, fascinates women with his good looks and easy charm. Eun-bi
+        was initially attracted to him, until she found out that he was only a high
+        school senior, and thus 6 years younger than her. However, her student-teaching
+        assignment finds her not only working at the high school that
+      score: 1.7570467
+      title: Flower Boy Ramen Shop
+    - content: Jung Chae-yeon Jung Chae-yeon (born December 1, 1997), better known
+        by the mononym Chaeyeon, is a South Korean singer and actress. She is best
+        known for being a member of the South Korean girl group DIA, and for finishing
+        7th in the survival show "Produce 101", making her a member of I.O.I. Jung
+        Chae-yeon was born on December 1, 1997 in Suncheon, South Jeolla Province,
+        South Korea. She attended School of Performing Arts Seoul from 2013 to 2016
+        with her fellow DIA member, Ahn Eun-jin. On February 4, 2016, she graduated
+        from SOPA. In January 2015, MBK Entertainment announced its
+      score: 1.7389002
+      title: Jung Chae-yeon
+    - content: 'fellow villagers. Im Sung-jae has always been in love with Eun-hee,
+        but the past threatens to tear them apart. Since his father''s death, Sung-jae
+        was ironically rescued and raised as a son by the real killer, Cha Seok-goo.
+        Seok-goo''s daughter, Cha Young-joo, is arrogant and smart, and has feelings
+        for Sung-jae. Her jealousy drives her to try to break up his relationship
+        with Eun-hee. Choi Jung-tae is also in love with Eun-hee, but he accepts that
+        she cares for someone else. Eunhui TV Novel: Eunhui (), or Eun-hee, is a 2013
+        South Korean morning soap opera starring Kyung Soo-jin, Lee'
+      score: 1.6811564
+      title: Eunhui
+    - content: to star in the romance drama "Matrimonial Chaos", a remake of the Japanese
+        television series of the same title. Cha's father, Cha Jae-wan, was an assistant
+        director for special effects at KBS, and his mother Choi Su-min, now retired,
+        was a voice-over artist. His brother is film producer Cha Ji-hyeon. In June
+        1, 2006, Cha married his high school sweetheart, pop lyricist Choi Suk-eun.
+        They dated for 13 years; she was his first and only girlfriend. They have
+        three children, a son (Cha Soo-chan) and two daughters (Cha Tae-eun, Cha Su-jin).
+        In 2011, Cha revealed on SBS talk show "Healing
+      score: 1.6435177
+      title: Cha Tae-hyun
+    - content: Cha Jung-won Cha Jung-won (born Cha Mi-young on ) is a South Korean
+        actress and model. She landed her lead role in "" (2017), "Lawless Lawyer"
+        (2018). Cha Jung-won made her acting debut in the film titled "Horror Stories"
+        in 2012. She landed her second role in the web drama, "Loss:Time:Love" and
+        a cameo appearance in "All About My Mom". Her first supporting role came soon
+        after, playing as Jung Seon-min in "She Was Pretty" in 2015. Jung-won landed
+        her first lead role in the SBS drama, "Kidnapping Assemblyman Mr. Clean" in
+        2016, and "" in 2017. She had a
+      score: 1.6356767
+      title: Cha Jung-won
+    - content: "MINI Korea . She has appeared on the talk show \"Get it Beauty\",\
+        \ and the reality show \"Attraction TV\" on Channel Onstyle. Vivian Cha Cha\
+        \ Hyunjung (born November 5, 1993) also known as Vivian Cha is a South Korean\
+        \ fashion model and television personality. In August 2015, Cha made her debut\
+        \ in The 18th Magazine C\xE9Ci Model Contest. Cha's modeling career began\
+        \ when she was twenty one years old after she was chosen as No.1 of the 18th\
+        \ Model Contest by Magazine C\xE9Ci. She started her first modeling career\
+        \ with Magazine C\xE9CI, SURE, Cosmopolitan, and LEON. she has become the"
+      score: 1.6252079
+      title: Vivian Cha
+    - content: "while attending college at Brigham Young University (BYU) in Utah.\
+        \ He became president of the Breakdance Club (2005-2007), joined the professional\
+        \ dance troop \u201CGround Hounds Crew\u201D and was given the nickname \u201C\
+        Bboy Handsome Hugh\u201D because of his dance fashion. Cha performed and competed\
+        \ with the dance crew, and hosted multi-state hip-hop events with thousands\
+        \ of attendees. The \"Ground Hounds Crew\" was previously known as the \"\
+        Junk Yard Dogs (JYD)\". As \"Handsome Hugh\", Cha starred in a breakdancing\
+        \ spec commercial for Novell. In June 2007, Cha enlisted in the Republic of\
+        \ Korea Army to serve his mandatory military service at the"
+      score: 1.6215615
+      title: Hugh Cha
+    - content: "Cha Hong Kim Hyo-suk (Hangul: \uAE40\uD6A8\uC219; born 11 September\
+        \ 1981), better known by her stage name Cha Hong (Hangul: \uCC28\uD64D), is\
+        \ a South Korean celebrity hairdresser, and is the owner and founder of the\
+        \ Chahong Ardor beauty salon chain in South Korea. Cha established her first\
+        \ hair salon back in August 2011, and currently owns a total of 3 salons and\
+        \ an academy. Cha made her debut television appearance via SBS's Star King\
+        \ in February 2011, and now features frequently as guests on various South\
+        \ Korean television shows, such as Channel M's Get It Beauty and MBC's My\
+        \ Little Television."
+      score: 1.6144273
+      title: Cha Hong
+    meta:
+      dataset: FactScore
+    question: 'Question: Tell me a bio of Cha Eun-woo.'
+  metadata:
+    dataset: FactScore
+    model_name: gpt-4o
+    sentence_hallucination_scores:
+      ? ASTRO quickly gained a following for their bright concepts and catchy music,
+        with Cha Eun-woo standing out as the group's "face genius" due to his remarkable
+        looks.
+      : 0.0
+      ? Alongside his acting and music career, Cha Eun-woo has also established himself
+        as a sought-after model and brand ambassador, appearing in various commercials
+        and endorsements due to his clean and sophisticated image.
+      : 0.0
+      ? Cha Eun-woo debuted as a member of the popular K-pop boy group **ASTRO** under
+        Fantagio Entertainment in **February 2016**.
+      : 0.0
+      ? Cha Eun-woo, born **Lee Dong-min** on **March 30, 1997**, in Gunpo, Gyeonggi
+        Province, South Korea, is a prominent South Korean singer, actor, and model.
+      : 0.0
+      ? "He has a global fan base and continues to be a prominent figure in South\
+        \ Korea\u2019s entertainment industry, balancing his musical, acting, and\
+        \ modeling endeavors."
+      : 0.0
+      He is widely recognized for his stunning visuals, talent, and charisma.: 0.0
+      ? He made his acting debut in a minor role in the film **"My Brilliant Life"
+        (2014)** and later appeared in the web drama **"To Be Continued" (2015)**.
+      : 0.0
+      ? His breakout role came in the romantic comedy-drama **"My ID is Gangnam Beauty"
+        (2018)**, where he played the charming yet aloof Do Kyung-seok, garnering
+        praise for his performance and amplifying his popularity.
+      : 0.0
+      ? "His intelligence is another notable trait\u2014he reportedly excelled academically\
+        \ in high school, ranking in the top percentile of his class."
+      : 0.3333333333333333
+      ? Known for his multifaceted talents, Cha Eun-woo is admired for his dedication
+        to his craft, strong work ethic, and humble personality.
+      : 0.0
+      ? "This led to more leading roles, including **\u201CRookie Historian Goo Hae-ryung\u201D\
+        \ (2019)** and the hit Netflix drama **\u201CTrue Beauty\u201D (2020\u2013\
+        2021)**, in which he portrayed Lee Su-ho, a perfect yet emotionally wounded\
+        \ high school student."
+      : 0.0
+      Though initially gaining fame as an idol, Cha Eun-woo further elevated his status through his acting career.: 0.0
+    solve_method: use-selfcheckgpt
+    solve_time: 76.8836989402771

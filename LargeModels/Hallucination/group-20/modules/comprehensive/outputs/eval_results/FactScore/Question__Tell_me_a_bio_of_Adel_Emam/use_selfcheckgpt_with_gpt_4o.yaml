@@ -1,0 +1,221 @@
+evaluator_name: ragas
+results:
+  accuracy: null
+  coherence: 10
+  conciseness: 3
+  context_precision: null
+  context_recall: null
+  context_relevance: null
+  correctness: null
+  factual_correctness: null
+  faithfulness: null
+  fluency: 10
+  overall_quality: 1
+  relevance: 0.5664077115945666
+solve_result:
+  answer: 'Adel Imam is one of Egypt''s most iconic and celebrated actors, with a
+    career spanning decades in film, theater, and television. Born on May 17, 1940,
+    in Mansoura, Egypt, he grew up in Cairo and studied agriculture at Cairo University,
+    where his passion for acting emerged through participation in the university''s
+    theater troupe. This early engagement laid the foundation for his artistic journey.
+
+
+    Imam began his acting career in the 1960s, taking on minor roles before rising
+    to prominence in the 1970s and 1980s with his charismatic performances in Egyptian
+    cinema and theater. Known for his versatility, he excelled in both comedic and
+    dramatic roles, often tackling social and political themes with humor and boldness.
+    Landmark works include films such as "The Terrorist" (1994) and "Morgan Ahmed
+    Morgan" (2007), which showcased his ability to address societal issues like extremism
+    and class disparity while entertaining audiences.
+
+
+    In addition to films, Imam enjoyed success in television, particularly in more
+    recent years, with shows like "Saheb El Saada" and "Afaret Adly Allam," demonstrating
+    his enduring appeal and adaptability.
+
+
+    Adel Imam has been married for many years and has three children, including Mohamed
+    Imam, a popular actor, and Rami Imam, a talented director. His family is closely
+    tied to the entertainment industry, continuing his artistic legacy. He is affectionately
+    known as "The Leader" (Al-Zaeem) and is considered a cultural icon throughout
+    the Arab world.
+
+
+    Over his career, Imam has received numerous accolades for his contributions to
+    acting, earning recognition at regional and international film festivals. His
+    work has had a lasting impact on Arab cinema and popular culture, inspiring generations
+    with his ability to blend humor, emotion, and social commentary.'
+  dataitem:
+    answer: null
+    contexts:
+    - content: "range of humour including slapstick, farce, and even the occasional\
+        \ double entendre. His character archetype is an individual down on his luck\
+        \ who rises above powerful outside pressures. In January 2000, the United\
+        \ Nations appointed Emam as a Goodwill Ambassador for UNHCR He is an important\
+        \ figure in Egypt and the Arabic-speaking countries largely because of the\
+        \ political roles he took on in many of his films and plays. These roles,\
+        \ whether he intended it or not, often put him in a critical position vis-\xE0\
+        -vis the president or the government. He has been cast several times by the\
+        \ producer Emad"
+      score: 1.8531046
+      title: Adel Emam
+    - content: "Adel Emam Adel Imam (sometimes credited as: Adel Emam), (), born May\
+        \ 17, 1940, in Shaha (\u0634\u0647\u0627) near El Mansoura (\u0627\u0644\u0645\
+        \u0646\u0635\u0648\u0631\u0629), is an Egyptian movie and stage actor. He\
+        \ is primarily a comedian, but he has starred in more serious works and, especially\
+        \ in his earlier films, has combined comedy with romance. Emam earned a bachelor's\
+        \ degree in Agriculture from Cairo University. Since then he has appeared\
+        \ in over 100 movies and 10 plays. He is one of the most famous actors in\
+        \ Egypt, and has received critical and popular praise throughout his career.\
+        \ Emam's roles have displayed a wide"
+      score: 1.7834026
+      title: Adel Emam
+    - content: "first Career Achievement Award in El-Gouna Film Festival in 2017.\
+        \ Adel Emam Adel Imam (sometimes credited as: Adel Emam), (), born May 17,\
+        \ 1940, in Shaha (\u0634\u0647\u0627) near El Mansoura (\u0627\u0644\u0645\
+        \u0646\u0635\u0648\u0631\u0629), is an Egyptian movie and stage actor. He\
+        \ is primarily a comedian, but he has starred in more serious works and, especially\
+        \ in his earlier films, has combined comedy with romance. Emam earned a bachelor's\
+        \ degree in Agriculture from Cairo University. Since then he has appeared\
+        \ in over 100 movies and 10 plays. He is one of the most famous actors in\
+        \ Egypt, and has received critical and popular"
+      score: 1.7458069
+      title: Adel Emam
+    - content: "Imam said he would appeal the sentence. On September 12, 2012, Emam\
+        \ won his appeal when a Cairo misdemeanours court cleared him of defaming\
+        \ Islam in his films. Adel Emam received numerous awards through his five\
+        \ decades career. He won Horus Award twice for his leading roles in Omaret\
+        \ Yakobean and Al-irhabi at Cairo International Film Festival. He won the\
+        \ Honorary Award of the Festival at 2014 Marrakech International Film Festival.\
+        \ He won International Jury Award at S\xE3o Paulo International Film Festival.\
+        \ In 2005 and 2008 Dubai International Film Festival awarded Adel Emam the\
+        \ Lifetime Achievement Award. He received the"
+      score: 1.6243315
+      title: Adel Emam
+    - content: 'strand of the film''s complex narrative. Adel Emam is married and
+        has three children: the young director Rami Imam, Sarah Emam, and Mohamed
+        Imam, who also starred in the movie "The Yacoubian Building" as Taha ElShazli.
+        He is the brother of Esam Imam and Iman Imam. His brother-in-law is the late
+        actor Mustafa Metwalli. Adel Emam stated on a talk show hosted by Hala Sarhan
+        that Amin Shalaby and the late Younes Shalaby as well as Saeed Saleh were
+        his best friends since university. In February 2012, Emam was sentenced (in
+        absentia) to three months in jail for offending Islam.'
+      score: 1.5633106
+      title: Adel Emam
+    - content: Mohamed Emam Mohamed Adel Imam () is an Egyptian actor. He comes from
+        an artistic family as his father is actor Adel Emam (also known as El Zaeem
+        in Egypt). His brother is director Rami Imam. Mohamed went to Jesuit school
+        before he entered The American University in Cairo. He studied theater, and
+        acted many roles in the university. One of them was Atawa in El Maghmati's
+        play for the director Mahmoud El Lozy. Imam played his first role out of the
+        university when he took part in the Egyptian series "Kanaria and Shorkah"
+        as Ashraf Sayed El Ousy (Hany
+      score: 1.5517046
+      title: Mohamed Emam
+    - content: "Khaled El Emam Khaled El Emam is the founder and CEO of Privacy Analytics.\
+        \ El Emam is also a senior scientist at the Children\u2019s Hospital of Eastern\
+        \ Ontario (CHEO) Research Institute and Director of the multi-disciplinary\
+        \ Electronic Health Information Laboratory (EHIL), conducting academic research\
+        \ on de-identification and re-identification risk. El Emam is a Privacy by\
+        \ Design Ambassador recognized by the Ontario Information and Privacy Commissioner.\
+        \ He previously held the Canada Research Chair in Electronic Health Information\
+        \ at the University of Ottawa and was an Associate Professor in the Faculty\
+        \ of Medicine at the University. He has a PhD from the"
+      score: 1.5120503
+      title: Khaled El Emam
+    - content: Adel Emara General Adel Emara is an Egyptian general. He is Deputy
+        Defence Minister of Egypt, and a member of the Supreme Council of the Armed
+        Forces (SCAF) which has ruled Egypt since the resignation of Hosni Mubarak
+        in February 2011. On 19 December 2011, Emara held a press conference in which
+        he justified army violence against protestors in Egypt, and blamed "evil forces
+        [which] wanted to drag Egypt into a chaos, putting army into confrontation
+        with the people." Responding to a journalist demanding the army apologize
+        to Egyptian women for brutality towards female protestors, he interrupted
+        the conference to
+      score: 1.5103705
+      title: Adel Emara
+    - content: "2018. Islam Adel Islam Adel (; born July 1, 1988) is an Egyptian professional\
+        \ footballer who currently plays as a Defensive Midfielder for the Saudi club\
+        \ Al Jandal. In 2016, Adel signed a 3-year contract for Misr Lel-Makkasa in\
+        \ a free transfer as his contract with Wadi Degla expired. He participated\
+        \ in 3 matches with Makkasa in 2016\u201317 Egyptian Premier League in which\
+        \ they finished 2nd. He previously played for El-Entag El-Harby, Telephonat\
+        \ Beni Suef and Wadi Degla. In July 2017, he signed a 2-year contract for\
+        \ Raja CA in a free transfer. He moved to Saudi club Al Jandal"
+      score: 1.5038879
+      title: Islam Adel
+    - content: "Adel Adham Adel Adham (; March 8, 1928 \u2013 February 1, 1996) was\
+        \ one of Egypt's most famous actors. He was known for his portrayal of evil\
+        \ and ambiguous characters. His mother was of Turkish origin. Adel Adham was\
+        \ born in March 8, 1987 in Alexandria. His debut in cinema was the year 1945\
+        \ in the film \"Laila, Daughter of the Poor (1945)\". In his most recent film\
+        \ before his death, his character was told by another character that he will\
+        \ go to hell. Adham's character's response? \"Well, if we go to heaven, we\
+        \ will not find anyone we know!\""
+      score: 1.4969907
+      title: Adel Adham
+    meta:
+      dataset: FactScore
+    question: 'Question: Tell me a bio of Adel Emam.'
+  metadata:
+    dataset: FactScore
+    model_name: gpt-4o
+    sentence_hallucination_scores:
+      ? '**, which solidified his reputation not just as an entertainer but also as
+        someone who addressed relevant societal topics, including politics, extremism,
+        and class disparity.'
+      : 0.0
+      '**Rami Imam**, a talented director.': 0.6666666666666666
+      ? "A significant turning point in his career came with works such as **\u201C\
+        The Terrorist\u201D (1994)** and **\u201CMorgan Ahmed Morgan\u201D (2007)"
+      : 0.0
+      ? Adel Imam is one of the most celebrated and iconic Egyptian actors, known
+        for his contributions to film, television, and theater across a remarkable
+        career that spans several decades.
+      : 0.0
+      ? "Adel Imam\u2019s work has had a profound impact on Arab cinema and popular\
+        \ culture, with generations of fans appreciating his ability to connect through\
+        \ humor, emotion, and sharp social commentary."
+      : 0.0
+      ? Born on **May 17, 1940**, in **Mansoura, Egypt**, Adel Imam grew up in Cairo,
+        where he later pursued a degree in agriculture at Cairo University.
+      : 0.3333333333333333
+      ? 'Despite his academic focus, his passion for acting emerged early, leading
+        him to join the university theater troupe and lay the groundwork for his artistic
+        career.
+
+
+        ### Career Highlights
+
+        Adel Imam began his acting career in the 1960s, initially appearing in minor
+        theater and film roles, but his charisma, comedic timing, and ability to tackle
+        social and political issues through performance quickly set him apart.'
+      : 0.0
+      ? Even as he scaled back his appearances in the last few years, his legacy continues
+        to shape and inspire the entertainment industry in the region.
+      : 0.0
+      ? His breakthrough came through his work in Egyptian cinema and theater during
+        the 1970s and 1980s, where he became widely recognized for his versatility
+        in both comedic and dramatic roles.
+      : 0.0
+      His family is often associated with the entertainment industry, carrying on his artistic legacy.: 0.3333333333333333
+      ? His sharp sense of humor and bold portrayals often earned him praise for balancing
+        laughter with a critique of serious issues.
+      : 0.0
+      ? "In addition to films, Adel Imam found success in television, particularly\
+        \ in his later years, with shows such as **\u201CSaheb El Saada\u201D** and\
+        \ **\u201CAfaret Adly Allam,\u201D** which showcased his enduring popularity\
+        \ and adaptability over decades.\n\n### Personal Life and Legacy\nAdel Imam\
+        \ has been married for many years and is the father of three children, including\
+        \ his sons **Mohamed Imam**, a well-known actor, and"
+      : 0.0
+      ? "Known affectionately as \u201CThe Leader\u201D (**Al-Zaeem**) by his admirers,\
+        \ he is regarded as a cultural icon not just in Egypt but across the Arab\
+        \ world."
+      : 0.0
+      ? Throughout his career, Adel Imam earned numerous accolades and awards for
+        his contributions to acting, including recognition at several regional and
+        international film festivals.
+      : 0.0
+    solve_method: use-selfcheckgpt
+    solve_time: 106.35633587837219

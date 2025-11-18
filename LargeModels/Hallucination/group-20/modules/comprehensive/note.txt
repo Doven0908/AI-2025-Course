@@ -1,0 +1,29 @@
+当前结果存放在outputs目录下
+
+1、环境准备
+
+配置相应python环境
+
+安装 en_core_web_sm
+python -m spacy download en_core_web_sm
+
+将api key等导入环境变量
+export OPENAI_API_BASE="xxx"
+export OPENAI_API_KEY="xxx"
+
+2、运行评估
+
+进入当前目录
+修改相应配置，在config.yaml中
+
+执行python main.py
+
+
+3、用统计器对结果进行统计分析
+
+将统计结果保存为文件
+python utils/analyzer.py --plot_as_image
+
+显示工具帮助
+python utils/analyzer.py --help
+

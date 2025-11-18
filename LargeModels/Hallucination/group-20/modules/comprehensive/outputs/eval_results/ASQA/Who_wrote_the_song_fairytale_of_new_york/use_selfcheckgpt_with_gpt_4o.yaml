@@ -1,0 +1,139 @@
+evaluator_name: ragas
+results:
+  accuracy: null
+  coherence: 10
+  conciseness: 10
+  context_precision: null
+  context_recall: null
+  context_relevance: null
+  correctness: 0.5192500777174882
+  factual_correctness: 0.37
+  faithfulness: null
+  fluency: 10
+  overall_quality: 1
+  relevance: 0.8913500486518523
+solve_result:
+  answer: The song *Fairytale of New York* was written by **Shane MacGowan** and **Jem
+    Finer**, both members of the Irish band **The Pogues**. It was first released
+    in 1987.
+  dataitem:
+    answer: '"Fairytale of New York" is an Irish folk-style ballad written by Jem
+      Finer, from Staffordshire, and Shane MacGowan, from Kent, which was recorded
+      by their band the Pogues, featuring singer-songwriter Kirsty MacColl on vocals.
+      The song was written as a duet, with the Pogues'' singer MacGowan taking the
+      role of the male character and MacColl the female character.'
+    contexts:
+    - content: Fairytale of New York "Fairytale of New York" is a song written by
+        Jem Finer and Shane MacGowan and recorded by their band the Pogues, featuring
+        singer-songwriter Kirsty MacColl on vocals. The song is an Irish folk-style
+        ballad and was written as a duet, with the Pogues' singer MacGowan taking
+        the role of the male character and MacColl the female character. It was originally
+        released as a single on 23 November 1987 and later featured on the Pogues'
+        1988 album "If I Should Fall from Grace with God". Originally begun in 1985,
+        the song had a troubled two-year development history,
+      score: 0.83056640625
+      title: Fairytale of New York
+    - content: '"Fairytale of New York". Another inspiration was Sergio Leone''s film
+        "Once Upon a Time in America", which MacGowan and whistle player Spider Stacy
+        would watch over and over again in the tour bus. Apart from shaping the ideas
+        for the lyrics, MacGowan wrote a slow, piano-based introduction to "Fairytale
+        of New York" influenced by the film''s score by Ennio Morricone: the intro
+        would later be edited together with the more upbeat original melody to create
+        the final song. As 1986 went on, however, the Pogues encountered various problems
+        that brought a halt to their recording activity. Their record label Stiff'
+      score: 0.822265625
+      title: Fairytale of New York
+    - content: MacGowan called it "the sort of weird impossible name that always wins
+        a race". "Fairytale of New York" remains The Pogues' best known and best-selling
+        single. It was named after J.P. Donleavy's 1973 novel "A Fairy Tale of New
+        York" which Finer had been reading in the studio when the song was first written.
+        The song dated back to 1985 when Finer had written the original melody and
+        lyrics, about a sailor looking out over the ocean, but he admitted that his
+        lyrics had been terrible and MacGowan had come up with a better storyline
+        of a couple arguing in
+      score: 0.8212890625
+      title: If I Should Fall from Grace with God
+    - content: "the Irish immigrant down on his luck in the Big Apple\" \u2014 and\
+        \ Irish Gaelic footballer Alisha Jordan, who was inspired by the song's words\
+        \ to recover and to not be overcome by facial injuries she received when a\
+        \ stranger attacked her in a New York City street. Note: Shanne Bradley was\
+        \ one of MacGowan's bandmates in his previous group The Nips. Live tracks\
+        \ recorded at Barrowland Ballroom, Glasgow, 1987 Fairytale of New York \"\
+        Fairytale of New York\" is a song written by Jem Finer and Shane MacGowan\
+        \ and recorded by their band the Pogues, featuring singer-songwriter Kirsty\
+        \ MacColl on"
+      score: 0.81982421875
+      title: Fairytale of New York
+    - content: arose as a result of a wager made by the Pogues' producer at the time,
+        Elvis Costello, that the band would not be able to write a Christmas hit single,
+        while the Pogues' manager Frank Murray has stated that it was originally his
+        idea that the band should try and write a Christmas song as he thought it
+        would be "interesting". It was banjo player Finer who came up with the melody
+        and the original concept for the song, which involved a sailor in New York
+        looking out over the ocean and reminiscing about being back home in Ireland.
+        Finer's
+      score: 0.81689453125
+      title: Fairytale of New York
+    - content: 'Maker" in its 1985 Christmas issue: MacGowan had decided to name the
+        song after J. P. Donleavy''s 1973 novel "A Fairy Tale of New York", which
+        Finer was reading at the time and had left lying around the recording studio.
+        In the same "Melody Maker" interview MacGowan expressed regret that the song
+        had not been completed in time to be released for Christmas that year, and
+        hinted that the track would appear on an EP that the Pogues were due to record
+        shortly. In January 1986 the group recorded the song during the sessions with
+        Costello that would produce the'
+      score: 0.7890625
+      title: Fairytale of New York
+    - content: wife Marcia did not like the original story, and suggested new lyrics
+        regarding a conversation between a couple at Christmas. Finer told "NME",
+        "I had written two songs complete with tunes, one had a good tune and crap
+        lyrics, the other had the idea for 'Fairytale' but the tune was poxy, I gave
+        them both to Shane and he gave it a Broadway melody, and there it was". The
+        song's title, the musical structure and its lyrical theme of a couple's conversation
+        were in place by the end of 1985, and were described by MacGowan in an interview
+        with "Melody
+      score: 0.775390625
+      title: Fairytale of New York
+    - content: New York City at Christmas time. MacGowan had always intended the song
+        to be sung as a duet, originally with O'Riordan providing the female vocal
+        part, but despite attempts to record "Fairytale of New York" in January 1986
+        during the sessions for "Poguetry in Motion", the band were unhappy with the
+        results and abandoned the song. During the sessions for the third album at
+        RAK in May 1987, MacGowan recorded new guide vocals for the song but with
+        O'Riordan's departure it now had no female vocalist. Lillywhite took the tapes
+        home and recorded his singer-songwriter wife Kirsty MacColl singing the
+      score: 0.767578125
+      title: If I Should Fall from Grace with God
+    - content: 'climbing to #12 a week later. MacColl''s collaboration with the Pogues,
+        "Fairytale of New York", remains a perennial Christmas favourite. In 2004,
+        2005 and 2006, it was voted favourite Christmas song in a poll by music video
+        channel VH1. The song was re-released in the UK in December 2005, with proceeds
+        being split between the Justice for Kirsty Campaign and charities for the
+        homeless. The re-release reached number 3 on the UK charts, and spent five
+        weeks in the top 75 over the Christmas and New Year period. It reached the
+        top 10 for the third time in its history'
+      score: 0.765625
+      title: Kirsty MacColl
+    - content: "once described in an interview as a 'saint,' though of a Rabelaisian\
+        \ kind. Correctly or incorrectly, his initial works are sometimes grouped\
+        \ with the Kitchen Sink artists as well as the \"Angry Young Men\". Another\
+        \ novel, \"A Fairy Tale of New York\", provided the title of the song \"Fairytale\
+        \ of New York\". In March 2007, Donleavy was the castaway on BBC Radio 4's\
+        \ \"Desert Island Discs\". In 2015, Donleavy was the recipient of the Bob\
+        \ Hughes Lifetime Achievement Award at the Bord G\xE1is Energy Irish Book\
+        \ Awards. Donleavy declared himself to be an atheist at the age of 14. In"
+      score: 0.765625
+      title: J. P. Donleavy
+    meta:
+      dataset: ASQA
+    question: Who wrote the song fairytale of new york?
+  metadata:
+    dataset: ASQA
+    model_name: gpt-4o
+    sentence_hallucination_scores:
+      It was first released in 1987 and remains one of the most beloved Christmas songs of all time.: 0.0
+      ? The song *Fairytale of New York* was written by **Shane MacGowan** and **Jem
+        Finer**, both members of the Irish band **The Pogues**.
+      : 0.0
+    solve_method: use-selfcheckgpt
+    solve_time: 22.34295153617859

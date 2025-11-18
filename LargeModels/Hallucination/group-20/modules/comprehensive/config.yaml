@@ -1,0 +1,107 @@
+# 定义数据集，以及对于每个数据集相应的取样数量
+# [name] : 数据集名称，可选的有 asqa 、 factscore，本研究不考虑短文本问答和选择题等类型的数据集。factscore 是无参考答案的。
+# [type] : 数据集类型，long-form 为长文本问答，目前暂时只支持该类型
+# [number]: 当前数据集取样数量，None或者缺失则为选取全部
+dataset:
+  - name: asqa
+    type: long-form
+    number: 10
+
+  - name: factscore
+    type: long-form
+    number: 10
+
+
+# 定义求解问题的方式
+# [method]: 求解方法，direct-answer 为直接进行问答；use-rag 为使用基本的rag；use-self-rag 为使用self-rag；
+#       use-cove 为使用验证链（实现方式为rag + cove，如果想验证纯cove，可将rag_docs_number设置为0）；use-selfcheckgpt 为使用selfcheckgpt校验后回答 
+# [type]: 求解类型，online 为在线模型，利用litellm实现；offline 为本地离线模型，利用vllm实现；self-rag（vllm，offline） 和 selfcheckgpt（openai，online） 为固定 type。
+# [model]: 模型名称id。如果 type == online，则为litellm支持的模型名称；参考 https://models.litellm.ai/ 。
+#                     如果 type == offline，则为huggingface模型名称。
+# [rag_docs_number]: 当采取 use-rag 、 use-self-rag 、use-cove 方法时，指定检索的文档数量。
+
+# 离线的模型数量应当根据本地显存情况进行调整，确保能够顺利加载模型。
+# 部分模型 包括 meta-llama/Llama-2-7b-chat-hf 需要 hf-token 或相关组织授权才能使用
+# online 的模型需要将相应的 API Key 和 base URL 配置到环境变量中，参考 litellm 文档说明。
+solvers:
+  - method: direct-answer
+    type: online
+    model: openai/gpt-4o
+  
+  # - method: direct-answer
+  #   type: offline
+  #   # model: meta-llama/Llama-2-7b-chat-hf # 用这个模型与 selfrag/selfrag_llama2_7b 进行对比
+  #   model: Qwen/Qwen2.5-1.5B-Instruct 
+  
+  - method: use-rag
+    type: online
+    model: openai/gpt-4o
+    rag_docs_number: 5
+  
+  # - method: use-rag
+  #   type: offline
+  #   model: Qwen/Qwen2.5-1.5B-Instruct
+  #   rag_docs_number: 5
+
+  - method: use-self-rag  
+    model: selfrag/selfrag_llama2_7b
+    rag_docs_number: 5
+    extra_args:
+      max_depth: 7
+      threshold: 0.2
+
+  - method: use-cove
+    type: online
+    model: openai/gpt-4o
+    rag_docs_number: 5
+
+  # - method: use-cove
+  #   type: offline
+  #   model: Qwen/Qwen2.5-1.5B-Instruct
+  #   rag_docs_number: 5
+
+  - method: use-selfcheckgpt
+    model: gpt-4o
+
+
+# 评估器配置
+# [method]: 评估方法，目前仅支持 ragas
+# [model]: 评估所使用的模型名称id，参考 ChatOpenAI 支持的模型名称 
+# [metrics]: 评估指标列表，目前支持的指标为以下全部
+#   * 不是所有指标都能有效求解，取决于数据集特点（是否缺失了必要项）和求解方式（中间结果能否体现）。
+#     缺失的指标默认被设置为 null ，不会影响其他指标的计算。
+evaluators:
+  - method: ragas
+    model: gpt-4o
+    metrics:
+      # 基础准确率指标
+      - accuracy  # 答案准确度：评估回答的整体准确性
+      
+      # 相关性指标
+      - relevance  # 答案相关性：评估回答与问题的相关程度
+      
+      # 正确性指标
+      - correctness  # 答案正确性：评估回答相对于参考资料的准确性。用LLM做直接推断，0.25考虑语义相似度。
+      - factual_correctness  # 事实正确性：评估回答在客观事实上的准确性。用nli做事实性对比，不考虑语义相似度。
+      # 两者实现的详细异同可以参考：https://chat.deepseek.com/share/42y3irrhevi953otzb
+      
+      # 忠实度指标
+      - faithfulness  # 回答忠实度：评估回答是否基于参考资料，避免编造
+      
+      # Context相关指标
+      - context_recall  # 资料回忆度：评估从参考资料中回忆信息的完整性
+      - context_precision  # 资料精准度：评估参考资料中相关信息的比例
+      - context_relevance  # 资料相关性：评估参考资料与问题的相关程度
+
+      # 文本质量指标
+      - conciseness  # 简洁性：评估回答是否简洁明了，避免冗余
+      - coherence  # 连贯性：评估回答的逻辑连贯性和结构合理性
+      - fluency  # 流畅度：评估回答的语言流畅度和语法正确性
+      
+      # 整体质量
+      - overall_quality  # 整体质量：综合评估回答的各方面质量
+
+
+extra:
+  output_dir: ./outputs # 保存结果目录
+

@@ -1,0 +1,239 @@
+evaluator_name: ragas
+results:
+  accuracy: null
+  coherence: 10
+  conciseness: 6
+  context_precision: null
+  context_recall: null
+  context_relevance: null
+  correctness: null
+  factual_correctness: null
+  faithfulness: null
+  fluency: 10
+  overall_quality: 1
+  relevance: 0.7584968694184686
+solve_result:
+  answer: "**Paul Anka**, born **July 30, 1941**, in **Ottawa, Ontario, Canada**,\
+    \ is a renowned singer, songwriter, and actor whose career spans over seven decades.\
+    \ He became one of the first teen idols during the late 1950s and early 1960s\
+    \ and is considered one of the most influential figures in pop music.\n\n### Early\
+    \ Life:\nPaul Anka was born to Camelia and Andrew Emile \"Andy\" Anka Sr., Lebanese-Canadian\
+    \ immigrants who owned a restaurant. He demonstrated an early interest in music,\
+    \ singing in his church choir and studying piano. By the age of 14, he was recording\
+    \ music and performing locally. He attended Fisher Park High School in Ottawa\
+    \ before dedicating himself fully to music.\n\n### Rise to Fame:\nAt 16, Anka\
+    \ wrote and recorded his first major hit, **\"Diana\"** (1957), a song that became\
+    \ a global sensation, selling millions of copies and launching his international\
+    \ career. He followed this success with other classics, including **\"Lonely Boy,\"\
+    ** **\"Put Your Head on My Shoulder,\"** **\"You Are My Destiny,\"** **\"Puppy\
+    \ Love,\"** and **\"My Way,\"** the English lyrics of which he wrote for Frank\
+    \ Sinatra.\n\n### Songwriting Success:\nAnka excelled not only as a performer\
+    \ but also as a prolific songwriter. In addition to **\"My Way,\"** he wrote songs\
+    \ for other artists, notably contributing the lyrics to **\"It Doesn\u2019t Matter\
+    \ Anymore,\"** a hit for Buddy Holly, and the theme song for **\"The Tonight Show\
+    \ Starring Johnny Carson.\"**\n\n### Acting Career:\nIn addition to his music\
+    \ career, Anka appeared in films and TV shows, including **\"The Longest Day\"\
+    ** (1962), where he showcased his talents on screen.\n\n### Later Career and Legacy:\n\
+    Paul Anka has continued to perform, collaborate with other artists, and reinterpret\
+    \ his classic hits. He released several albums blending traditional pop with contemporary\
+    \ sounds. His autobiography, **\"My Way\"** (2013), reveals his experiences in\
+    \ the entertainment industry and interactions with notable figures like Elvis\
+    \ Presley and Frank Sinatra.\n\n### Awards and Recognition:\nPaul Anka has been\
+    \ honored with a star on the **Hollywood Walk of Fame** and inducted into the\
+    \ **Canadian Songwriters Hall of Fame**, among other accolades.\n\n### Personal\
+    \ Life:\nAnka has been married multiple times and is a father to several children.\
+    \ His memoir and interviews detail the balance between his personal life and his\
+    \ demanding career.\n\n### Legacy:\nWith over 900 songs and more than 100 million\
+    \ records sold globally, Paul Anka remains an icon in music, admired for his ability\
+    \ to evolve with changing musical trends while preserving his artistry."
+  dataitem:
+    answer: null
+    contexts:
+    - content: "Paul Anka Paul Albert Anka, (, Arabic: \u0628\u0648\u0644 \u0639\u0646\
+        \u0642\u0627; born July 30, 1941) is a Canadian singer, songwriter and actor.\
+        \ Anka became famous during the late 1950s, 1960s, and 1970s with hit songs\
+        \ like \"Diana\", \"Lonely Boy\", \"Put Your Head on My Shoulder\", and \"\
+        (You're) Having My Baby\". He wrote such well-known music as the theme for\
+        \ \"The Tonight Show Starring Johnny Carson\" and one of Tom Jones's biggest\
+        \ hits, \"She's a Lady\". He also wrote the English lyrics to Claude Fran\xE7\
+        ois and Jacques Revaux's music for Frank Sinatra's signature song, \"My Way\"\
+        , which has been covered by many, including"
+      score: 1.6975129
+      title: Paul Anka
+    - content: "Christians. Anka's father (Andy) was Syrian-American from 'Uy\u016B\
+        n al-W\u0101d\u012B, Syria, from the Na'Nou' (Arabic: \u0646\u0639\u0646\u0648\
+        \u0639) family and his mother (Camelia) was Canadian-Lebanese \"from the town\
+        \ of Kfar Mechki, Rashaya District, in Lebanon\". Anka sang with the St. Elias\
+        \ Antiochian Orthodox Cathedral choir under the direction of Frederick Karam,\
+        \ with whom he studied music theory. He studied piano with Winnifred Rees.\
+        \ He attended Fisher Park High School, where he was part of a vocal trio called\
+        \ the Bobby Soxers. Paul Anka recorded his first single, \"I Confess\", when\
+        \ he was 14. In 1957, with $100 given to him by his uncle,"
+      score: 1.6116903
+      title: Paul Anka
+    - content: "Anna Anka Anna Anka (\"n\xE9e\" Danuta Anna Ko\u0142odziejska, previously\
+        \ \xC5berg; born 1971), is a Swedish-American model, actress, and author.\
+        \ She was married to Canadian singer Paul Anka. Anka is featured in the Swedish\
+        \ reality show (). Anka made a brief appearance in the American film \"Dumb\
+        \ and Dumber\", credited as Anna \xC5berg. She had two lines, both in Swedish:\
+        \ () and (). She has also played minor roles in the films \"The Specialist\"\
+        \ and \"Drop Zone\". Anka has released a workout and training book called\
+        \ \"The 30-minute pregnancy workout book: The Complete Light Weight Program\
+        \ for Fitness.\" In 2009, Anka"
+      score: 1.6040506
+      title: Anna Anka
+    - content: her Polish Lowland Sheepdog after Anka. Series co-creator Daniel Palladino
+        chose the name after hearing the "Rock Swings" album at a coffeehouse. In
+        the cold open to the episode "The Real Paul Anka", both Paul Ankas were featured
+        in a dream sequence Lorelai describes to her daughter, Rory. In 1978, Anka
+        opened Jubilation, a restaurant and club considered one of the first modern-era
+        nightclubs in Las Vegas; County Commissioner Chris Giunchigliani is its first
+        female bartender. In 2012, Anka co-founded the holographic tech startup, ARHT
+        Media. He is currently a member of ARHT Media's Board of Advisors, alongsisde
+        Kevin O'Leary
+      score: 1.6032635
+      title: Paul Anka
+    - content: "Later that year, two years after marrying, Paul and Anna Anka divorced.\
+        \ By August 2014, Anna Anka said she was on good terms with Paul, though not\
+        \ with her first husband. In June 2017, Anka lost custody of her son after\
+        \ a ruling which assigned custody to Paul Anka without any mandate for guaranteed\
+        \ visitation or family therapy. In August 2017, Anna Anka appealed the decision,\
+        \ which Paul Anka criticized. Anna Anka Anna Anka (\"n\xE9e\" Danuta Anna\
+        \ Ko\u0142odziejska, previously \xC5berg; born 1971), is a Swedish-American\
+        \ model, actress, and author. She was married to Canadian singer Paul Anka.\
+        \ Anka is featured"
+      score: 1.5945082
+      title: Anna Anka
+    - content: of the best moments of the show. In 1972, a street in Ottawa was named
+        Paul Anka Drive. In 1981, the Ottawa City Council named August 26 as "Paul
+        Anka Day" to celebrate his quarter-century in show business. Anka won the
+        Juno Award for Composer of the Year (an award given for songwriting) in 1975.
+        He has been nominated for Juno Awards many other times. He was inducted into
+        the Canadian Music Hall of Fame in 1980. Anka was inducted into Canada's Walk
+        of Fame in 2005. In the mid-1980s, Anka was secretly recorded while launching
+        a tirade against his
+      score: 1.5712745
+      title: Paul Anka
+    - content: "daughter of a Lebanese diplomat, Charles de Zogheb, from February\
+        \ 16, 1963, until 2001. The couple met in 1962 in San Juan, Puerto Rico, where\
+        \ she was a fashion model on assignment and under contract to the Eileen Ford\
+        \ Agency. Zogheb, brought up in Egypt, is of Lebanese, English, French, Dutch,\
+        \ and Greek descent. The couple married the following year in a ceremony at\
+        \ Paris-Orly Airport. She quit modeling after their second child was born.\
+        \ They have five daughters: Amelia, Anthea, Alicia, Amanda (married to actor\
+        \ Jason Bateman), and Alexandra. In 2008, Anka married his personal trainer,\
+        \ Anna \xC5berg, in"
+      score: 1.5466621
+      title: Paul Anka
+    - content: his career. This time he signed with United Artists and in 1974 teamed
+        up with Odia Coates to record the 1 hit, "(You're) Having My Baby", exposing
+        Anka to a new generation of fans and proved his staying power among his original
+        fan base that was now maturing. Anka also wrote five songs which were included
+        on an album by Don Goodwin. Anka and Coates would record two more duets that
+        made it into the Top 10, "One Man Woman/One Woman Man" ( 7) and "I Don't Like
+        to Sleep Alone" ( 8), and the 15 duet "(I Believe) There's
+      score: 1.5235914
+      title: Paul Anka
+    - content: "and Brian Mulroney. Works cited Paul Anka Paul Albert Anka, (, Arabic:\
+        \ \u0628\u0648\u0644 \u0639\u0646\u0642\u0627; born July 30, 1941) is a Canadian\
+        \ singer, songwriter and actor. Anka became famous during the late 1950s,\
+        \ 1960s, and 1970s with hit songs like \"Diana\", \"Lonely Boy\", \"Put Your\
+        \ Head on My Shoulder\", and \"(You're) Having My Baby\". He wrote such well-known\
+        \ music as the theme for \"The Tonight Show Starring Johnny Carson\" and one\
+        \ of Tom Jones's biggest hits, \"She's a Lady\". He also wrote the English\
+        \ lyrics to Claude Fran\xE7ois and Jacques Revaux's music for Frank Sinatra's\
+        \ signature song, \"My Way\", which has"
+      score: 1.5215752
+      title: Paul Anka
+    - content: in "The Real Paul Anka" episode of "Gilmore Girls". He made several
+        appearances on the NBC TV series "Las Vegas". Anka was the subject of the
+        1962 National Film Board of Canada documentary ""Lonely Boy"", considered
+        a classic work of cinema verite. He wrote and performed songs in a 1985 Canadian
+        children's Christmas cartoon, "George and the Christmas Star". In "American
+        Idol"s seasons 2 and 3, he made a special appearance and sang an adapted version
+        of "My Way" that mocked the format of the show, as well as participants, judges,
+        and the host. The performance was praised as one
+      score: 1.4745979
+      title: Paul Anka
+    meta:
+      dataset: FactScore
+    question: 'Question: Tell me a bio of Paul Anka.'
+  metadata:
+    dataset: FactScore
+    model_name: gpt-4o
+    sentence_hallucination_scores:
+      ? "\"**\n\nAnka's influence also touched the world of rock and roll, as he contributed\
+        \ lyrics to the song **\"It Doesn\u2019t Matter Anymore,\"** a hit for Buddy\
+        \ Holly.\n\n### Acting Career:"
+      : 0.3333333333333333
+      '"Diana" became a global sensation, climbing to the top of charts and selling millions of copies.': 0.0
+      ? '### Early Life:
+
+        Paul Anka was born to Camelia and Andrew Emile "Andy" Anka Sr., Lebanese-Canadian
+        immigrants who owned a restaurant.'
+      : 0.0
+      '### Later Career and Legacy:': 0.0
+      ? '**Paul Anka**, born **July 30, 1941**, in **Ottawa, Ontario, Canada**, is
+        a legendary singer, songwriter, and actor whose career spans over seven decades.'
+      : 0.16666666666666666
+      ? "Anka continued his streak of hits with songs like **\"Lonely Boy,\"** **\"\
+        Put Your Head on My Shoulder,\"** **\"You Are My Destiny,\"** **\"My Way\"\
+        ** (written for Frank Sinatra), and **\"Puppy Love,\"** which he wrote for\
+        \ Annette Funicello, a fellow teen idol.\n\n### Songwriting Success:\nWhile\
+        \ Anka\u2019s career as a singer flourished, his immense talent as a songwriter\
+        \ allowed him to shine behind the scenes as well."
+      : 0.0
+      Anka has been married multiple times and is the father of several children.: 0.0
+      Anka has continued to write, record, and perform throughout his life.: 0.0
+      Anka's contributions to music and entertainment have cemented his legacy as a versatile and influential artist.: 0.0
+      ? "Anka\u2019s autobiography, **\"My Way,\"** was published in 2013, detailing\
+        \ his incredible journey in the entertainment industry and his relationships\
+        \ with iconic figures like Elvis Presley, Frank Sinatra, and others.\n\n###\
+        \ Awards and Recognition:\nPaul Anka has received numerous accolades, including\
+        \ being inducted into the **Canadian Songwriters Hall of Fame** and receiving\
+        \ a star on the **Hollywood Walk of Fame**."
+      : 0.0
+      ? At the age of 16, Anka wrote and recorded his first major hit, **"Diana"**
+        (1957), a song inspired by his unrequited love for a young woman named Diana
+        Ayoub.
+      : 0.0
+      ? Beyond music, Paul Anka ventured into acting and appeared in several films
+        and TV shows during the 1960s, including **"The Longest Day"** (1962), a World
+        War II epic, and various variety shows.
+      : 0.0
+      By the age of 14, he was recording music and performing locally.: 0.0
+      ? 'He attended Fisher Park High School in Ottawa before pursuing his music career
+        full-time.
+
+
+        ### Rise to Fame:'
+      : 0.0
+      ? He gained fame as one of the earliest teen idols of the late 1950s and early
+        1960s, becoming one of the most prominent figures in pop music.
+      : 0.0
+      He has recorded albums that blend traditional pop with modern sounds, ensuring his relevance across generations.: 0.0
+      ? 'He has shared the challenges and triumphs of balancing his personal life
+        with his career in his memoir and interviews.
+
+
+        ### Impact:
+
+        With over 900 songs to his credit and 100 million records sold worldwide,
+        Paul Anka remains an enduring icon in music.'
+      : 0.0
+      He showed an early interest in music, singing in the choir at his church and studying piano.: 0.0
+      ? He wrote hits for other artists, including the English lyrics to **"My Way,"**
+        which became one of Frank Sinatra's signature songs, and the theme song for
+        **"The Tonight Show Starring Johnny Carson.
+      : 0.0
+      ? His ability to adapt to changing musical trends while staying true to his
+        artistry has made him a beloved figure whose legacy continues to thrive.
+      : 0.16666666666666666
+      His charisma translated well to the screen, further solidifying his celebrity status.: 0.0
+      ? "His contributions to music and pop culture have earned him global recognition\
+        \ as one of Canada\u2019s greatest musical exports.\n\n### Personal Life:"
+      : 0.0
+      His later works include collaborations with artists like Michael Jackson and new interpretations of his classic hits.: 0.6666666666666666
+      This established Anka as an international star and marked the beginning of his prolific career.: 0.0
+    solve_method: use-selfcheckgpt
+    solve_time: 124.49664616584778

@@ -1,0 +1,136 @@
+evaluator_name: ragas
+results:
+  accuracy: 0.5
+  coherence: 7
+  conciseness: 8
+  context_precision: null
+  context_recall: null
+  context_relevance: null
+  correctness: 0.46282330358263785
+  factual_correctness: 0.18
+  faithfulness: null
+  fluency: 8
+  overall_quality: 1
+  relevance: 0.8296514043329314
+solve_result:
+  answer: "The Adelaide Crows last appeared in an AFL grand final in **2017**. They\
+    \ faced the Richmond Tigers but unfortunately lost the match, with a final score\
+    \ of **Richmond 108 - Adelaide 60**. \n\nIn the AFL Women's (AFLW) competition,\
+    \ the Adelaide Crows have been more successful, with multiple grand final appearances,\
+    \ including their **last AFLW grand final win in April 2022** against Melbourne."
+  dataitem:
+    answer: There are several Grand Finals. The last time Adelaide was in the A-League
+      Grand Final was in 2016, while Adelaide was last in the AFL Grand Final in 2017
+      and last won the AFL Grand Final in 1998. The AFL Grand Final is a football
+      match to determine the premiers for the Australian Football League season, and
+      the A-League Grand Final is the final match of the A-League season.
+    contexts:
+    - content: "first premiership won by a team from Victoria since Essendon\u2019\
+        s 2000 victory. , this remains the last grand final appearance for Port Adelaide.\
+        \ It would in fact prove the last time the Power participated in the finals\
+        \ until 2013, whilst in the five intervening seasons Port Adelaide won just\
+        \ 34 and drew one of 110 matches for a success rate of 31.36 percent \u2013\
+        \ the longest finals drought and worst five-season record in Port\u2019s AFL\
+        \ history. They bottomed out at just three wins and ahead only of expansion\
+        \ club Gold Coast by percentage in 2011. In contrast, Geelong would finish"
+      score: 0.79150390625
+      title: 2007 AFL Grand Final
+    - content: final being a home game for Geelong. This was Richmond's first grand
+        final appearance in 35 years since 1982 (the club having last won a premiership
+        in 1980) and Adelaide's third appearance in the grand final (the club having
+        won their last two grand finals in 1997 and 1998). This marked the first grand
+        final since the inaugural VFL grand final 119 years earlier where neither
+        team had any players to have previously played in a grand final. Shortly after
+        both teams qualified for the match, the AFL announced that Richmond would
+        wear their rarely worn clash guernsey of predominantly
+      score: 0.791015625
+      title: 2017 AFL Grand Final
+    - content: a row, to play the in a Preliminary Final at the MCG. In contrast to
+        the thriller that took place the previous year, however, the Crows defeated
+        the Bulldogs soundly, 24.17 (161) to 13.15 (93). Matthew Robran kicked six
+        goals and Andrew McLeod, opposed to renowned tagger Tony Liberatore, booted
+        seven. Like the previous year, Adelaide went into the Grand Final as underdogs,
+        playing against , who had won the Premiership in 1996 and had won eleven consecutive
+        matches leading up to the Grand Final. North Melbourne led by 24 points at
+        half-time, 6.15 (51) to 4.3 (27), with only
+      score: 0.7802734375
+      title: History of the Adelaide Football Club
+    - content: "the three years of Neil Kerley's tenure as captain-coach. Unlike Subiaco,\
+        \ South Adelaide's improvement under Bunton's patented methods of fast, skilful\
+        \ football was gradual, but the Panthers played in the major round for the\
+        \ first time in eleven years in 1977 and two years later played in only its\
+        \ second grand final since the war (and last to date). However, on a muddy\
+        \ ground and extremely windy if dry day Port's experience and luck with the\
+        \ toss told: the Magpies\u2019 five goals with the breeze was more than South\
+        \ could manage for a day when not one goal was kicked"
+      score: 0.7734375
+      title: Haydn Bunton Jr.
+    - content: the preliminary final, Sloane returned from his appendicitis and Andy
+        Otten was brought into the team to replace McGovern. The Crows had another
+        fast start, scoring six goals to one in the first quarter and leading by 48
+        points early in the second quarter on their way to a 61-point win. This win
+        put them through to their first grand final since their 1998 premiership.
+        Adelaide played in the 2017 AFL Grand Final against . They led at quarter
+        time by 11 points, but Richmond went on to kick the next seven goals and win
+        the match by 48 points,
+      score: 0.76806640625
+      title: 2017 Adelaide Football Club season
+    - content: 1990 SANFL Grand Final The 1990 SANFL Grand Final was an Australian
+        rules football game contested between the Port Adelaide Football Club and
+        the Glenelg Football Club, held at Football Park on Sunday 7 October 1990.
+        It was the 89th annual Grand Final of the South Australian National Football
+        League, staged to determine the premiers of the 1990 SANFL season. The match,
+        attended by 50,589 spectators, was won by Port Adelaide by a margin of 15
+        points, marking that club's thirtieth premiership victory. It was the last
+        time that Australian rules football was played in South Australia without
+        the presence
+      score: 0.76708984375
+      title: 1990 SANFL Grand Final
+    - content: 1992 SANFL Grand Final The 1992 South Australian National Football
+        League (SANFL) Grand Final saw the Port Adelaide Magpies defeat the Glenelg
+        Tigers by 56 points. The match was played on Saturday 3 October 1992 at Football
+        Park in wet weather in front of a crowd of 42,242. This was Port Adelaide's
+        31st SANFL Premiership. In the 24-year period of 1969-1992, Glenelg had appeared
+        in 14 Grand Finals for only 3 Premiership victories (all over North Adelaide).
+        Of the 11 Grand Final defeats, 5 were at the hands of Port Adelaide. Port
+        Adelaide was captained by Greg Phillips and coached
+      score: 0.7666015625
+      title: 1992 SANFL Grand Final
+    - content: thrilling finish enabled Melbourne to win their last premiership to
+        date by four points. Two years later, in arguably one of the most famous grand
+        finals of them all, St Kilda won their only premiership by one point, and
+        their players went for an impromptu lap of honour with the cup, a tradition
+        that endures. In the 1967 grand final, Geelong and Richmond played a match
+        of the highest standard, with the Tigers winning in the last minutes to end
+        a long premiership drought. The next season, Carlton also ended a long run
+        without success and set a record as
+      score: 0.76611328125
+      title: AFL Grand Final
+    - content: the Lions' premiership side were on the playing list when the club
+        won the wooden spoon in 1998. This was the first of four consecutive Grand
+        Final appearances by Brisbane, and the first of three consecutive flags. For
+        Essendon, this is their most recent Grand Final appearance. 2001 AFL Grand
+        Final The 2001 AFL Grand Final was an Australian rules football game contested
+        between the Essendon Football Club and the Brisbane Lions, held at the Melbourne
+        Cricket Ground in Melbourne on 29 September 2001. It was the 105th annual
+        Grand Final of the Australian Football League (formerly the Victorian Football
+      score: 0.7646484375
+      title: 2001 AFL Grand Final
+    - content: on the night of 12 September 2015, at the Melbourne Cricket Ground.
+        Both teams had not featured in the finals for several years; with the Bulldogs
+        making their first finals appearance since losing the 2010 Preliminary Final
+        and Adelaide last appearing in the 2012 Preliminary Final. This marked the
+        third final between the two teams, after they contested preliminary finals
+        in 1997 and 1998; which were both won by the Crows in their two premiership
+        years. In a high-scoring, energetic game, the Bulldogs scored the first four
+        goals of the game before Adelaide kicked the next five to lead by
+      score: 0.763671875
+      title: 2015 AFL finals series
+    meta:
+      dataset: ASQA
+    question: When was the last time adelaide was in a grand final?
+  metadata:
+    dataset: ASQA
+    model_name: openai/gpt-4o
+    solve_method: direct-answer
+    solve_time: 2.7158920764923096

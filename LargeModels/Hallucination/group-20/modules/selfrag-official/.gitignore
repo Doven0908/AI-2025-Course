@@ -1,0 +1,25 @@
+# Self-RAG: Large datasets
+self-rag/eval_data/
+self-rag/enwiki_2020_intro_only/
+
+# Self-RAG: Model weights (only ignore .bin files, keep config files)
+self-rag/selfrag-model/*.bin
+
+# Self-RAG: Evaluation and inference results
+self-rag/ragas_results/
+
+# Self-RAG: Generated presentation materials
+self-rag/presentation_materials/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Python distribution / packaging
+dist/
+build/
+*.egg-info/
+

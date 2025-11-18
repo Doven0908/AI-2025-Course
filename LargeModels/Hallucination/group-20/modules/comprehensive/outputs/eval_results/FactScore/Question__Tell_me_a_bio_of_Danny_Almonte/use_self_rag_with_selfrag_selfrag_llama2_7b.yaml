@@ -1,0 +1,149 @@
+evaluator_name: ragas
+results:
+  accuracy: null
+  coherence: 8
+  conciseness: 10
+  context_precision: null
+  context_recall: null
+  context_relevance: 1.0
+  correctness: null
+  factual_correctness: null
+  faithfulness: 0.8
+  fluency: 10
+  overall_quality: 0
+  relevance: 0.7672063564276493
+solve_result:
+  answer: Danny Almonte is a former Little League pitcher that threw up to 90 mph.
+    Almonte was born in Moca, Dominican Republic. A former Little League pitcher that
+    led his Bronx team to a third-place finish in the 2001 Little League World Series,
+    Almonte was revealed to have actually been two years too old to play Little League
+    baseball [1].
+  dataitem:
+    answer: null
+    contexts:
+    - content: Danny Almonte Danny Almonte (born April 7, 1987) is a former baseball
+        player, currently an assistant baseball coach at Cardinal Hayes High School
+        in New York City. Almonte was born in Moca, Dominican Republic. A former Little
+        League pitcher that threw up to , he became the subject of considerable media
+        attention in 2001. Considered a phenomenon as he led his Bronx team to a third-place
+        finish in the 2001 Little League World Series, Almonte was revealed to have
+        actually been two years too old to play Little League baseball. Although there
+        were many allegations during the 2001 Series, the
+      score: 1.9640048
+      title: Danny Almonte
+    - content: was inspired by Almonte's story. Danny Almonte Danny Almonte (born
+        April 7, 1987) is a former baseball player, currently an assistant baseball
+        coach at Cardinal Hayes High School in New York City. Almonte was born in
+        Moca, Dominican Republic. A former Little League pitcher that threw up to
+        , he became the subject of considerable media attention in 2001. Considered
+        a phenomenon as he led his Bronx team to a third-place finish in the 2001
+        Little League World Series, Almonte was revealed to have actually been two
+        years too old to play Little League baseball. Although there were many allegations
+      score: 1.9611776
+      title: Danny Almonte
+    - content: May 2006 as Almonte proclaimed he was married to 30-year-old Rosy Perdomo.
+        While in the National Amateur Baseball Federation (NABF) wood-bat summer league,
+        he played for Youth Service. There had been some reports that he would be
+        selected in the 2006 Major League Baseball Draft, though this did not happen.
+        He attended a Major League tryout in October 2006. After the draft he said
+        he would play baseball for New Mexico Junior College in Hobbs, New Mexico.
+        The team made it to the National Junior College championship game in 2007.
+        In 2007, Almonte joined the Southern Illinois Miners of the
+      score: 1.7698412
+      title: Danny Almonte
+    - content: at Public School 52 in the Bronx in September. After his father's visa
+        expired, Danny remained in New York under the guardianship of Rolando Paulino.
+        He played, along with four of his former teammates, in the 2004 Public Schools
+        Athletic League championship. In early 2005, Danny moved to the Miami area,
+        where he did not play baseball due to residency requirements. The following
+        year he returned to New York, where he pitched for James Monroe High School
+        in the Bronx. In September 2005, Almonte was rumored to have been married
+        to an older woman. This allegation was later confirmed in
+      score: 1.7655418
+      title: Danny Almonte
+    - content: in the summer of 2009 as an outfielder. As of 2010, Almonte had returned
+        to the Bronx, where he was serving as a volunteer assistant coach for his
+        high school alma mater's baseball team. At that time, he was reportedly no
+        longer with his wife, though he would not discuss details of the relationship.
+        Almonte indicated an intent to return to semi-pro baseball that summer, after
+        the end of the school year, but said that he no longer held expectations of
+        some day playing in the Major Leagues. The episode "Foul Play" of the legal
+        drama series "Law & Order"
+      score: 1.7281505
+      title: Danny Almonte
+    - content: Baseball. A team from Staten Island hired a private investigator to
+        look into the ages of the entire team. A similar investigation was conducted
+        by a team from Pequannock Township, New Jersey. Neither turned up any evidence
+        that the players were too old. Rolando Paulino, the league president, adamantly
+        insisted that Danny had in fact been born on April 7, 1989. Paulino was initially
+        backed by Little League and Dominican officials, who said the Baby Bombers
+        had followed all proper procedures regarding age verification. Officials at
+        Little League headquarters even took the unusual step of checking each of
+        the player
+      score: 1.7237772
+      title: Danny Almonte
+    - content: truth was not revealed until weeks later. In 2000, Almonte moved to
+        the Bronx, where he began playing Little League baseball. His father, Felipe,
+        who had moved to the United States six years earlier, had begun a youth baseball
+        league in Moca that still bears his name. With his high leg kick and a fastball
+        that reached a top speed of 76 miles per hour (the equivalent, for that distance,
+        of a 102 mph major-league fastball), the 5-foot-8 Danny soon became a sensation.
+        His imposing frame won him the nickname "Little Unit," a nod to Randy "Big
+        Unit" Johnson. He
+      score: 1.6639603
+      title: Danny Almonte
+    - content: "ranked fourth in the National Junior College Athletic Association\
+        \ Division 2 poll and advanced to the NJCAA D-2 World Series. Almonte finished\
+        \ as one of the top hitters in JUCO baseball, hitting .497 with 14 home runs\
+        \ and going 7\u20131 with one save as a pitcher. In his second year at the\
+        \ school, Almonte hit .472, with 18 home runs, and had a pitching record of\
+        \ 9\u20130. Despite those statistics, however, he was not selected by any\
+        \ Major League Baseball organization in the Rule 4 draft. Forced to give up\
+        \ pitching due to a sore arm, Almonte played semi-pro baseball"
+      score: 1.6515476
+      title: Danny Almonte
+    - content: "Frontier League, an independent minor-league circuit\u2014and thus\
+        \ forfeited his NCAA collegiate eligibility. He pitched his first game on\
+        \ May 27, 2007 against the Evansville Otters. The Miners lost, 3\u20132. He\
+        \ was released on June 30, 2007. His record was 0\u20131, with a 5.29 ERA\
+        \ in six appearances. By at least one account, his poor performance was due\
+        \ to his being out of shape at the time. In fall 2007, Almonte enrolled as\
+        \ a freshman in Western Oklahoma State College, a community college in Altus,\
+        \ Oklahoma, where he pitched and played right field for the Pioneers. Almonte\
+        \ and the Pioneers were"
+      score: 1.6145018
+      title: Danny Almonte
+    - content: him 14 years old at the time of the Little League World Series. It
+        was common for Dominican parents to wait years before registering the birth
+        of a child. Their report, posted on the magazine's website just before being
+        published, triggered a full investigation by Little League, even as Almonte
+        and his teammates were being feted in the Bronx. His mother, Sonia Rojas Breton,
+        owned a handwritten birth certificate saying that he had been born at home
+        in Jamao with the help of a midwife in 1989. She had registered Danny's 1989
+        birth date in 2000. Both of Almonte's parents,
+      score: 1.600765
+      title: Danny Almonte
+    meta:
+      dataset: FactScore
+    question: 'Question: Tell me a bio of Danny Almonte.'
+  metadata:
+    dataset: FactScore
+    intermediate:
+    - '[Retrieval]'
+    - Danny Almonte is a former Little League pitcher that threw up to 90 mph.Almonte
+      was born in Moca, Dominican Republic.A former Little League pitcher that led
+      his Bronx team to a third-place finish in the 2001 Little League World Series,
+      Almonte was revealed to have actually been two years too old to play Little
+      League baseball.
+    model_name: selfrag/selfrag_llama2_7b
+    retrieved_contexts:
+    - was inspired by Almonte's story. Danny Almonte Danny Almonte (born April 7,
+      1987) is a former baseball player, currently an assistant baseball coach at
+      Cardinal Hayes High School in New York City. Almonte was born in Moca, Dominican
+      Republic. A former Little League pitcher that threw up to , he became the subject
+      of considerable media attention in 2001. Considered a phenomenon as he led his
+      Bronx team to a third-place finish in the 2001 Little League World Series, Almonte
+      was revealed to have actually been two years too old to play Little League baseball.
+      Although there were many allegations
+    solve_method: use-self-rag
+    solve_time: 159.90612697601318

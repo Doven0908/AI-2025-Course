@@ -1,0 +1,186 @@
+evaluator_name: ragas
+results:
+  accuracy: 0.5
+  coherence: 9
+  conciseness: 9
+  context_precision: 0.0
+  context_recall: 0.25
+  context_relevance: 0.75
+  correctness: 0.5720019318364754
+  factual_correctness: 0.17
+  faithfulness: 0.5
+  fluency: 10
+  overall_quality: 1
+  relevance: 0.9652682941419641
+solve_result:
+  answer: "Christine ultimately ends up with **Raoul** in **The Phantom of the Opera**.\
+    \ In the 2004 film (source 5) and in the musical, after the Phantom proposes marriage\
+    \ to Christine in the catacombs, Christine shows compassion toward the Phantom\
+    \ but chooses to be with Raoul. The Phantom, understanding that he cannot compel\
+    \ her to love him, sets Christine and Raoul free. \n\nHowever, in the sequel,\
+    \ **Love Never Dies** (source 4), it is revealed that Christine had a son, Gustave,\
+    \ with the Phantom, even though she remained with Raoul. "
+  dataitem:
+    answer: "Christine Daa\xE9 is a fictional character and the female protagonist\
+      \ of Gaston Leroux's 1910 novel The Phantom of the Opera and of the various\
+      \ adaptations of the work. Erik, the Phantom of the Opera and Viscount Raoul\
+      \ de Chagny both fall in love with her. In the 1925 film, she surprises them\
+      \ by choosing to marry neither one of them, instead pursuing her singing career.\
+      \ In the 1943 and 2004 film, along with the musical, Christine ends up with\
+      \ Viscount Raoul de Chagny."
+    contexts:
+    - content: to Christine - he bargains that he will free Raoul if she agrees to
+        stay with him forever; if she refuses, Raoul will die. Christine, heartbroken,
+        tells the Phantom that it is his soul that is deformed, not his face. As the
+        Phantom and Raoul both plead to her, Christine mournfully wonders what kind
+        of life the Phantom has known. She tells the Phantom that he is not alone
+        and kisses him, showing him compassion. The Phantom, having experienced kindness,
+        at last, understands that he cannot compel Christine to love him. He sets
+        them both free, telling them to forget
+      score: 0.76513671875
+      title: The Phantom of the Opera at the Royal Albert Hall
+    - content: is able to convey to her the misery he has endured throughout his life
+        and the hope he finally felt for love. Upon its completion, Erik originally
+        plans to go to his bed (which is a coffin) and "never wake up", but by the
+        final chapters of the novel, during which Erik kidnaps Christine right from
+        the stage during a performance, Erik expresses his wish to marry Christine
+        and live a comfortable bourgeois life after his work has been completed. He
+        has stored a massive amount of gunpowder under the Opera, and, should she
+        refuse his offer, plans to detonate
+      score: 0.76171875
+      title: Erik (The Phantom of the Opera)
+    - content: "Gerard Butler and Emmy Rossum as the Phantom and Christine. Originally,\
+        \ there was already a filming based on the musical in the early 1990s, with\
+        \ the main actors of the premiere: Michael Crawford as the phantom and Sarah\
+        \ Brightman as Christine. Brightman was married to Lloyd Webber at the time,\
+        \ but shortly before the planned pre-production the marriage was broken and\
+        \ the filming was canceled. Several researchers claim the character Christine\
+        \ Daa\xE9 was based upon the real-life Swedish-born opera star Christina Nilsson,\
+        \ also known as Kristina Nilsson or Christine Nilsson. This claim is unverified\
+        \ by any official source, but it"
+      score: 0.76171875
+      title: "Christine Daae\u0301"
+    - content: he unthinkingly mentions Christine, Meg becomes enraged and accidentally
+        fires the gun, shooting Christine. The Phantom rushes to Christine and orders
+        Madame Giry to go for help while Meg looks on in stunned horror at what she
+        had done. Christine reveals to Gustave that the Phantom is his real father
+        and she tells the Phantom that her love for him will never die. The Phantom
+        and Christine share a final kiss and she dies in his arms. The Phantom has
+        Meg hold Christine's body as he moves to comfort Gustave, who unmasks him
+        without fear. Ten years after the events
+      score: 0.76025390625
+      title: Love Never Dies (musical)
+    - content: back, but Raoul intervenes. Raoul and the managers plot to capture
+        the Phantom during his opera. The Phantom murders Carlotta's lover, Ubaldo
+        Piangi, and takes his place as the male lead to sing opposite Christine. During
+        their passionate duet, Christine unmasks the Phantom, revealing his deformities
+        to the horrified audience. The two escape to the catacombs, bringing down
+        the chandelier, as a mob forms to hunt the Phantom down. Giry leads Raoul
+        down to the catacombs to rescue Christine. The Phantom has Christine wear
+        a wedding dress and proposes marriage. Christine admits she does not fear
+        the Phantom for his
+      score: 0.7587890625
+      title: The Phantom of the Opera (2004 film)
+    - content: returns his mask to him, and the Phantom returns her to the theatre
+        unharmed, but orders the managers to make her the lead in "Il Muto". However,
+        the managers choose Carlotta instead. During the performance, the Phantom
+        tampers with Carlotta's throat spray, causing her to sing out of tune, and
+        Christine steps in. The Phantom encounters stagehand Joseph Buquet and hangs
+        him above the stage. Christine and Raoul flee to the roof, where they declare
+        their love for each other. The Phantom, eavesdropping, vows revenge. Three
+        months later, in 1871, at a New Year masquerade ball, Christine and Raoul
+        announce
+      score: 0.755859375
+      title: The Phantom of the Opera (2004 film)
+    - content: refusing to play with him and storms out to find a bar, leaving Christine
+        to explain his behavior to their son ("Look With Your Heart"). When Gustave
+        goes to bed, the Phantom enters and reveals to a stunned Christine that it
+        was he who summoned her to sing at Phantasma. Initially outraged, Christine
+        eventually succumbs to the memory of a clandestine evening the two shared
+        before she was married. As they recall their one night of passion, it is revealed
+        that Christine was prepared to abandon Raoul for the Phantom, but awoke in
+        the morning to find herself alone. The
+      score: 0.75439453125
+      title: Love Never Dies (musical)
+    - content: "his own hideous visage. Richard has heard that the only way to kill\
+        \ the Phantom is to destroy his music. After hearing of Harrison's murder,\
+        \ Christine meets Richard at a masquerade ball and begs him to take her away.\
+        \ She fears the Phantom and really loves Richard. Erik, disguised as Red Death,\
+        \ witnesses this exchange and becomes enraged. He decapitates Carlotta, causing\
+        \ a mayhem, and kidnaps Christine. Hawkins, Richard, and the rat catcher (Yehuda\
+        \ Efroni), whom Destler has been bribing in the past, go quickly in pursuit.\
+        \ Back in the Phantom\u2019s lair, an enraged Destler attempts to rape Christine,\
+        \ but"
+      score: 0.75341796875
+      title: The Phantom of the Opera (1989 film)
+    - content: and watching for the Phantom, "Don Juan Triumphant" premieres with
+        Christine and Piangi singing the lead roles. During Don Juan's and Aminta's
+        duet, Christine comes to the sudden realization that the Phantom has somehow
+        replaced Piangi ("Don Juan Triumphant/The Point of No Return"). Mimicking
+        Raoul's vow of devotion on the rooftop, the Phantom once again expresses his
+        love for Christine and forces his ring onto her finger. Christine rips off
+        his mask, showing his horrifically deformed face to the shocked audience.
+        Exposed, the Phantom hurriedly drags Christine off the stage and back to his
+        lair. Piangi's garroted body is revealed
+      score: 0.75146484375
+      title: The Phantom of the Opera (1986 musical)
+    - content: "into his underground chambers, just as rats are killed whenever they\
+        \ venture above ground. The Phantom (Julian Sands) falls in love with the\
+        \ young opera singer Christine Daa\xE9 (Asia Argento), while she sings alone\
+        \ on stage one night. He appears before her and tells her that her voice fills\
+        \ his heart with light. After leaving, he speaks to her using telepathy and\
+        \ the two begin a romantic relationship. The aristocratic Baron Raoul De Chagny\
+        \ (Andrea Di Stefano) has also fallen in love with Christine, though at first\
+        \ Christine offers him only a platonic relationship. Later, she ruminates\
+        \ that she may"
+      score: 0.75146484375
+      title: The Phantom of the Opera (1998 film)
+    meta:
+      dataset: ASQA
+    question: Who does christine end up with in the phantom of the opera?
+  metadata:
+    dataset: ASQA
+    model_name: openai/gpt-4o
+    retrieved_contexts:
+    - to Christine - he bargains that he will free Raoul if she agrees to stay with
+      him forever; if she refuses, Raoul will die. Christine, heartbroken, tells the
+      Phantom that it is his soul that is deformed, not his face. As the Phantom and
+      Raoul both plead to her, Christine mournfully wonders what kind of life the
+      Phantom has known. She tells the Phantom that he is not alone and kisses him,
+      showing him compassion. The Phantom, having experienced kindness, at last, understands
+      that he cannot compel Christine to love him. He sets them both free, telling
+      them to forget
+    - is able to convey to her the misery he has endured throughout his life and the
+      hope he finally felt for love. Upon its completion, Erik originally plans to
+      go to his bed (which is a coffin) and "never wake up", but by the final chapters
+      of the novel, during which Erik kidnaps Christine right from the stage during
+      a performance, Erik expresses his wish to marry Christine and live a comfortable
+      bourgeois life after his work has been completed. He has stored a massive amount
+      of gunpowder under the Opera, and, should she refuse his offer, plans to detonate
+    - "Gerard Butler and Emmy Rossum as the Phantom and Christine. Originally, there\
+      \ was already a filming based on the musical in the early 1990s, with the main\
+      \ actors of the premiere: Michael Crawford as the phantom and Sarah Brightman\
+      \ as Christine. Brightman was married to Lloyd Webber at the time, but shortly\
+      \ before the planned pre-production the marriage was broken and the filming\
+      \ was canceled. Several researchers claim the character Christine Daa\xE9 was\
+      \ based upon the real-life Swedish-born opera star Christina Nilsson, also known\
+      \ as Kristina Nilsson or Christine Nilsson. This claim is unverified by any\
+      \ official source, but it"
+    - he unthinkingly mentions Christine, Meg becomes enraged and accidentally fires
+      the gun, shooting Christine. The Phantom rushes to Christine and orders Madame
+      Giry to go for help while Meg looks on in stunned horror at what she had done.
+      Christine reveals to Gustave that the Phantom is his real father and she tells
+      the Phantom that her love for him will never die. The Phantom and Christine
+      share a final kiss and she dies in his arms. The Phantom has Meg hold Christine's
+      body as he moves to comfort Gustave, who unmasks him without fear. Ten years
+      after the events
+    - back, but Raoul intervenes. Raoul and the managers plot to capture the Phantom
+      during his opera. The Phantom murders Carlotta's lover, Ubaldo Piangi, and takes
+      his place as the male lead to sing opposite Christine. During their passionate
+      duet, Christine unmasks the Phantom, revealing his deformities to the horrified
+      audience. The two escape to the catacombs, bringing down the chandelier, as
+      a mob forms to hunt the Phantom down. Giry leads Raoul down to the catacombs
+      to rescue Christine. The Phantom has Christine wear a wedding dress and proposes
+      marriage. Christine admits she does not fear the Phantom for his
+    solve_method: use-rag
+    solve_time: 2.795616865158081
