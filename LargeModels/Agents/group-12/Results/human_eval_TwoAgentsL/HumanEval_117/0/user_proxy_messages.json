@@ -1,0 +1,19 @@
+{
+    "assistant": [
+        {
+            "content": "\nThe following python code imports the `run_tests(candidate)` function from my_tests.py, and runs\nit on the function `select_words`. This will run a set of automated unit tests to verify the\ncorrect implementation of `select_words`. However, `select_words` is only partially\nimplemented in the code below. Complete the implementation of `select_words` and output\na new stand-alone code block that contains everything needed to run the tests, including: importing\n`my_tests`, calling `run_tests(select_words)`, as well as select_words's complete definition,\nsuch that this code block can be run directly in Python.\n\n```python\nfrom my_tests import run_tests\n\n\ndef select_words(s, n):\n    \"\"\"Given a string s and a natural number n, you have been tasked to implement \n    a function that returns a list of all words from string s that contain exactly \n    n consonants, in order these words appear in the string s.\n    If the string s is empty then the function should return an empty list.\n    Note: you may assume the input string contains only letters and spaces.\n    Examples:\n    select_words(\"Mary had a little lamb\", 4) ==> [\"little\"]\n    select_words(\"Mary had a little lamb\", 3) ==> [\"Mary\", \"lamb\"]\n    select_words(\"simple white space\", 2) ==> []\n    select_words(\"Hello world\", 4) ==> [\"world\"]\n    select_words(\"Uncle sam\", 3) ==> [\"Uncle\"]\n    \"\"\"\n\n\n\n# Run the unit tests\nrun_tests(select_words)\n```\n",
+            "role": "assistant",
+            "name": "user_proxy"
+        },
+        {
+            "content": "```python\nfrom my_tests import run_tests\n\n\ndef is_consonant(char):\n    return char.lower() not in \"aeiou\"\n\n\ndef select_words(s, n):\n    \"\"\"Given a string s and a natural number n, you have been tasked to implement \n    a function that returns a list of all words from string s that contain exactly \n    n consonants, in order these words appear in the string s.\n    If the string s is empty then the function should return an empty list.\n    Note: you may assume the input string contains only letters and spaces.\n    Examples:\n    select_words(\"Mary had a little lamb\", 4) ==> [\"little\"]\n    select_words(\"Mary had a little lamb\", 3) ==> [\"Mary\", \"lamb\"]\n    select_words(\"simple white space\", 2) ==> []\n    select_words(\"Hello world\", 4) ==> [\"world\"]\n    select_words(\"Uncle sam\", 3) ==> [\"Uncle\"]\n    \"\"\"\n    words = s.split()\n    result = []\n\n    for word in words:\n        if word.strip():\n            consonant_count = sum(is_consonant(char) for char in word)\n            if consonant_count == n:\n                result.append(word)\n\n    return result\n\n\n# Run the unit tests\nrun_tests(select_words)\n```",
+            "role": "user",
+            "name": "assistant"
+        },
+        {
+            "content": "exitcode: 0 (execution succeeded)\nCode output: \nALL TESTS PASSED !#!#\nTERMINATE\n",
+            "role": "assistant",
+            "name": "user_proxy"
+        }
+    ]
+}

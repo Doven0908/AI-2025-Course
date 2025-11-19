@@ -1,0 +1,23 @@
+# Disable ruff linter for template files
+# ruff: noqa: F821 E722
+
+
+
+METADATA = {}
+
+
+def check(candidate):
+    assert candidate([]) == []
+    assert candidate([3, 2, 1]) == [4, 3, 2]
+    assert candidate([5, 2, 5, 2, 3, 3, 9, 0, 123]) == [6, 3, 6, 3, 4, 4, 10, 1, 124]
+
+
+
+
+def run_tests(candidate):
+    try:
+        check(candidate)
+        # We can search for this string in the output
+        print("ALL TESTS PASSED !#!#\nTERMINATE")
+    except:
+        print("SOME TESTS FAILED - TRY AGAIN !#!#")

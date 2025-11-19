@@ -1,0 +1,19 @@
+{
+    "user_proxy": [
+        {
+            "content": "\nThe following python code imports the `run_tests(candidate)` function from my_tests.py, and runs\nit on the function `is_bored`. This will run a set of automated unit tests to verify the\ncorrect implementation of `is_bored`. However, `is_bored` is only partially\nimplemented in the code below. Complete the implementation of `is_bored` and output\na new stand-alone code block that contains everything needed to run the tests, including: importing\n`my_tests`, calling `run_tests(is_bored)`, as well as is_bored's complete definition,\nsuch that this code block can be run directly in Python.\n\n```python\nfrom my_tests import run_tests\n\n\ndef is_bored(S):\n    \"\"\"\n    You'll be given a string of words, and your task is to count the number\n    of boredoms. A boredom is a sentence that starts with the word \"I\".\n    Sentences are delimited by '.', '?' or '!'.\n   \n    For example:\n    >>> is_bored(\"Hello world\")\n    0\n    >>> is_bored(\"The sky is blue. The sun is shining. I love this weather\")\n    1\n    \"\"\"\n\n\n\n# Run the unit tests\nrun_tests(is_bored)\n```\n",
+            "role": "user",
+            "name": "user_proxy"
+        },
+        {
+            "content": "```python\nfrom my_tests import run_tests\n\n\ndef is_bored(S):\n    \"\"\"\n    You'll be given a string of words, and your task is to count the number\n    of boredoms. A boredom is a sentence that starts with the word \"I\".\n    Sentences are delimited by '.' '?' or '!'.\n   \n    For example:\n    >>> is_bored(\"Hello world\")\n    0\n    >>> is_bored(\"The sky is blue. The sun is shining. I love this weather\")\n    1\n    \"\"\"\n    import re\n    sentences = re.split(r'[.?!] ', S)\n    boredom_count = sum(sentence.startswith('I ') for sentence in sentences if sentence)\n    return boredom_count\n\n\n# Run the unit tests\nrun_tests(is_bored)\n```",
+            "role": "assistant",
+            "name": "assistant"
+        },
+        {
+            "content": "exitcode: 0 (execution succeeded)\nCode output: \nALL TESTS PASSED !#!#\nTERMINATE\n",
+            "role": "user",
+            "name": "user_proxy"
+        }
+    ]
+}
