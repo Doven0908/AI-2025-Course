@@ -1,0 +1,32 @@
+# humaneval_local.yaml
+# 复用内置 humaneval_instruct 的全部评测逻辑（包含 pass@1 的代码执行）
+include: /home/lijiakun25/ai_homework/lm-evaluation-harness/lm_eval/tasks/humaneval/humaneval_instruct.yaml
+
+# 改一个自己的任务名
+task: humaneval_local
+
+# 把数据源改成本地 parquet
+dataset_path: parquet
+dataset_name: null
+dataset_kwargs:
+  data_files: /home/lijiakun25/models/datasets/humaneval/openai_humaneval/test-00000-of-00001.parquet
+
+# parquet 没有官方 split 概念，这里把 train 当作 test split 用
+test_split: train
+generation_kwargs:
+  until:
+    - "\nclass"
+    - "\ndef"
+    - "\n#"
+    - "\nif"
+    - "\nprint"
+  max_gen_toks: 1024
+  do_sample: false
+
+doc_to_text: |
+  You are a helpful coding assistant.
+  Think carefully about edge cases and plan the solution internally.
+  Then OUTPUT ONLY valid Python code that completes the function `{{ entry_point }}`.
+  Do not print anything. Do not include explanations.
+  ```python
+  {{ prompt }}

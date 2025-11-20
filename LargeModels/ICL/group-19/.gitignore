@@ -1,0 +1,38 @@
+# Ignore large artifacts & datasets
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+*.h5
+*.onnx
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.gz
+*.pkl
+*.jsonl
+*.jar
+*.pdf
+
+# Ignore caches & generated dirs
+__pycache__/
+*.egg-info/
+*/cache/
+*/cached/
+datasets/
+data/
+
+# Ignore notebooks if large (keep small ones manually by force add if needed)
+*.ipynb
+
+# Images (keep only if explicitly added)
+*.jpg
+*.jpeg
+*.png
+
+# Backup / temp
+*.bak
+*.swp
+*.tmp
+

@@ -1,0 +1,30 @@
+# 复用官方 MMLU 模板（提示词/选项格式/默认指标等）
+include: /home/lijiakun25/ai_homework/lm-evaluation-harness/lm_eval/tasks/mmlu/default/_default_template_yaml
+
+task: mmlu_local
+
+# 用本地 parquet（按你的目录结构）
+dataset_path: parquet
+dataset_name: null
+dataset_kwargs:
+  data_files:
+    dev:  "/home/lijiakun25/models/datasets/mmlu/*/dev-*.parquet"
+    test: "/home/lijiakun25/models/datasets/mmlu/*/test-*.parquet"
+
+fewshot_split: dev
+test_split: test
+
+# 声明任务类型（模板里一般已给；这里显式再写更清晰）
+output_type: multiple_choice
+
+# 关键点：本地数据没有官方预处理，必须把 gold 映射为 0/1/2/3
+doc_to_choice: ["A", "B", "C", "D"]
+doc_to_target: answer
+
+
+metric_list:
+  - metric: acc
+  - metric: acc_norm
+
+metadata:
+  version: 1

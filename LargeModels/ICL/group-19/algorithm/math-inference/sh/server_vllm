@@ -1,0 +1,115 @@
+export NCCL_P2P_DISABLE=1
+CUDA_VISIBLE_DEVICES=0,1 \
+python -m vllm.entrypoints.openai.api_server \
+  --model /home/lijiakun25/models/Qwen3-8b \
+  --tensor-parallel-size 2 \
+  --host 0.0.0.0 \
+  --port 8000 \
+  --dtype half \
+  --max-model-len 32768 \
+  --max-num-batched-tokens 32768 \
+  --trust-remote-code \
+  --disable-custom-all-reduce \
+  --enforce-eager \
+  --enable-chunked-prefill=False
+
+export NCCL_P2P_DISABLE=1
+CUDA_VISIBLE_DEVICES=2,3 \
+python -m vllm.entrypoints.openai.api_server \
+  --model /home/lijiakun25/models/Qwen3-8b \
+  --tensor-parallel-size 2 \
+  --host 0.0.0.0 \
+  --port 8001 \
+  --dtype half \
+  --max-model-len 32768 \
+  --max-num-batched-tokens 32768 \
+  --trust-remote-code \
+  --disable-custom-all-reduce \
+  --enforce-eager \
+  --enable-chunked-prefill=False
+
+export NCCL_P2P_DISABLE=1
+CUDA_VISIBLE_DEVICES=4,5 \
+python -m vllm.entrypoints.openai.api_server \
+  --model /home/lijiakun25/models/Qwen3-8b \
+  --tensor-parallel-size 2 \
+  --host 0.0.0.0 \
+  --port 8002 \
+  --dtype half \
+  --max-model-len 32768 \
+  --max-num-batched-tokens 32768 \
+  --trust-remote-code \
+  --disable-custom-all-reduce \
+  --enforce-eager \
+  --enable-chunked-prefill=False
+
+
+export NCCL_P2P_DISABLE=1
+CUDA_VISIBLE_DEVICES=6,7 \
+python -m vllm.entrypoints.openai.api_server \
+  --model /home/lijiakun25/models/Qwen3-8b \
+  --tensor-parallel-size 2 \
+  --host 0.0.0.0 \
+  --port 8003 \
+  --dtype half \
+  --max-model-len 32768 \
+  --max-num-batched-tokens 32768 \
+  --trust-remote-code \
+  --disable-custom-all-reduce \
+  --enforce-eager \
+  --enable-chunked-prefill=False
+  
+
+CUDA_VISIBLE_DEVICES=3 \
+python -m vllm.entrypoints.openai.api_server \
+  --model /home/lijiakun25/models/Qwen3-8b \
+  --tensor-parallel-size 1 \
+  --host 0.0.0.0 \
+  --port 8003 \
+  --max-num-batched-tokens 32768 \
+  --trust-remote-code \
+  --dtype half \
+  --disable-custom-all-reduce
+
+CUDA_VISIBLE_DEVICES=0 \
+python -m vllm.entrypoints.openai.api_server \
+  --model /home/lijiakun25/models/Qwen2.5-3b-Instruct \
+  --tensor-parallel-size 1 \
+  --host 0.0.0.0 \
+  --port 8000 \
+  --max-num-batched-tokens 32768 \
+  --trust-remote-code \
+  --dtype half \
+  --disable-custom-all-reduce
+
+
+
+# 1. question.....(wait)solution1.....(let me think ...)solution2.....(but,therefore...)solution3....(thousands of tokens)
+# 2. model split --> jsonl {}（拆分） format model_split if not match:
+# 3. 
+
+
+# plan...
+# input return {ans} step?
+# <think>.....<\\think>
+
+# complex probelm
+# quesiton subquestion 
+
+# question ..... solution1(yes) aaaaa
+# question aaaaaa cccc.(yes or no)dddd
+# quesiton ddddd
+
+
+# 划分准确，划分step比较少
+
+# 划分太多，而且不准确
+# root(output --> 1 solution, )
+
+# early_stop + split
+
+# sudo pip install trl
+# sudo pip install peft
+# sudo pip install swandlab
+# swandlab login
+# 8DNKlSI7WbQljStxJcihJ
