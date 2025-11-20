@@ -1,2 +1,0 @@
-Timestamp: 2025-11-06T19:23:46.016745
-autogen-agentchat version: 0.10.0

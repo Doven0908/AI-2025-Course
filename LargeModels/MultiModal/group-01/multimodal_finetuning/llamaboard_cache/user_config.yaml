@@ -1,6 +1,0 @@
-cache_dir: null
-hub_name: huggingface
-lang: zh
-last_model: Qwen3-VL-8B-Thinking
-path_dict:
-  Qwen3-VL-8B-Thinking: /home/remote1/lvshuyang/Models/Qwen/Qwen3-VL-8B-Thinking

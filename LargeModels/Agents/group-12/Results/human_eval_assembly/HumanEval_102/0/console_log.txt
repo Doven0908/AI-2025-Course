@@ -1,7 +1,0 @@
-RUN.SH STARTING !#!#
-AUTOGEN_TESTBED_SETTING: [Docker]
-Collecting pyautogen (from -r requirements.txt (line 1))
-  Downloading pyautogen-0.10.0-py3-none-any.whl.metadata (2.6 kB)
-Collecting autogen-agentchat>=0.6.4 (from pyautogen->-r requirements.txt (line 1))
-  Using cached autogen_agentchat-0.7.5-py3-none-any.whl.metadata (2.5 kB)
-Requirement already satisfied: autogen-core==0.7.5 in /usr/local/lib/python3.11/site-packages (from autogen-agentchat>=0.6.4->pyautogen->-r requirements.txt (line 1)) (0.7.5)

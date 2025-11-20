@@ -1,9 +1,0 @@
-openai
-transformers
-torch
-streamlit
-pandas
-numpy
-plotly
-scikit-learn
-requests

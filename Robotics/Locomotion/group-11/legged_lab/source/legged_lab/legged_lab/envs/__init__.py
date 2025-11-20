@@ -1,2 +1,0 @@
-from .manager_based_amp_env import ManagerBasedAmpEnv
-from .manager_based_amp_env_cfg import ManagerBasedAmpEnvCfg
