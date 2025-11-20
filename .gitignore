@@ -3,3 +3,20 @@
 .DS_Store
 __pycache__
 *.pth
+
+# Large binary / model artifacts
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+*.h5
+*.onnx
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.gz
+
+# Large dataset / document PDFs (ignore group-16 pdf docs)
+LargeModels/RAG/group-16/code/data_preprocess/pdf/*.pdf
+
