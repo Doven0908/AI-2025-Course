@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="card">
+    <h1>欢迎来到 RAG 问答系统</h1>
+    <p>该 Demo 提供两种检索/重排策略与基于 RAGAS 的自动评估，帮助你观察检索增强生成（RAG）在不同策略下的表现。</p>
+</section>
+
+<section class="card">
+    <h2>检索策略对比</h2>
+    <div class="variant-grid">
+        {% for key, meta in variants.items() %}
+            <article class="variant-card">
+                <h3>{{ meta.label }}</h3>
+                <p>{{ meta.description }}</p>
+                {% if meta.available %}
+                    <a class="btn" href="{{ url_for('qa_page', variant=key) }}">进入体验</a>
+                {% else %}
+                    <p class="variant-disabled">暂不可用：{{ meta.error or "请检查依赖配置" }}</p>
+                {% endif %}
+            </article>
+        {% endfor %}
+    </div>
+</section>
+
+<section class="card">
+    <h2>误差归因与评估</h2>
+    <p>
+        使用 RAGAS 对指定问题集合进行 <strong>可信度</strong>、<strong>回答相关性</strong>、
+        <strong>上下文精确度</strong> 与 <strong>上下文召回</strong> 等指标评估，
+        并结合在线延迟指标和引用片段，完成对失败案例的快速定位与分析。
+    </p>
+    <a class="btn" href="{{ url_for('ragas_page') }}">查看 RAGAS 评估</a>
+</section>
+{% endblock %}

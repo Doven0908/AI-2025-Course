@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="card">
+    <h1>RAGAS 自动评估</h1>
+    <p>
+        基于 <strong>RAGAS</strong> 的可证性评估，自动衡量回答与知识库之间的一致性与相关性，
+        帮助定位检索、重排与生成环节的潜在问题。
+    </p>
+</section>
+
+<section class="card">
+    <h2>⚙️ 评估控制</h2>
+    <div class="ragas-controls">
+        <label for="ragas-variant">选择检索策略</label>
+        <select id="ragas-variant">
+            {% for key, meta in variants.items() %}
+                <option value="{{ key }}">{{ meta.label }}</option>
+            {% endfor %}
+        </select>
+        <button id="ragas-run">运行评估</button>
+    </div>
+    <p class="hint">
+        执行评估会调用 LLM 进行打分，请确保已经配置 API KEY。结果会缓存，可随时刷新查看。
+    </p>
+</section>
+
+<section class="card">
+    <h2>🗂️ 评估数据集</h2>
+    <ul id="ragas-dataset" class="dataset-list">
+        <li>加载中...</li>
+    </ul>
+</section>
+
+<section class="card">
+    <h2>📈 最新评估结果</h2>
+    <div id="ragas-summary" class="ragas-summary">
+        <p>尚未加载结果</p>
+    </div>
+    <table id="ragas-metrics-table" class="ragas-metrics-table hidden">
+        <thead>
+            <tr>
+                <th>指标</th>
+                <th>得分</th>
+                <th>置信区间</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <h3>样本详情</h3>
+    <div id="ragas-samples" class="ragas-samples">
+        <p>暂无样本数据</p>
+    </div>
+</section>
+
+<script>
+window.RAGAS_CONFIG = {
+    datasetUrl: "{{ url_for('ragas_dataset') }}",
+    resultsUrl: "{{ url_for('ragas_results', variant='__placeholder__') }}",
+    runUrl: "{{ url_for('ragas_run', variant='__placeholder__') }}",
+    variants: {{ variants | tojson }},
+};
+</script>
+<script src="{{ url_for('static', path='ragas.js') }}"></script>
+{% endblock %}

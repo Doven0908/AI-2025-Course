@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or "RAG 问答系统" }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='style.css') }}">
+</head>
+<body>
+    <header class="site-header">
+        <div class="site-header__inner">
+            <div class="site-header__brand">
+                <span>RAG 问答系统</span>
+            </div>
+            <nav class="site-nav">
+                <a href="{{ url_for('root') }}">首页</a>
+                {% if variants %}
+                    {% for key, meta in variants.items() %}
+                        {% if meta.available %}
+                            <a href="{{ url_for('qa_page', variant=key) }}">{{ meta.label }}</a>
+                        {% endif %}
+                    {% endfor %}
+                {% else %}
+                    <a href="{{ url_for('qa_page', variant='faiss') }}">FAISS 检索</a>
+                {% endif %}
+                <a href="{{ url_for('ragas_page') }}">RAGAS 评估</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="site-footer">
+        <small>📚 进阶演示：检索对比 · 评估 · 误差归因</small>
+    </footer>
+</body>
+</html>

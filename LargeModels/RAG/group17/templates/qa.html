@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="card">
+    <h1>{{ variant_meta.label or ("检索器：" + variant) }}</h1>
+    <p>{{ variant_meta.description or "体验该检索/重排策略的问答表现。" }}</p>
+</section>
+
+<section class="card">
+    <h2>📝 提问</h2>
+    <form id="qa-form">
+        <label for="qa-query">问题</label>
+        <textarea id="qa-query" name="query" rows="4" placeholder="请输入您的问题..." required></textarea>
+
+        <label for="qa-topk">Top-K</label>
+        <input type="number" id="qa-topk" name="top_k" value="5" min="1" max="20">
+
+        <button type="submit" id="qa-submit">发送请求</button>
+    </form>
+</section>
+
+<section class="card">
+    <h2>💡 回答</h2>
+    <div id="qa-answer" class="answer-placeholder">等待提问...</div>
+    <div id="qa-citations"></div>
+</section>
+
+<section class="card">
+    <h2>🧪 RAGAS 评估</h2>
+    <p class="hint">先完成问答，再点击按钮触发评估。可选地提供参考答案以计算相关性/召回。</p>
+    <textarea
+        id="qa-reference"
+        name="reference"
+        rows="3"
+        placeholder="如需对生成结果进行相关性/召回评估，可在此粘贴参考答案。留空则使用系统自动生成。"
+    ></textarea>
+    <div class="evaluate-actions">
+        <button id="qa-run-eval" disabled>运行 RAGAS 评估</button>
+    </div>
+    <div id="qa-evaluation" class="evaluation-placeholder">
+        生成回答后可执行评估。
+    </div>
+</section>
+
+<section class="card">
+    <h2>📊 在线指标</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>时间</th>
+                <th>查询</th>
+                <th>总延迟(ms)</th>
+                <th>检索(ms)</th>
+                <th>生成(ms)</th>
+                <th>Top-k</th>
+            </tr>
+        </thead>
+        <tbody id="qa-metrics-body">
+            <tr>
+                <td colspan="6" class="table-empty">暂无数据</td>
+            </tr>
+        </tbody>
+    </table>
+</section>
+
+<script>
+window.QA_CONFIG = {
+    variant: "{{ variant }}",
+    askUrl: "{{ url_for('ask_variant', variant=variant) }}",
+    metricsUrl: "{{ url_for('metrics_variant', variant=variant) }}",
+    variantLabel: "{{ variant_meta.label or variant }}",
+    evaluateUrl: "{{ url_for('ragas_evaluate') }}",
+};
+</script>
+<script src="{{ url_for('static', path='qa.js') }}"></script>
+{% endblock %}
